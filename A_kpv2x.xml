@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e>
+    <lg>
+      <l pos="A">абажура</l>
+      <stg>
+        <st Contlex="A_">абажура</st>
+      </stg>
+      <compg type="drv" drv="N:Suf»A">
+	<comp ord="E1" pos="N">абажур</comp>
+	<comp ord="E2" pos="Suf" type="Der/а" drv="N»A"/>
+      </compg>
+    </lg>
+    <mg relId="0">
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="A">kaihtimella varustettu</t>
+      </tg>
+      <tg xml:lang="rus">
+        <t pos="A">с абажуром</t>
+      </tg>
+      <xg>
+        <x>абажура лампа</x>
+        <xt xml:lang="fin">varjostimella varustettu lamppu</xt>
+        <xt xml:lang="rus">лампа с абажуром</xt>
+      </xg>
+    </mg>
+  </e>
+</r>

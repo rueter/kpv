@@ -15,4 +15,48 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Мезӧс</l>
+     <stg>
+       <st Contlex="N_">Мезӧс</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <rg><r dialect="PS" range_space="dialect"/></rg>
+     <tg xml:lang="eng">
+       <t pos="N">Lord</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">Herra</t>
+       <t pos="N">Vapahtaja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тымсер</l>
+     <stg>
+       <st Contlex="N_">Тымсер</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">Tymser (kylä Kulömdinin rajonissa)</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="N" type="Prop">Утка туй</l>
+     <stg>
+       <st Contlex="PROP_">Утка туй</st>
+     </stg>
+   </lg>
+   <mg relId="0" domain="astronomy">
+     <tg xml:lang="rus">
+       <t pos="N">Млечный путь</t>
+     </tg>
+   </mg>
+</e>
 </r>
