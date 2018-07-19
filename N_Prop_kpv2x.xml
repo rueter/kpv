@@ -59,4 +59,20 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Скандинавияса кӧдж</l>
+     <stg>
+       <st Contlex="N_">Скандинавияса кӧдж</st>
+     </stg>
+   </lg>
+   <mg relId="0" sem_type="toponym">
+     <tg xml:lang="eng">
+       <t pos="N">Scandinavian Peninsula</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">Skandinavian niemimaa</t>
+     </tg>
+   </mg>
+</e>
 </r>

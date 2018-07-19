@@ -25,4 +25,51 @@
       </xg>
     </mg>
   </e>
+  <e>
+      <lg>
+         <l pos="A">бобулӧсь</l>
+         <stg>
+            <st Contlex="A_">бобулӧсь</st>
+         </stg>
+      <compg type="drv" drv="N:Suf»A">
+        <comp ord="E1" pos="N">бобув</comp>
+        <comp ord="E2" pos="Suf" type="Der/osj" drv="N»A"/>
+      </compg>
+      </lg>
+      <mg relId="0">
+         <defNative/>
+         <tg xml:lang="eng">
+            <t pos="A">full of butterflies</t>
+         </tg>
+         <xg>
+            <x>луныс лои бобулӧсь</x>
+            <xt xml:lang="fin">Päivällä oli paljon perhosia.</xt>
+            <xt xml:lang="rus">днём появилось много бабочек</xt>
+         </xg>
+      </mg>
+   </e>
+  <e>
+   <lg t1="З" t2="А" t3="Б" uri="16489-zaborit-m" id="16489">
+     <l pos="A">заборитӧм</l>
+       <l_var type="molodtsov-cyr">заборітӧм</l_var>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">заборитӧм</st>
+     </stg>
+     <compg drv="V:Suf»A" type="Der">
+       <comp ms="V_Inf_Stem" ord="E1" pos="V">заборитны</comp>
+       <comp ord="E2" pos="Suf" type="Der/NomAct" drv="V»N"/> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">загороженный</t>
+       <t pos="N">перегороженный</t>
+     </tg>
+     <xg>
+       <x>заборитӧм му</x>
+       <xt xml:lang="rus">перегороженный участок</xt>
+     </xg>
+   </mg>
+</e>
+
 </r>
