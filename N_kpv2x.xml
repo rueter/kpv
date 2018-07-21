@@ -39,6 +39,7 @@
        <x>бумага абажур</x>
        <xt xml:lang="rus">бумажный абажур</xt>
      </xg>
+   </mg>
    </e>
 <e>
    <lg t1="А" t2="Б" t3="А" uri="4-abaij" id="4">
@@ -1378,4 +1379,137 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="П" t2="О" t3="Н" uri="41163-ponkok" id="41163">
+     <l hid="Hom1" pos="N">понкок</l>
+       <l_var type="molodtsov-cyr">понкок</l_var>
+     <stg>
+       <st Contlex="N_">понкок</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <domain domain="botany"/>
+     <tg xml:lang="rus">
+       <t>манжетка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="О" t3="Н" uri="41163-ponkok" id="41163">
+     <l hid="Hom2" pos="N">понкок</l>
+       <l_var type="molodtsov-cyr">понкок</l_var>
+     <stg>
+       <st Contlex="N_">понкок</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <rg><r range_space="dialect"/></rg>
+     <tg xml:lang="rus">
+       <t pos="N">распорка</t>
+       <re>из двух скрещивающихся кольев в изгороди</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="О" t3="Н" uri="41165-ponkol-k" id="41165">
+     <l pos="N">понкольк</l>
+       <l_var type="molodtsov-cyr">понкоԉк</l_var>
+     <stg>
+       <st Contlex="N_">понкольк</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s relId="2" s_type="see">понпуш</s></sg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="У" uri="38187-tuvolanin" id="38187">
+     <l pos="N">ӧтуволанін</l>
+       <l_var type="molodtsov-cyr">ӧтуволанін</l_var>
+     <stg>
+       <st Contlex="N_">ӧтуволанін</st>
+     </stg>
+     <compg drv="Prc:Suf»N" type="drv">
+       <comp ms="" ord="E1" pos="">ӧтуволан</comp>
+       <comp drv="»N" ord="E2" pos="Suf" type="Der/Ін"/> </compg>
+   </lg>
+   <mg> <range rangeTemp="neologism"/>
+     <tg xml:lang="rus">
+       <t pos="N">общежитие</t>
+     </tg>
+     <xg>
+       <x>том йӧзлӧн ӧтуволанін</x>
+       <xt xml:lang="rus">общежитие молодёжи</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="У" uri="38194-tuvtch-m" id="38194">
+     <l pos="N">ӧтувтчӧм</l>
+       <l_var type="molodtsov-cyr">ӧтувччӧм</l_var>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">ӧтувтчӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">union</t>
+       <t pos="N">unification</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">yhdistyminen</t>
+       <t pos="N">yhdistäminen</t>
+       <t pos="N">yhdistys</t>
+       <t pos="N">yhtymä</t>
+       <t pos="N">liittoutuma</t>
+       <t pos="N">liitto</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">объединение || объединившийся</t>
+     </tg>
+     <xg>
+       <x>гражданалӧн ӧтувтчӧм вылӧ право</x>
+       <xt xml:lang="rus">право граждан на объединение (в профсоюзы <acronym title="и тому подобное">и т.п.</acronym>)</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="N">союз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="У" uri="38189-tuvt-m" id="38189">
+     <l pos="N">ӧтувтӧм</l>
+       <l_var type="molodtsov-cyr">ӧтувтӧм</l_var>
+     <stg>
+       <st Contlex="N_">ӧтувтӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>объединение || объединённый</t>
+     </tg>
+     <xg>
+       <x>йӧзӧс ӧтувтӧм</x>
+       <xt xml:lang="rus">объединение людей</xt>
+     </xg>
+     <xg>
+       <x>ӧтувтӧм касса</x>
+       <xt xml:lang="rus">объединённая касса</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>обобществление || обобществлённый</t>
+     </tg>
+     <xg>
+       <x>видз-му ӧтувтӧм</x>
+       <xt xml:lang="rus">обобществление земли</xt>
+     </xg>
+     <xg>
+       <x>ӧтувтӧм пода</x>
+       <xt xml:lang="rus">обобществлённый скот</xt>
+     </xg>
+   </mg>
+</e>
+
 </r>

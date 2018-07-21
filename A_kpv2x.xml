@@ -71,5 +71,90 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="A">ӧтувтчан</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-AN">ӧтувтчан</st>
+     </stg> <drv drvType="Der/ан" lemmaID="ӧтувтчыны_V"/>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">объединительный</t>
+     </tg>
+     <xg>
+       <x>ӧтувтчан съезд</x>
+       <xt xml:lang="rus">объединительный съезд</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӧтувъя</l>
+     <stg>
+       <st Contlex="A_">ӧтувъя</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="A">common</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">yhteinen</t>
+       <t pos="A">yhteis-</t>
+       <t pos="A">yhteinen</t>
+       <t pos="A">yhteis-</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">общий, совместный</t>
+     </tg>
+     <xg>
+       <x>ӧтувъя кыв</x>
+       <xt xml:lang="rus">общий язык</xt>
+     </xg>
+     <xg>
+       <x>ӧтувъя кывкутӧм</x>
+       <xt xml:lang="rus">солидарная ответственность</xt>
+     </xg>
+     <xg>
+       <x>ӧтувъя пывсян</x>
+       <xt xml:lang="rus">общая баня</xt>
+     </xg>
+     <xg>
+       <x>ӧтувъя сёрни</x>
+       <xt xml:lang="rus">общий разговор</xt>
+     </xg>
+     <xg>
+       <x>ӧтувъя удж</x>
+       <xt xml:lang="rus">общее дело</xt>
+     </xg>
+     <xg genreType="saying">
+       <x>ӧтувъя вынӧн быд лёкысь мынан</x>
+       <xt xml:lang="rus">для коллектива любая беда нипочём</xt>
+       <xt tType="literal" xml:lang="rus">общими усилиями избежишь любой беды</xt>
+     </xg>
+     <xg genreType="saying">
+       <x>ӧтувъя уджыд ёнджыка содӧ</x>
+       <xt xml:lang="rus">коллективный труд продуктивнее</xt>
+       <xt tType="literal" xml:lang="rus">быстрее прибывает</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">объединённый</t>
+     </tg>
+     <xg>
+       <x>ӧтувъя заседание</x>
+       <xt xml:lang="rus">объединённое заседание</xt>
+     </xg>
+     <xg>
+       <x>ӧтувъя пленум</x>
+       <xt xml:lang="rus">объединённый пленум</xt>
+     </xg>
+   </mg>
+</e>
 
 </r>
