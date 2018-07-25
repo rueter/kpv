@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14236-dorvyv" id="14236">
+     <l pos="Adv">дорвыв</l>
+       <l_var type="molodtsov-cyr">ԁорвыв</l_var>
+     <stg>
+       <st Contlex="ADV_">дорвыв</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">подряд</t>
+       <t pos="Adv">кряду</t>
+     </tg>
+     <xg>
+       <x>вежон дорвыв зэрис</x>
+       <xt xml:lang="rus">в течение недели подряд лил дождь</xt>
+     </xg>
+     <xg>
+       <x>кык во дорвыв</x>
+       <xt xml:lang="rus">два года подряд</xt>
+     </xg>
+     <xg>
+       <x>кыскыштны некымынысь дорвыв</x>
+       <xt xml:lang="rus">потянуть несколько раз кряду</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">сплошь</t>
+       <t pos="A">сплошной</t>
+     </tg>
+     <xg>
+       <x>кымӧръяс дорвыв вевттисны енэжсӧ</x>
+       <xt xml:lang="rus">небо сплошь заволокло тучами</xt>
+     </xg>
+     <xg>
+       <x>дорвыв ӧтувтӧм</x>
+       <xt xml:lang="rus">сплошная коллективизация</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">без исключения, полностью, целиком</t>
+     </tg>
+     <xg>
+       <x>ставсӧ дорвыв</x>
+       <xt xml:lang="rus">всё без исключения</xt>
+     </xg>
+   </mg>
+   <mg relId="3">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">с краю</t>
+     </tg>
+     <xg>
+       <x>вывті дорвыв кӧ босьтан лэчтігад, косаыд ӧдйӧ и ныжмас</x>
+       <xt xml:lang="rus">если косу начнёшь точить с самого краю, она быстро и иступится</xt>
+     </xg>
+   </mg>
+   <mg relId="4">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">по порядку</t>
+     </tg>
+     <xg>
+       <x>эн тэрмась, дорвыв висьтав</x>
+       <xt xml:lang="rus">не торопись, расскажи по порядку</xt>
+     </xg>
+   </mg>
+   <mg relId="5"> <range rangeTemp="neologism"/>
+     <tg xml:lang="rus">
+       <t pos="A">порядковый</t>
+     </tg>
+   </mg>
+</e>
+</r>

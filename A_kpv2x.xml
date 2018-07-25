@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
   <e>
     <lg>
       <l pos="A">абажура</l>
@@ -26,6 +27,51 @@
     </mg>
   </e>
   <e>
+   <lg>
+     <l pos="A">артман</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-AN">артман</st>
+     </stg> <compg drv="»A" type="drv">
+       <comp ms="" ord="E1" pos="V">артмыны</comp>
+       <comp drv="»A" ord="E2" pos="Suf" type="Der/Ан"/> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">налаженный</t>
+       <t pos="A">устроенный</t>
+     </tg>
+     <xg>
+       <x>артман олӧм</x>
+       <xt xml:lang="rus">налаженная жизнь</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="A">артмӧдан</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-AN">артмӧдан</st>
+     </stg> <compg drv="»A" type="drv">
+       <comp ms="" ord="E1" pos="V">артмӧдны</comp>
+       <comp drv="»A" ord="E2" pos="Suf" type="Der/Ан"/> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">образующий</t>
+     </tg>
+     <xg>
+       <x>кыв артмӧдан</x>
+       <xt xml:lang="rus">словообразовательный</xt>
+     </xg>
+     <xg>
+       <x>форма артмӧдан</x>
+       <xt xml:lang="rus">формообразующий</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
       <lg>
          <l pos="A">бобулӧсь</l>
          <stg>
@@ -46,6 +92,72 @@
             <xt xml:lang="fin">Päivällä oli paljon perhosia.</xt>
             <xt xml:lang="rus">днём появилось много бабочек</xt>
          </xg>
+      </mg>
+   </e>
+  <e>
+   <lg t1="В" t2="Е" t3="Ш" uri="6260-veshkyr" id="6260">
+     <l pos="A">вешкыр</l>
+       <l_var type="molodtsov-cyr">вешкыр</l_var>
+     <stg>
+       <st Contlex="A_">вешкыр</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s pos="A" s_type="confer">чукыр</s></sg>
+     <tg xml:lang="fin">
+       <t pos="A">kierossa oleva</t>
+       <t pos="A">kiertoutunut</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="A">перекошенный</t>
+       <t pos="A">скошенный</t>
+       <t pos="A">скорченный</t>
+     </tg>
+     <xg>
+       <x>вешкыр вома</x>
+       <xt xml:lang="fin">kierosuinen</xt>
+       <xt xml:lang="rus">с перекошенным ртом</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="A">вӧлӧсьтувса</l>
+     <stg>
+       <st Contlex="A_">вӧлӧсьтувса</st>
+     </stg>
+     <compg drv="N:N:Suf»A" type="drv">
+       <comp ord="E1" pos="N">вӧлӧсьт</comp>
+       <comp ord="E2" hid="Hom2" pos="N">ув</comp>
+       <comp ord="E3" pos="Suf" type="Der/са"/>
+     </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">волостной</t>
+       </tg>
+     <xg>
+       <x>вӧлӧсьтувса врач</x>
+       <xt xml:lang="rus">волостной врач</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+      <lg>
+         <l pos="A">вӧрзян лыа</l>
+         <stg>
+            <st Contlex="A_">вӧрзян лыа</st>
+         </stg>
+     <compg drv="A:N:Suf»A" type="drv">
+       <comp ord="E1" pos="A">вӧрзян</comp>
+       <comp ord="E2" pos="N">лы</comp>
+       <comp ord="E3" pos="Suf" drv="Der/a">а</comp> </compg>
+      </lg>
+      <mg relId="0">
+         <defNative/>
+         <tg xml:lang="rus">
+            <t pos="A">подвижный</t>
+         </tg>
       </mg>
    </e>
   <e>
@@ -71,7 +183,38 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg>
+     <l pos="A">ордйысян</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-AN">ордйысян</st>
+     </stg> <compg drv="»A" type="drv">
+       <comp ms="" ord="E1" pos="V">ордйысьны</comp>
+       <comp drv="»A" ord="E2" pos="Suf" type="Der/Ан"/> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">предназначенный для соревнований, состязаний</t>
+     </tg>
+     <xg>
+       <x>ордйысян вӧвъяс</x>
+       <xt xml:lang="fin">kilpahevoset</xt>
+       <xt xml:lang="rus">беговые лошади</xt>
+     </xg>
+     <xg>
+       <x>ордйысян пыж</x>
+       <xt xml:lang="fin">kilpavene</xt>
+       <xt xml:lang="rus">гоночная лодка</xt>
+     </xg>
+     <xg>
+       <x>ордйысян условиеяс</x>
+       <xt xml:lang="fin">kilpailuolosuhteet</xt>
+       <xt xml:lang="rus">условия соревнований</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="A">ӧтувтчан</l>
      <stg>
@@ -89,7 +232,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="A">ӧтувъя</l>
      <stg>
@@ -156,5 +299,352 @@
      </xg>
    </mg>
 </e>
-
+  <e>
+   <lg>
+     <l pos="A">ӧшалан</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-AN">ӧшалан</st>
+     </stg> <compg drv="»A" type="drv">
+       <comp ms="" ord="E1" pos="V">ӧшавны</comp>
+       <comp drv="»A" ord="E2" pos="Suf" type="Der/Ан"/> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">висячий</t>
+     </tg>
+     <xg>
+       <x>ӧшалан лампа</x>
+       <xt xml:lang="fin">kattolamppu</xt>
+       <xt xml:lang="rus">висячая лампа</xt>
+     </xg>
+     <xg>
+       <x>ӧшалан томан</x>
+       <xt xml:lang="fin">riippulukko</xt>
+       <xt xml:lang="rus">висячий замок</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="А" t2="Р" t3="Т" uri="850-artm-d-m" id="850">
+     <l pos="N">артмӧдӧм</l>
+       <l_var type="molodtsov-cyr">aртмӧԁӧм</l_var>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">артмӧдӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">образование</t>
+       <t pos="A">образованный</t>
+     </tg>
+     <xg>
+       <x>кыв артмӧдӧм</x>
+       <xt xml:lang="rus">словообразование</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">примирение</t>
+       <t pos="A">примирённый</t>
+     </tg>
+   </mg>
+   <mg relId="2"> <sg><s relId="8" pos="N" s_type="seeAlso">лӧсьӧдӧм</s></sg>
+     <tg xml:lang="rus">
+       <t pos="N">составление</t>
+       <t pos="A">составленный</t>
+     </tg>
+     <xg>
+       <x>задача артмӧдӧм</x>
+       <xt xml:lang="rus">составление задачи</xt>
+     </xg>
+     <xg>
+       <x>артмӧдӧм сёрникузя</x>
+       <xt xml:lang="rus">составленное предложение</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="М" uri="1648-bambuk" id="1648">
+     <l pos="N">бамбук</l>
+       <l_var type="molodtsov-cyr">бамбук</l_var>
+     <stg>
+       <st Contlex="N_">бамбук</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">bambu(ruoko)</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">бамбук</t>
+       <t pos="A">бамбуковый</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Н" uri="1650-ban" id="1650">
+     <l pos="N">бан</l>
+       <l_var type="molodtsov-cyr">бан</l_var>
+     <stg>
+       <st Contlex="N_">бан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">лицо</t>
+     </tg>
+     <xg>
+       <x>бансӧ мӧдарӧ бергӧдіс</x>
+       <xt xml:lang="fin">Hän käänsi kasvonsa toisaalle.</xt>
+       <xt xml:lang="rus">он отвернулся, отвернул лицо</xt>
+     </xg>
+     <xg>
+       <x>стенлань банӧн водны</x>
+       <xt xml:lang="fin">maata kasvot seinään päin</xt>
+       <xt xml:lang="rus">лечь лицом к стене</xt>
+     </xg>
+   </mg>
+   <mg relId="1" domain="anatomy">
+     <sg><s pos="N" s_type="confer">бандзиб</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">cheek</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">poski</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">щека</t>
+       <t pos="N">щёки</t>
+     </tg>
+     <xg>
+       <x>бан бок</x>
+       <xt xml:lang="rus">щека</xt>
+     </xg>
+     <xg>
+       <x>бан лы</x>
+       <xt xml:lang="fin">poskipää</xt>
+       <xt xml:lang="rus">скула</xt>
+     </xg>
+     <xg>
+       <x>бан бок лӧсавны</x> <att att="rude"/>
+       <xt xml:lang="rus">надавать по щеке</xt>
+       <xt src_type="literally:буквально" xml:lang="rus">обтесать щеку</xt>
+     </xg>
+     <xg>
+       <x>бан бокӧ сетны</x>
+       <xt xml:lang="fin">antaa korvapuusti</xt>
+       <xt xml:lang="rus">дать пощёчину</xt>
+     </xg>
+     <xg>
+       <x>бан пасьтала синва лювгӧ</x>
+       <xt xml:lang="fin">Kyyneleet valuvat poskia pitkin.</xt>
+       <xt xml:lang="rus">слёзы текут по щекам</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">frontside</t>
+       <t pos="N">face</t>
+       <t pos="N">facade</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">etupuoli</t>
+       <t pos="N">julkisivu</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">лицо</t>
+       <t pos="N">фасад</t>
+     </tg>
+     <xg>
+       <x>керкаыс сулалӧ туйлань банӧн</x>
+       <xt xml:lang="fin">Talo seisoo julkisivu tielle päin.</xt>
+       <xt xml:lang="rus">дом стоит фасадом к дороге</xt>
+     </xg>
+   </mg>
+   <mg relId="3" domain="Textile"> <sg><s pos="N" s_type="confer">гуг</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">frontside</t>
+       <t pos="N">right side</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">etupuoli</t>
+       <t pos="N">oikea puoli</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">лицо</t>
+       <t pos="N">лицевая сторона</t>
+       <t pos="N">верх</t>
+     </tg>
+     <xg>
+       <x>кок бан выв</x><rg><r range_space="dialect"/></rg>
+       <xt xml:lang="rus">верхняя часть стопы</xt>
+     </xg>
+     <xg>
+       <x>водздӧрасӧ бансяньыс эжӧма сатинӧн</x>
+       <xt xml:lang="rus">лицевая сторона передника сшита из сатина</xt>
+     </xg>
+     <xg genreType="proverb">
+       <x>кутшӧм баныс, сэтшӧм и гугыс</x>
+       <xt xml:lang="rus">какова лицевая сторона, такова и изнанка</xt>
+     </xg>
+   </mg>
+   <mg No="5">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">остриё</t>
+     </tg>
+     <xg>
+       <x>коса баныс пӧвъя</x>
+       <xt xml:lang="rus">остриё косы со щербинкой</xt>
+     </xg>
+   </mg>
+   <mg No="6">
+       <re>редко</re>
+     <tg xml:lang="rus">
+       <t pos="N">поверхность</t>
+     </tg>
+     <xg>
+       <x>ю бан</x>
+       <xt xml:lang="rus">поверхность реки</xt>
+     </xg>
+     <xg>
+       <x>ю бан вылын ворсісны шонді югӧръяс</x>
+       <xt xml:lang="rus">на поверхности реки играли солнечные блики</xt>
+     </xg>
+   </mg>
+   <mg No="7"> <sense sense="literal"/> <sense sense="figurative"/>
+     <tg xml:lang="rus">
+       <tCtn>
+       <t pos="N">бок</t>
+       <re>чего-либо</re>
+       </tCtn>
+       <t pos="N">сторона</t>
+     </tg>
+     <xg>
+       <x>керӧс банъясын быдмӧ оз</x>
+       <xt xml:lang="rus">по бокам пригорка растёт земляника</xt>
+     </xg>
+     <xg>
+       <x>мӧдар банӧн бергӧдчис олӧмыс</x>
+       <xt xml:lang="rus">жизнь повернулась другой стороной</xt>
+     </xg>
+     <xg>
+       <x>Кык бан воча сувтӧдны</x>
+       <xt xml:lang="rus">дать очную ставку</xt>
+     </xg>
+     <xg>
+       <x>синва банӧн</x>
+       <xt xml:lang="rus">со слезами на глазах</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">бан бок</l>
+     <stg>
+       <st Contlex="N_">бан бок</st>
+     </stg>
+     <compg drv="N:N»N" type="comp">
+       <comp ms="Sg_Nom" ord="E1" pos="N">бан</comp>
+       <comp ord="E2" pos="N">бок</comp>
+     </compg>
+   </lg>
+   <mg relId="0" domain="anatomy"> <sg><s pos="N" s_type="confer">бандзиб</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">cheek</t>
+       <t pos="N">side of the face</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">poski</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">щека</t>
+     </tg>
+     <xg>
+       <x>бан бок лӧсавны</x> <att att="rude"/>
+       <xt xml:lang="rus">надавать по щеке</xt>
+       <xt src_type="literally:буквально" xml:lang="rus">обтесать щеку</xt>
+     </xg>
+     <xg>
+       <x>бан бокӧ сетны</x>
+       <xt xml:lang="fin">antaa korvapuusti</xt>
+       <xt xml:lang="rus">дать пощёчину</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">бан лы</l>
+     <stg>
+       <st Contlex="N_">бан лы</st>
+     </stg>
+     <compg drv="N:N»N" type="comp">
+       <comp ms="Sg_Nom" ord="E1" pos="N">бан</comp>
+       <comp ord="E2" pos="N">лы</comp>
+     </compg>
+   </lg>
+   <mg relId="0" domain="anatomy">
+     <tg xml:lang="eng">
+       <t pos="N">cheek bone</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">poskiluu</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">скула</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Н" uri="1653-banan" id="1653">
+     <l pos="N">банан</l>
+       <l_var type="molodtsov-cyr">банан</l_var>
+     <stg>
+       <st Contlex="N_">банан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">banaani</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">банан</t>
+       <t pos="A">банановый</t>
+     </tg>
+     <xg>
+       <x>банан сёйны</x>
+       <xt xml:lang="rus">есть банан</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Н" uri="1655-banda" id="1655">
+     <l pos="N">банда</l>
+       <l_var type="molodtsov-cyr">банԁа</l_var>
+     <stg>
+       <st Contlex="N_">банда</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s pos="N" s_type="confer">урма</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">gang</t>
+       <t pos="N">band</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">jengi</t>
+       <t pos="N">joukkio</t>
+       <t pos="N">porukka</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">банда</t>
+     </tg>
+   </mg>
+</e>
 </r>
