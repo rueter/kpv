@@ -215,6 +215,64 @@
    </mg>
 </e>
   <e>
+   <lg t1="Ӧ" t2="Т" t3="С" uri="38165-tsyama" id="38165">
+     <l pos="A">ӧтсяма</l>
+       <l_var type="molodtsov-cyr">ӧтԍама</l_var>
+     <stg>
+       <st Contlex="A_">ӧтсяма</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="A">homogenous</t>
+       <t pos="A">alike</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">yhtäläinen</t>
+       <t pos="A">samanlainen</t>
+       <t pos="A">rinnasteinen??</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="A">однообразный</t>
+       <t pos="A">одинаковый</t>
+     </tg>
+     <xg>
+       <x>ӧтсяма олӧм</x>
+       <xt xml:lang="rus">однообразная жизнь</xt>
+     </xg>
+     <xg>
+       <x>ӧтсяма поводдя</x>
+       <xt xml:lang="rus">однообразная погода</xt>
+     </xg>
+     <xg>
+       <x>ӧтсяма руд паськӧма ныв-зон</x>
+       <xt xml:lang="rus">девушки и парни в одинаковой серой одежде</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">одного нрава, характера</t>
+     </tg>
+     <xg>
+       <x>ӧтсяма войтыр</x>
+       <xt xml:lang="rus">люди с одинаковым характером</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">сходный</t>
+     </tg>
+     <xg>
+       <x>ӧтсяма кывъяс</x>
+       <xt xml:lang="fin">samanlaiset sanat</xt>
+       <xt xml:lang="rus">сходные слова</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="A">ӧтувтчан</l>
      <stg>
