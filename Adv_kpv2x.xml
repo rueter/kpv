@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
-<e>
+  <e exclude="fst">
+   <lg>
+     <l pos="Adv">асінын</l>
+     <stg>
+       <st Contlex="ADV_">асін</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">на своём месте</t>
+     </tg>
+     <xg>
+       <x>сьӧлӧмӧй абу асінас</x>
+       <xt xml:lang="fin">Sydämeni ei ole paikallaan.</xt>
+       <xt xml:lang="fin">Olen huolestunut.</xt>
+       <xt xml:lang="rus">сердце не на месте</xt>
+       <xt xml:lang="rus">тревожно на душе</xt>
+     </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="Adv">асінӧ</l>
+     <stg>
+       <st Contlex="ADV_">асін</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">к себе</t>
+     </tg>
+     <xg>
+       <x>пырны асінӧ</x>
+       <xt xml:lang="rus">зайти к себе</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="О" t3="Р" uri="14236-dorvyv" id="14236">
      <l pos="Adv">дорвыв</l>
        <l_var type="molodtsov-cyr">ԁорвыв</l_var>

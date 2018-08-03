@@ -27,6 +27,45 @@
     </mg>
   </e>
   <e>
+   <lg t1="А" t2="Д" t3="Д" uri="220-addzyvlyt-m" id="220">
+     <l pos="A">аддзывлытӧм</l>
+       <l_var type="molodtsov-cyr">aԇԇывлытӧм</l_var>
+     <stg>
+       <st Contlex="A_">аддзывлытӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">неземной</t>
+       <t pos="A">экзотический</t>
+       <t pos="A">не встречавшийся</t>
+     </tg>
+     <xg>
+       <x>аддзывлытӧм быдмӧгъяс</x>
+       <xt xml:lang="fin">eksoottiset kasvit</xt>
+       <xt xml:lang="rus">экзотические растения</xt>
+     </xg>
+     <xg>
+       <x>аддзывлытӧм мичлун</x>
+       <xt xml:lang="fin">ylimaallinen kauneus</xt>
+       <xt xml:lang="rus">неземная краса</xt>
+     </xg>
+   </mg>
+   <mg relId="1"> <sg><s relId="1" pos="N" s_type="seeAlso">вӧвлытӧм</s></sg>
+     <tg xml:lang="rus">
+       <t pos="A">небывалый</t>
+       <t pos="A">невиданный</t>
+     </tg>
+     <xg>
+       <x>аддзывлытӧм урожай</x>
+       <xt xml:lang="fin">tavaton sato</xt>
+       <xt>ennen näkemätön sato</xt>
+       <xt xml:lang="rus">небывалый урожай</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="A">артман</l>
      <stg>
@@ -68,6 +107,164 @@
      <xg>
        <x>форма артмӧдан</x>
        <xt xml:lang="rus">формообразующий</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="А" t2="С" t3="Л" uri="1055-aslysalan" id="1055">
+     <l pos="A">аслысалан</l>
+       <l_var type="molodtsov-cyr">aслысалан</l_var>
+     <stg>
+       <st Contlex="A_">аслысалан</st>
+     </stg>
+   </lg>
+   <mg domain="grammar">
+     <tg xml:lang="rus">
+       <t pos="A">принадлежностный</t>
+     </tg>
+     <xg>
+       <x>аслысалан падежъяс</x>
+       <xt xml:lang="fin">omistussijamuodot</xt>
+       <xt xml:lang="rus">принадлежностные падежи</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="A">асыввывса</l>
+     <stg>
+       <st Contlex="A_">асыввывса</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="A">eastern</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">itäinen</t>
+       <t>itä-</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="А" t2="С" t3="Э" uri="1286-asemburalan" id="1286">
+     <l pos="A">асэмбуралан</l>
+<l_var type="molodtsov-cyr">aсембуралан</l_var>
+     <stg>
+       <st Contlex="A_">асэмбуралан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="N">privatization</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">yksityistämis-</t>
+       <t pos="N">privatisoimis-</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Е" t3="Л" uri="1931-belitchan" id="1931">
+     <l pos="A">белитчан</l>
+       <l_var type="molodtsov-cyr">беԉіччан</l_var>
+     <stg>
+       <st Contlex="A_">белитчан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">отбельный</t>
+       <t pos="A">белильный</t>
+     </tg>
+     <xg>
+       <x>белитчан цех</x>
+       <xt xml:lang="rus">отбельный цех</xt>
+     </xg>
+     <xg>
+       <x>белитчан тшан</x>
+       <xt xml:lang="rus">белильный чан</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Е" t3="Р" uri="1978-bergavt-m" id="1978">
+     <l pos="A">бергавтӧм</l>
+       <l_var type="molodtsov-cyr">бергавтӧм</l_var>
+     <stg>
+       <st Contlex="A_">бергавтӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">неподвижный</t>
+       <t pos="A">некрутящийся</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">неупотребительный</t>
+     </tg>
+     <xg>
+       <x>бергавтӧм кывъяс</x>
+       <xt xml:lang="rus">неупотребительные выражения</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Е" t3="Р" uri="1990-berg-dlan" id="1990">
+     <l pos="A">бергӧдлан</l>
+       <l_var type="molodtsov-cyr">бергӧԁлан</l_var>
+     <stg>
+       <st Contlex="A_">бергӧдлан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">вращательный</t>
+     </tg>
+     <xg>
+       <x>бергӧдлан вын</x>
+       <xt xml:lang="rus">вращательная сила</xt>
+     </xg>
+     <xg>
+       <x>бергӧдлан кӧв</x>
+       <xt xml:lang="rus">скакалка</xt>
+     </xg>
+     <xg>
+       <x>чеччавны бергӧдлан кӧв вомӧн</x>
+       <xt xml:lang="rus">прыгать через скакалку</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Е" t3="Р" uri="2140-bertlas-t-m" id="2140">
+     <l pos="A">бертласьтӧм</l>
+       <l_var type="molodtsov-cyr">бертлаԍтӧм</l_var>
+     <stg>
+       <st Contlex="A_">бертласьтӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">неподвижный</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">окостенелый</t>
+     </tg>
+     <xg>
+       <x>бертласьтӧм чунь</x>
+       <xt xml:lang="fin">jäykistynyt sormi</xt>
+       <xt xml:lang="rus">окостенелый палец</xt>
      </xg>
    </mg>
 </e>
@@ -180,6 +377,24 @@
      <xg>
        <x>заборитӧм му</x>
        <xt xml:lang="rus">перегороженный участок</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Л" t2="Е" t3="Г" uri="27831-legz-ys-" id="27831">
+     <l pos="A">легзьысь</l>
+       <l_var type="molodtsov-cyr">ԉегԅыԍ</l_var>
+     <stg>
+       <st Contlex="N_END-IN-Ь">легзьыс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="A">дряхлый</t>
+     </tg>
+     <xg>
+       <x>легзьысь пӧль</x>
+       <xt xml:lang="rus">дряхлый старик</xt>
      </xg>
    </mg>
 </e>

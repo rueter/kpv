@@ -1,182 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
   <e>
-   <lg t1="А" t2="Д" t3="Д" uri="220-addzyvlyt-m" id="220">
-     <l pos="A">аддзывлытӧм</l>
-       <l_var type="molodtsov-cyr">aԇԇывлытӧм</l_var>
+   <lg>
+     <l pos="N" type="Prop">Горкомхоз</l>
      <stg>
-       <st Contlex="A_">аддзывлытӧм</st>
+       <st Contlex="N_">Горкомхоз</st>
      </stg>
    </lg>
    <mg relId="0">
      <defNative/>
-     <tg xml:lang="rus">
-       <t pos="A">неземной</t>
-       <t pos="A">экзотический</t>
-       <t pos="A">не встречавшийся</t>
+     <tg xml:lang="fin">
+       <t pos="N">kaupunkikomiteatalous??</t>
      </tg>
-     <xg>
-       <x>аддзывлытӧм быдмӧгъяс</x>
-       <xt xml:lang="fin">eksoottiset kasvit</xt>
-       <xt xml:lang="rus">экзотические растения</xt>
-     </xg>
-     <xg>
-       <x>аддзывлытӧм мичлун</x>
-       <xt xml:lang="fin">ylimaallinen kauneus</xt>
-       <xt xml:lang="rus">неземная краса</xt>
-     </xg>
-   </mg>
-   <mg relId="1"> <sg><s relId="1" pos="N" s_type="seeAlso">вӧвлытӧм</s></sg>
-     <tg xml:lang="rus">
-       <t pos="A">небывалый</t>
-       <t pos="A">невиданный</t>
-     </tg>
-     <xg>
-       <x>аддзывлытӧм урожай</x>
-       <xt xml:lang="fin">tavaton sato</xt>
-       <xt>ennen näkemätön sato</xt>
-       <xt xml:lang="rus">небывалый урожай</xt>
-     </xg>
    </mg>
 </e>
   <e>
-   <lg t1="А" t2="С" t3="Л" uri="1055-aslysalan" id="1055">
-     <l pos="A">аслысалан</l>
-       <l_var type="molodtsov-cyr">aслысалан</l_var>
+   <lg>
+     <l pos="N" type="Prop">Госдума</l>
      <stg>
-       <st Contlex="A_">аслысалан</st>
+       <st Contlex="N_">Госдума</st>
      </stg>
    </lg>
-   <mg domain="grammar">
-     <tg xml:lang="rus">
-       <t pos="A">принадлежностный</t>
+   <mg relId="0"> <sg><s s_type="pro">канму дума</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">State Duma</t>
      </tg>
-     <xg>
-       <x>аслысалан падежъяс</x>
-       <xt xml:lang="fin">omistussijamuodot</xt>
-       <xt xml:lang="rus">принадлежностные падежи</xt>
-     </xg>
+     <tg xml:lang="fin">
+       <t pos="N">valtakunnanduuma</t>
+     </tg>
    </mg>
 </e>
   <e>
-   <lg t1="Б" t2="Е" t3="Л" uri="1931-belitchan" id="1931">
-     <l pos="A">белитчан</l>
-       <l_var type="molodtsov-cyr">беԉіччан</l_var>
+   <lg>
+     <l pos="N" type="Prop">Господь</l>
      <stg>
-       <st Contlex="A_">белитчан</st>
+       <st Contlex="N_END-IN-Ь">Господ</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <field fieldType="BIB"/> <sg><s pos="N" s_type="pro">Мезӧс</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">Lord</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">Herra</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N" type="Prop">Госсӧвет</l>
+     <stg>
+       <st Contlex="N_">Госсӧвет</st>
      </stg>
    </lg>
    <mg relId="0">
      <defNative/>
-     <tg xml:lang="rus">
-       <t pos="A">отбельный</t>
-       <t pos="A">белильный</t>
+     <tg xml:lang="eng">
+       <t pos="N">State Soviet</t>
      </tg>
-     <xg>
-       <x>белитчан цех</x>
-       <xt xml:lang="rus">отбельный цех</xt>
-     </xg>
-     <xg>
-       <x>белитчан тшан</x>
-       <xt xml:lang="rus">белильный чан</xt>
-     </xg>
+     <tg xml:lang="fin">
+       <t pos="N">valtioneuvosto</t>
+     </tg>
    </mg>
 </e>
   <e>
-   <lg t1="Б" t2="Е" t3="Р" uri="1978-bergavt-m" id="1978">
-     <l pos="A">бергавтӧм</l>
-       <l_var type="molodtsov-cyr">бергавтӧм</l_var>
+   <lg>
+     <l pos="N" type="Prop">Ен</l>
      <stg>
-       <st Contlex="A_">бергавтӧм</st>
+       <st Contlex="N_PARAGOGIC-M">Ен</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <field fieldType="BIB"/>
+     <tg xml:lang="eng">
+       <t pos="N">God</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">Jumala</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N" type="Prop">Коминформ</l>
+     <stg>
+       <st Contlex="N_">Коминформ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="news agency"/>
+     <tg xml:lang="fin">
+       <t pos="N">Komin tiedotustoimisto</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N" type="Prop">Мезеньлеспром</l>
+     <stg>
+       <st Contlex="N_">Мезеньлеспром</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="company"/>
+     <tg xml:lang="fin">
+       <t pos="N">Mezenin metsäteollisuus</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N" type="Prop">Моссӧвет</l>
+     <stg>
+       <st Contlex="N_">Моссӧвет</st>
      </stg>
    </lg>
    <mg relId="0">
      <defNative/>
-     <tg xml:lang="rus">
-       <t pos="A">неподвижный</t>
-       <t pos="A">некрутящийся</t>
+     <tg xml:lang="fin">
+       <t pos="N">Moskovan neuvosto??</t>
      </tg>
-   </mg>
-   <mg relId="1">
-     <defNative/>
-     <tg xml:lang="rus">
-       <t pos="A">неупотребительный</t>
-     </tg>
-     <xg>
-       <x>бергавтӧм кывъяс</x>
-       <xt xml:lang="rus">неупотребительные выражения</xt>
-     </xg>
    </mg>
 </e>
   <e>
-   <lg t1="Б" t2="Е" t3="Р" uri="1990-berg-dlan" id="1990">
-     <l pos="A">бергӧдлан</l>
-       <l_var type="molodtsov-cyr">бергӧԁлан</l_var>
+   <lg>
+     <l pos="N" type="Prop">Рытыввыв</l>
      <stg>
-       <st Contlex="A_">бергӧдлан</st>
+       <st Contlex="N_PARAGOGIC-V/L">Рытыввы</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <field fieldType="POLIT"/>
+     <tg xml:lang="eng">
+       <t pos="N">the West</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">Länsi</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N" type="Prop">Севергазпром</l>
+     <stg>
+       <st Contlex="N_">Севергазпром</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="company"/>
+     <tg xml:lang="fin">
+       <t pos="N">Pohjoinen kaasuteollisuus</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N" type="Prop">Совнарком</l>
+     <stg>
+       <st Contlex="N_">Совнарком</st>
      </stg>
    </lg>
    <mg relId="0">
      <defNative/>
-     <tg xml:lang="rus">
-       <t pos="A">вращательный</t>
+     <tg xml:lang="fin">
+       <t>Kansankomissaarien Neuvosto</t>
      </tg>
-     <xg>
-       <x>бергӧдлан вын</x>
-       <xt xml:lang="rus">вращательная сила</xt>
-     </xg>
-     <xg>
-       <x>бергӧдлан кӧв</x>
-       <xt xml:lang="rus">скакалка</xt>
-     </xg>
-     <xg>
-       <x>чеччавны бергӧдлан кӧв вомӧн</x>
-       <xt xml:lang="rus">прыгать через скакалку</xt>
-     </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">Ставрусьса Патриарх</l>
+     <stg>
+       <st Contlex="N_">Ставрусьса Патриарх</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="A">Ставрусьса</comp>
+       <comp ord="E2" pos="N">Патриарх</comp> </compg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="capacity"/>
+     <tg xml:lang="fin">
+       <t pos="N">Koko Venäjän patriarkka</t>
+     </tg>
    </mg>
 </e>
   <e>
-   <lg t1="Б" t2="Е" t3="Р" uri="2140-bertlas-t-m" id="2140">
-     <l pos="A">бертласьтӧм</l>
-       <l_var type="molodtsov-cyr">бертлаԍтӧм</l_var>
+   <lg>
+     <l pos="N" type="Prop">Сыктывкармежрайгаз</l>
      <stg>
-       <st Contlex="A_">бертласьтӧм</st>
+       <st Contlex="N_">Сыктывкармежрайгаз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="company"/>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">Трудӧвӧй Краснӧй Знамя орден</l>
+     <stg>
+       <st Contlex="N_">Трудӧвӧй Краснӧй Знамя орден</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="A">трудӧвӧй</comp>
+       <comp ord="E2" pos="A">краснӧй</comp>
+       <comp ord="E3" pos="N">знамя</comp>
+       <comp ord="E4" pos="N">орден</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">Työn Punaisen Lipun kunniamerkki</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">Федерация Сӧвет</l>
+     <stg>
+       <st Contlex="N_">Федерация Сӧвет</st>
+     </stg>
+     <compg drv="N:N»N" type="comp">
+       <comp ord="E1" pos="N">Федерация</comp>
+       <comp ord="E2" pos="N">Сӧвет</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">Federal Soviet</t>
+       <t pos="N">federal council</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">liittovaltion neuvosto</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N" type="Prop">Центробанк</l>
+     <stg>
+       <st Contlex="N_">Центробанк</st>
      </stg>
    </lg>
    <mg relId="0">
      <defNative/>
-     <tg xml:lang="rus">
-       <t pos="A">неподвижный</t>
+     <tg xml:lang="fin">
+       <t pos="N">keskuspankki</t>
      </tg>
-   </mg>
-   <mg relId="1">
-     <defNative/>
-     <tg xml:lang="rus">
-       <t pos="A">окостенелый</t>
-     </tg>
-     <xg>
-       <x>бертласьтӧм чунь</x>
-       <xt xml:lang="fin">jäykistynyt sormi</xt>
-       <xt xml:lang="rus">окостенелый палец</xt>
-     </xg>
-   </mg>
-</e>
-  <e>
-   <lg t1="Л" t2="Е" t3="Г" uri="27831-legz-ys-" id="27831">
-     <l pos="A">легзьысь</l>
-       <l_var type="molodtsov-cyr">ԉегԅыԍ</l_var>
-     <stg>
-       <st Contlex="N_END-IN-Ь">легзьыс</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="A">дряхлый</t>
-     </tg>
-     <xg>
-       <x>легзьысь пӧль</x>
-       <xt xml:lang="rus">дряхлый старик</xt>
-     </xg>
    </mg>
 </e>
   <e>
@@ -192,6 +260,26 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="N" sem_type="Time">pääsiäinen</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">Ылі Войвыв</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-V/L">Ылі Войвы</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">Ылі</comp>
+       <comp ord="E2" pos="N">Войвыв</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">Far North (in Komi)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">peräpohjola</t>
      </tg>
    </mg>
 </e>
@@ -1367,6 +1455,57 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">автоинспектор</l>
+     <stg>
+       <st Contlex="N_">автоинспектор</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="capacity"/>
+     <tg xml:lang="eng">
+       <t pos="N">traffic inspector</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">moottoriajoneuvojen katsastaja</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">автоинспекция</l>
+     <stg>
+       <st Contlex="N_">автоинспекция</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">motor vehicle ??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">moottoriajoneuvojen katsastus(laitos)</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">автоколонна</l>
+     <stg>
+       <st Contlex="N_">автоколонна</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">motorcade</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">autokolonna</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="В" t3="Т" uri="97-avtomat" id="97">
      <l pos="N">автомат</l>
        <l_var type="molodtsov-cyr">aвтомат</l_var>
@@ -1408,6 +1547,23 @@
        <xt xml:lang="fin">ampua konekiväärillä</xt>
        <xt xml:lang="rus">стрелять из автомата</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">автоматизация</l>
+     <stg>
+       <st Contlex="N_">автоматизация</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">automation</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">automatisointi</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -1475,6 +1631,23 @@
      </tg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">автомобиль шинаяс</l>
+     <stg>
+       <st Contlex="N_">автомобиль шинаяс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">автомобиль</comp>
+       <comp ord="E2" pos="N">шина</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">автомобильные шины</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="В" t3="Т" uri="107-avtonomiya" id="107">
      <l pos="N">автономия</l>
@@ -1498,6 +1671,26 @@
        <xt xml:lang="fin">saada autonomia</xt>
        <xt xml:lang="rus">добиться автономии</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">автономнӧй кытш</l>
+     <stg>
+       <st Contlex="N_">автономнӧй кытш</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">автономнӧй</comp>
+       <comp ord="E2" pos="N">кытш</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">autonomous okrug</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">autonominen piirikunta</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -1840,6 +2033,23 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">агат</l>
+     <stg>
+       <st Contlex="N_">агат</st>
+     </stg>
+   </lg>
+   <mg relId="0" domain="Mineralology">
+     <tg xml:lang="eng">
+       <t pos="N">agate</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">akaatti</t>
+       <t pos="N">agaatti</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="Г" t3="Е" uri="131-agent" id="131">
      <l pos="N">агент</l>
        <l_var type="molodtsov-cyr">aгент</l_var>
@@ -2084,6 +2294,26 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">агрономия</l>
+     <stg>
+       <st Contlex="N_">агрономия</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">agronomy</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">agronomia</t>
+       <t pos="N">maatalousoppi</t>
+       <t pos="N">maanviljelysoppi</t>
+       <t pos="N">maanviljelystiede</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="Г" t3="Р" uri="156-agrotehnika" id="156">
      <l pos="N">агротехника</l>
        <l_var type="molodtsov-cyr">aгроԏекԋіка</l_var>
@@ -2123,6 +2353,27 @@
        <x>агсалӧм му</x>
        <xt xml:lang="rus">проборонованное поле</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">агсалӧм му</l>
+     <stg>
+       <st Contlex="N_">агсалӧм му</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">агсалӧм</comp>
+       <comp ord="E2" pos="N">му</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">äestetty pelto</t>
+       <t pos="N">karhittu pelto</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">проборонованное поле</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -2237,6 +2488,76 @@
        <x>ад горш</x>
        <xt xml:lang="rus">ненасытное горло, прорва</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ад би</l>
+     <stg>
+       <st Contlex="N_">ад би</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ад</comp>
+       <comp ord="E2" pos="N">би</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">infernal fire</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">helvetin tuli</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ад гуран</l>
+     <stg>
+       <st Contlex="N_">ад гуран</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ад</comp>
+       <comp ord="E2" pos="N">гуран</comp> </compg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="confer">му увтын пыдӧсін</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">hell hole</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">helvetin kuilu</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">адама</l>
+     <stg>
+       <st Contlex="FIRST">адама</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">адама глава турун</l>
+     <stg>
+       <st Contlex="N_">адама глава турун</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="N">адама</comp>
+       <comp ord="E2" pos="N">глава</comp>
+       <comp ord="E3" pos="N">турун</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Botany">
+     <tg xml:lang="fin">
+       <t pos="N">venuksenkenkä</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">венерин башмачок</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -2574,6 +2895,28 @@
        <xt xml:lang="fin">merkitä lehtiöön huomautukset</xt>
        <xt xml:lang="rus">отметить в блокноте замеченное</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">аддзыны позьтӧмтор</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">аддзыны позьтӧмтор</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="V">аддзыны</comp>
+       <comp ord="E2" pos="N">позьтӧмтор</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">hateful</t>
+       <t pos="N">detestable</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">vihattu</t>
+       <t pos="N">inhottava</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -3070,6 +3413,23 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">адз видзь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">адз виддз</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">адз</comp>
+       <comp ord="E2" pos="N">видзь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">пойменные луга</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Д" t3="М" uri="275-administrator" id="275">
      <l pos="N">администратор</l>
@@ -3108,6 +3468,35 @@
      <tg xml:lang="rus">
        <t pos="N">администрация</t>
        <t pos="A">административный</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">администрация здание</l>
+     <stg>
+       <st Contlex="N_">администрация здание</st>
+       <st Contlex="N_" status="Err/Orth">администрация зданньӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">административное здание</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">администрация шӧрин</l>
+     <stg>
+       <st Contlex="N_">администрация шӧрин</st>
+     </stg> <drv drvType="Der/Ин" stemID="администрация шӧр_Noun1_N"/>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">административный центр</t>
      </tg>
    </mg>
 </e>
@@ -3341,6 +3730,24 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">азымлун босьтчӧдан кӧр</l>
+     <stg>
+       <st Contlex="N_">азымлун босьтчӧдан кӧр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="N">азымлун</comp>
+       <comp ord="E2" pos="A">босьтчӧдан</comp>
+       <comp ord="E3" pos="N">кӧр</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">вызывающий аппетит запах</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="З" t3="Ь" uri="319-az-" id="319">
      <l pos="N">азь</l>
@@ -3397,6 +3804,37 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">азь ва</l>
+     <stg>
+       <st Contlex="N_">азь ва</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">азь</comp>
+       <comp ord="E2" pos="N">ва</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">талая вода</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">азь калей гум</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">азь калей гум</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="N">азь</comp>
+       <comp ord="E2" pos="N">калей</comp>
+       <comp ord="E3" pos="N">гум</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany">
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="З" t3="Ь" uri="320-az-gum" id="320">
      <l pos="N">азьгум</l>
@@ -3417,6 +3855,23 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N">борщевик сибирский</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">азьгум пӧк</l>
+     <stg>
+       <st Contlex="N_">азьгум пӧк</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">азьгум</comp>
+       <comp ord="E2" pos="N">пӧк</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">цветковая часть борщевика</t>
      </tg>
    </mg>
 </e>
@@ -3460,6 +3915,26 @@
      </tg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">азя шыд</l>
+     <stg>
+       <st Contlex="N_">азя шыд</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">азя</comp>
+       <comp ord="E2" pos="N">шыд</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">pearl barley soup (soured with rye-bread)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">hapankeitto</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="З" t3="Я" uri="329-azyal-m" id="329">
      <l pos="N">азялӧм</l>
@@ -3479,6 +3954,23 @@
        <xt xml:lang="rus">после драки кулаками не машут</xt>
        <xt t_type="literally:буквально" xml:lang="rus">сообразил после заправки супа</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">азялӧм шыд</l>
+     <stg>
+       <st Contlex="N_">азялӧм шыд</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">азялӧм</comp>
+       <comp ord="E2" pos="N">шыд</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">заправленные закваской щи</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -3556,6 +4048,666 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай амысь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ай амыс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">амысь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">large plowshare</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">iso auranvannas</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай байдӧг</l>
+     <stg>
+       <st Contlex="N_">ай байдӧг</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">байдӧг</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">partridge cock</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">riekkokoiras</t>
+       <t pos="N">peltopyykoiras</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай варыш</l>
+     <stg>
+       <st Contlex="N_">ай варыш</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">варыш</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">male hawk</t>
+       <t pos="N">male kite</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">haukkakoiras</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай горда</l>
+     <stg>
+       <st Contlex="N_">ай горда</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">горда</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">mallard drake</t>
+       <t pos="N">male wild duck</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">sinisorsakoiras</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай дзодзӧг</l>
+     <stg>
+       <st Contlex="N_">ай дзодзӧг</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">дзодзӧг</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">gander</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">hanhikukko</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай дозмӧр</l>
+     <stg>
+       <st Contlex="N_">ай дозмӧр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">дозмӧр</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology"> <sg><s s_type="confer">чукчи</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">wood-grouse cock</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">ukkometso</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай жонь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ай жон</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">жонь</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">male bullfinch</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">punatulkkukoiras</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай истан</l>
+     <stg>
+       <st Contlex="N_">ай истан</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">истан</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">male snipe??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">rantasipikoiras</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай йӧра</l>
+     <stg>
+       <st Contlex="N_">ай йӧра</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">йӧра</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+           <isa isaType="male"/>
+     <tg xml:lang="eng">
+       <t pos="N">bull moose</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">uroshirvi</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай кань</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ай кан</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">кань</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+     <tg xml:lang="eng">
+       <t re="cat" pos="N">tom</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kolli(kissa)</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай кӧза</l>
+     <stg>
+       <st Contlex="N_">ай кӧза</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">кӧза</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+           <isa isaType="male"/>
+     <tg xml:lang="eng">
+       <t pos="N">buck</t>
+       <t re="goat" pos="N">billy</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">(vuohi)pukki</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай кӧин</l>
+     <stg>
+       <st Contlex="N_">ай кӧин</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">кӧин</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+           <isa isaType="male"/>
+     <tg xml:lang="eng">
+       <t pos="N">male wolf</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">urossusi</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай кӧр</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">ай кӧр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">кӧр</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+           <isa isaType="male"/>
+     <tg xml:lang="eng">
+       <t pos="N">reindeer bull</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">hirvas</t>
+       <t pos="N">urosporo</t>
+     </tg>
+   </mg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">олень-бык</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай малязі</l>
+     <stg>
+       <st Contlex="N_">ай малязі</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">малязі</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="ENT"/>
+     <tg xml:lang="eng">
+       <t pos="N">bumblebee??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kuhnuri</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай мой</l>
+     <stg>
+       <st Contlex="N_END-IN-J">ай мо</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">мой</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+     <tg xml:lang="eng">
+       <t pos="N">male beaver</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">urosmajava</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай низь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ай низ</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">низь</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+     <tg xml:lang="eng">
+       <t pos="N">male sable</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">urossoopeli</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай ним</l>
+     <stg>
+       <st Contlex="N_">ай ним</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">ним</comp> </compg>
+   </lg>
+   <mg relId="0"> <range dialect="P" rangeSpat="dialect"/>
+     <tg xml:lang="eng">
+       <t pos="N">patronym</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">isännimi</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай нитш</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-K">ай нитш</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">нитш</comp> </compg>
+   </lg>
+   <mg relId="0"><domain domain="botany"/>
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">кукушкин лён</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай ош</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-K">ай ош</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">ош</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+     <tg xml:lang="eng">
+       <t pos="N">boar bear</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">uroskarhu</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай пас</l>
+     <stg>
+       <st Contlex="N_">ай пас</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">пас</comp> </compg>
+   </lg>
+   <mg relId="0"> <range dialect="SDW" rangeSpat="dialect"/> <field fieldType="ANAT"/>
+     <tg xml:lang="eng">
+       <t pos="N">foreskin</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">esinahka</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай пон</l>
+     <stg>
+       <st Contlex="Noun1-JM">ай понй</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">пон</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+           <isa isaType="male"/> <sg><s s_type="confer">кыр пон : кыр понй</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">(male) dog</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">uroskoira</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай порсь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ай порс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">порсь</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+     <tg xml:lang="eng">
+       <t pos="N">boar</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">karju</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">кабан</t>
+       <t pos="N">боров</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай пӧв</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-V/L">ай пӧ</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">пӧв</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">male</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">uros</t>
+       <t pos="N">koiras</t>
+     </tg>
+   </mg>
+   <mg> <sg><s s_type="confer">бать</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">father</t>
+       <t pos="N">sire</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">isä</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай руч</l>
+     <stg>
+       <st Contlex="N_END-IN-Ч/ДЗ">ай руч</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">руч</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+     <tg xml:lang="eng">
+       <t pos="N">male fox</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">uroskettu</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай сизь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ай сиз</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">сизь</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">male woodpecker</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">tikkakoiras</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай сьӧмга</l>
+     <stg>
+       <st Contlex="N_">ай сьӧмга</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">сьӧмга</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">male salmon</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kojamo</t>
+       <t pos="N">koiraslohi</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай тар</l>
+     <stg>
+       <st Contlex="N_">ай тар</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">тар</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology"> <sg><s s_type="synonym">сьӧд тар</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">black grouse cock</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">ukkoteeri</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай ур</l>
+     <stg>
+       <st Contlex="N_">ай ур</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">ур</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">белка-самец</t>
+     </tg>
+     <xg>
+       <x>ай ур кодь</x>
+       <xt xml:lang="fin">kuin urosorava (harvoin kotona)</xt>
+       <xt re="дома не бывает" xml:lang="rus">как белка-самец</xt>
+     </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай ур кодь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ай ур код</st>
+     </stg>
+     <compg drv="N:A»A" type="comp">
+       <comp ord="E1" pos="N">ай ур</comp>
+       <comp ord="E2" pos="A">кодь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t re="дома не бывает" pos="N">как белка-самец</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай уркай</l>
+     <stg>
+       <st Contlex="N_END-IN-J">ай урка</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">уркай</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">male crossbill</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pikkukäpylintukoiras</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай утка</l>
+     <stg>
+       <st Contlex="N_">ай утка</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">утка</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">drake</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">sorsakoiras</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай шабді</l>
+     <stg>
+       <st Contlex="N_">ай шабді</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">шабді</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany">
+     <tg xml:lang="eng">
+       <t pos="N">male hemp</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t re="uroskasvi" pos="N">pellava</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай юсь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ай юс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай</comp>
+       <comp ord="E2" pos="N">юсь</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+     <tg xml:lang="eng">
+       <t pos="N">male swan</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">joutsenkoiras</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Й" t3="-" uri="352-aij-mam" id="352">
      <l pos="N">ай-мам</l>
@@ -3576,6 +4728,24 @@
        <xt xml:lang="fin">totella vanhempia</xt>
        <xt xml:lang="rus">слушаться родителей</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ай-мам поз</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">ай-мам поз</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ай-мам</comp>
+       <comp ord="E2" pos="N">поз</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">родительский кров</t>
+       <t pos="N">отчий дом</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -3720,6 +4890,30 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">айморт</l>
+     <stg>
+       <st Contlex="N_">айморт</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="synonym">айлов</s> <s s_type="synonym">мужичӧй</s></sg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">айму</l>
+     <stg>
+       <st Contlex="N_">айму</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">isänmaa</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="Й" t3="Н" uri="353-aijnim" id="353">
      <l pos="N">айним</l>
        <l_var type="molodtsov-cyr">aјԋім</l_var>
@@ -3744,6 +4938,45 @@
    <mg relId="0"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="N">верхний набой борта лодки</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">айулов</l>
+     <stg>
+       <st Contlex="N_">айулов</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">men</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">miehet</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ак ном</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">ак ном</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ак</comp>
+       <comp ord="E2" pos="N">ном</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="ENT"/>
+     <tg xml:lang="lat">
+       <t pos="N">Tipulidae</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">crane fly</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">vaaksiainen</t>
      </tg>
    </mg>
 </e>
@@ -3858,6 +5091,46 @@
        <xt xml:lang="fin">nukkeni</xt>
        <xt xml:lang="rus">куколка моя</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акань платтьӧ</l>
+     <stg>
+       <st Contlex="N_">акань платтьӧ</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акань</comp>
+       <comp ord="E2" pos="N">платтьӧ</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">nuken vaate</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">кукольное платье</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акань театр</l>
+     <stg>
+       <st Contlex="N_">акань театр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акань</comp>
+       <comp ord="E2" pos="N">театр</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">nukketeatteri</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">кукольный театр</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -4000,6 +5273,23 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">аккредитив</l>
+     <stg>
+       <st Contlex="N_">аккредитив</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <field fieldType="ECON"/>
+     <tg xml:lang="eng">
+       <t pos="N">letter of credit</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">akkreditiivi</t>
+       <t pos="N">kreditiivi</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="К" t3="Л" uri="385-aklyal-m" id="385">
      <l pos="N">аклялӧм</l>
        <l_var type="molodtsov-cyr">aкԉалӧм</l_var>
@@ -4024,6 +5314,27 @@
        <x>нянь аклялӧм</x>
        <xt xml:lang="rus">жевание хлеба</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="А" t2="К" t3="П" uri="394-akpash" id="394">
+     <l pos="N">акпаш</l>
+     <l_var type="molodtsov-cyr">aкпаш</l_var>
+     <stg>
+       <st Contlex="N_">акпаш</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="confer">ыкпаш</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">mischievous monkey (of a child)</t>
+       <t pos="N">braggart</t>
+       <t pos="N">frivolous person</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t re="lapsesta" pos="N">veitikka</t>
+       <t pos="N">kerskailija</t>
+       <t pos="N">kevytmielinen</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -4191,6 +5502,23 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">актионсарт</l>
+     <stg>
+       <st Contlex="N_">актионсарт</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see"> керӧмлӧн мунанног </s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">lexical aspect</t>
+       <t pos="N">aktionsart</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">teonlaatu</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="К" t3="Т" uri="403-aktyor" id="403">
      <l pos="N">актёр</l>
        <l_var type="molodtsov-cyr">aкԏор</l_var>
@@ -4234,6 +5562,26 @@
      </tg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акула бӧж</l>
+     <stg>
+       <st Contlex="N_">акула бӧж</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акула</comp>
+       <comp ord="E2" pos="N">бӧж</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">hain pyrstö</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">акулий хвост</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="К" t3="У" uri="424-akusheral-m" id="424">
      <l pos="N">акушералӧм</l>
@@ -4274,6 +5622,26 @@
      </tg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акушерка школа</l>
+     <stg>
+       <st Contlex="N_">акушерка школа</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акушерка</comp>
+       <comp ord="E2" pos="N">школа</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">kätilökoulu</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">акушерская школа</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="К" t3="Ц" uri="427-aktsent" id="427">
      <l pos="N">акцент</l>
@@ -4295,6 +5663,24 @@
        <xt xml:lang="fin">puhua aksentilla</xt>
        <xt xml:lang="rus">говорить с акцентом</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">акциз</l>
+     <stg>
+       <st Contlex="N_">акциз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">(excise) tax</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">aksiisi</t>
+       <t pos="N">valmistevero</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -4320,6 +5706,86 @@
      </tg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акционер котыр</l>
+     <stg>
+       <st Contlex="N_">акционер котыр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акционер</comp>
+       <comp ord="E2" pos="N">котыр</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">joint-stock company</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">osakeyhtiö</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">акционерное общество</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акционернӧй компания</l>
+     <stg>
+       <st Contlex="N_">акционернӧй компания</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акционернӧй</comp>
+       <comp ord="E2" pos="N">компания</comp> </compg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="confer">акционер котыр</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">joint-stock company</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">osakeyhtiö</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акционернӧй общество</l>
+     <stg>
+       <st Contlex="N_">акционернӧй общество</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акционернӧй</comp>
+       <comp ord="E2" pos="N">общество</comp> </compg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="confer">акционер котыр</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">company</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">osakeyhtiö</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акционеръяслӧн котыр</l>
+     <stg>
+       <st Contlex="N_">акционеръяслӧн котыр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акционеръяслӧн</comp>
+       <comp ord="E2" pos="N">котыр</comp> </compg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="pro">акционер котыр</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">joint-stock company</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">osakeyhtiö</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="К" t3="Ц" uri="432-aktsiya" id="432">
      <l pos="N">акция</l>
@@ -4337,6 +5803,67 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N">акция</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акция кутысь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">акция кутыс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акция</comp>
+       <comp ord="E2" pos="N">кутысь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">shareholder</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">osakkeenomistaja</t>
+       <t pos="N">osakas</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">акция пакет</l>
+     <stg>
+       <st Contlex="N_">акция пакет</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">акция</comp>
+       <comp ord="E2" pos="N">пакет</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">share packet</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">osakepaketti</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">аладдьа</l>
+     <stg>
+       <st Contlex="N_">аладдьа</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">crepe</t>
+       <t re="rather thick but of small diameter" pos="N">pancake</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">räiskäle</t>
+       <t pos="N">ohukainen</t>
+       <t re="paksuhko, mutta halkaisijaltaan pieni" pos="N">pannukakku</t>
      </tg>
    </mg>
 </e>
@@ -4874,6 +6401,27 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">алэй рӧм</l>
+     <stg>
+       <st Contlex="N_">алэй рӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">алэй</comp>
+       <comp ord="E2" pos="N">рӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">bright red color</t>
+       <t re="scarlet" pos="N">flower</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kirkkaanpunainen väri</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Л" t3="Ю" uri="503-alyuminiij" id="503">
      <l pos="N">алюминий</l>
@@ -4900,6 +6448,26 @@
        <x>алюминий тасьті</x>
        <xt xml:lang="rus">алюминиевая чашка</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">алюминий завод</l>
+     <stg>
+       <st Contlex="N_">алюминий завод</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">алюминий</comp>
+       <comp ord="E2" pos="N">завод</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">aluminum plant</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">alumiinitehdas</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -5040,6 +6608,42 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">американеч</l>
+     <stg>
+       <st Contlex="N_END-IN-Ч/ДЗ">американеч</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="confer">америкаса морт</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">American</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">amerikkalainen</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">америкаса морт</l>
+     <stg>
+       <st Contlex="NounMort">америкаса</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">америкаса</comp>
+       <comp ord="E2" pos="N">морт</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">American</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">amerikkalainen</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="М" t3="М" uri="534-ammiak" id="534">
      <l pos="N">аммиак</l>
        <l_var type="molodtsov-cyr">aмміак</l_var>
@@ -5136,6 +6740,26 @@
        <x>амысь дорны</x>
        <xt xml:lang="rus">выковать лемех</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">амёба</l>
+     <stg>
+       <st Contlex="N_">амёба</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="lat">
+       <t pos="N">Amoeba</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">amoeba</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">ameeba</t>
+       <t pos="N">tumalimaeläin</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -5410,6 +7034,66 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">английскӧй кывъя</l>
+     <stg>
+       <st Contlex="N_">английскӧй кывъя</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">английскӧй</comp>
+       <comp ord="E2" pos="N">кывъя</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">English-speaking</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">englanninkielinen</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">андел</l>
+     <stg>
+       <st Contlex="N_">андел2</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <field fieldType="BIB"/> <sg><s s_type="confer">идӧг</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">angel</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">enkeli</t>
+     </tg>
+   </mg>
+   <mg relId="0"> <field>церк.</field> <sg><s s_type="synonym">ангел</s></sg>
+     <tg xml:lang="rus">
+       <t pos="N">ангел</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">андрака</l>
+     <stg>
+       <st Contlex="N_">андрака</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <range dialect="Pech" rangeSpat="dialect"/> <range dialect="I" rangeSpat="dialect"/> <field fieldType="MAM"/>
+     <tg xml:lang="lat">
+       <t pos="N">Ondatra zibethica L.</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">muskrat</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">piisami</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Н" t3="Д" uri="567-andrat" id="567">
      <l pos="N">андрат</l>
@@ -5497,6 +7181,28 @@
        <xt xml:lang="fin">täyttää lomake</xt>
        <xt xml:lang="rus">заполнять анкету</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">анна син</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-M">анна син</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">анна</comp>
+       <comp ord="E2" pos="N">син</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany">
+     <tg xml:lang="lat">
+       <t pos="N">Viola tricolor hortensis</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">pansy</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">keto-orvokki</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -5613,6 +7319,24 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">антикрист</l>
+     <stg>
+       <st Contlex="N_">антикрист</st>
+       <st Contlex="N_">антихрист</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">anti-Christ</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">antikristus</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="Н" t3="Т" uri="584-antonim" id="584">
      <l pos="N">антоним</l>
        <l_var type="molodtsov-cyr">aнтоԋім</l_var>
@@ -5720,6 +7444,43 @@
        <xt xml:lang="fin">Vesikko elää metsäjoissa.</xt>
        <xt xml:lang="rus">норка обитает в лесных речках</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">анча ку</l>
+     <stg>
+       <st Contlex="N_">анча ку</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">анча</comp>
+       <comp ord="E2" pos="N">ку</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">mink fur</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">vesikon nahka</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">анчапи</l>
+     <stg>
+       <st Contlex="NounPi">анчапи</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">mink kit</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">vesikonpoikanen</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -5909,6 +7670,108 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">анькытш за</l>
+     <stg>
+       <st Contlex="N_">анькытш за</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">анькытш</comp>
+       <comp ord="E2" pos="N">за</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">pea vine</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">herneenvarsi</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">анькытш пуртӧс</l>
+     <stg>
+       <st Contlex="N_">анькытш пуртӧс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">анькытш</comp>
+       <comp ord="E2" pos="N">пуртӧс</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">peapod</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">herneenpalko</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">анькытш пызь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">анькытш пыз</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">анькытш</comp>
+       <comp ord="E2" pos="N">пызь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">pea flour</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">hernejauho</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">анькытш той</l>
+     <stg>
+       <st Contlex="N_END-IN-J">анькытш то</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">анькытш</comp>
+       <comp ord="E2" pos="N">той</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="ENT"/>
+     <tg xml:lang="lat">
+       <t pos="N">Acyrthosiphon pisum</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">pea aphid</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">hernekirva</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">анькытш тусь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">анькытш тус</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">анькытш</comp>
+       <comp ord="E2" pos="N">тусь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">(an individual) pea</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">herne(ensiemen)</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Н" t3="Ь" uri="605-an-tuij" id="605">
      <l pos="N">аньтуй</l>
@@ -5934,6 +7797,23 @@
        <xt xml:lang="fin">Kotona kaikkialla näkyi naisen kädenjälki.</xt>
        <xt xml:lang="rus">дома во всём было заметно её уменье хозяйничать и рукодельничать</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">аньягур</l>
+     <stg>
+       <st Contlex="N_">аньягур</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">bonfire made from brome-grass??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t re="tehty päistäreistä" pos="N">nuotio</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -5996,6 +7876,20 @@
        <t pos="N">короста</t>
        <t pos="N">струп</t>
        <t pos="N">парша</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">анягури</l>
+     <stg>
+       <st Contlex="N_">анягури</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t re="tehty päistäreistä" pos="N">nuotio</t>
      </tg>
    </mg>
 </e>
@@ -6102,6 +7996,43 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">апелсин</l>
+     <stg>
+       <st Contlex="N_">апелсин</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">orange</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">appelsiini</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">апелсин сок</l>
+     <stg>
+       <st Contlex="N_">апелсин сок</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">апелсин</comp>
+       <comp ord="E2" pos="N">сок</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">orange juice</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">appelsiinimehu</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="П" t3="Е" uri="638-apel-sin" id="638">
      <l pos="N">апельсин</l>
        <l_var type="molodtsov-cyr">aпеԉԍін</l_var>
@@ -6181,6 +8112,24 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">апостол</l>
+     <stg>
+       <st Contlex="N_">апостол2</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <field fieldType="BIB"/>
+     <tg xml:lang="eng">
+       <t pos="N">apostol</t>
+       <t pos="N">disiple</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">apostoli</t>
+       <t pos="N">opetuslapsi</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="П" t3="П" uri="645-apparat" id="645">
      <l pos="N">аппарат</l>
        <l_var type="molodtsov-cyr">aппарат</l_var>
@@ -6213,6 +8162,20 @@
        <xt xml:lang="fin">lypsykone</xt>
        <xt xml:lang="rus">доильный аппарат</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">аппаратура</l>
+     <stg>
+       <st Contlex="N_">аппаратура</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">kojeisto</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -6275,6 +8238,37 @@
      <tg xml:lang="rus">
        <t pos="N">аппликация</t>
      </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="А" t2="П" t3="Р" uri="655-aprel-" id="655">
+     <l pos="N" sem_type="Time">апрель</l>
+     <l_var type="molodtsov-cyr">aпреԉ</l_var>
+     <stg>
+       <st Contlex="N_">апрель</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="month"/> <sg><s s_type="seeNative">кос му тӧлысь_PROP</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N" sem_type="Time">April</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N" sem_type="Time">huhtikuu</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">апрель</t>
+       <t pos="A">апрельский</t>
+     </tg>
+     <xg>
+       <x>апрельын</x>
+       <xt xml:lang="rus">в апреле</xt>
+     </xg>
+     <xg>
+       <x>апрель лунъясӧ</x>
+       <xt xml:lang="rus">в апрельские дни</xt>
+     </xg>
+     <sg><s pos="N" s_type="seeAlso">кос му</s></sg>
    </mg>
 </e>
   <e>
@@ -6464,6 +8458,42 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ар черинянь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ар черинян</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ар</comp>
+       <comp ord="E2" pos="N">черинянь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">pikkukaloista tehty kalapiiras</t>
+       <t pos="N">kalakukko</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">араб</l>
+     <stg>
+       <st Contlex="N_">араб</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">Arab</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">arabialainen</t>
+       <t pos="N">arabi</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Р" t3="А" uri="665-arava" id="665">
      <l pos="N">арава</l>
@@ -6584,6 +8614,24 @@
      </tg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">арбитражнӧй суд</l>
+     <stg>
+       <st Contlex="N_">арбитражнӧй суд</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">арбитражнӧй</comp>
+       <comp ord="E2" pos="N">суд</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">välimiesoikeus</t>
+       <t pos="N">välitystuomioistuin</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Р" t3="Б" uri="681-arbuz" id="681">
      <l pos="N">арбуз</l>
@@ -6620,6 +8668,26 @@
        <xt xml:lang="fin">arbuusin kuori</xt>
        <xt xml:lang="rus">арбузная корка</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">арбуз кыш</l>
+     <stg>
+       <st Contlex="N_">арбуз кыш</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">арбуз</comp>
+       <comp ord="E2" pos="N">кыш</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">water-melon rind</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">arbuusin kuori</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -6730,6 +8798,23 @@
        <x>аргыш син</x>
        <xt xml:lang="rus">направляющая повозка в обозе</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ареал</l>
+     <stg>
+       <st Contlex="N_">ареал2</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="confer">паськаланін</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">geographic range</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">levinneisyysalue</t>
+       <t pos="N">areaali</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -7018,6 +9103,77 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">аркирей</l>
+     <stg>
+       <st Contlex="N_END-IN-J">аркире</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="capacity"/>
+     <tg xml:lang="eng">
+       <t pos="N">bishop</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">piispa</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">аркирейув</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-V/L">аркирейу</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">bishopric</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">hiippakunta</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">арктика</l>
+     <stg>
+       <st Contlex="N_">арктика</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">the arctic</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">arktika??</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">арктика группа</l>
+     <stg>
+       <st Contlex="N_">арктика группа</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">арктика</comp>
+       <comp ord="E2" pos="N">группа</comp> </compg>
+   </lg> <drv>-са</drv>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">arctic group??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">arktinen osasto</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="Р" t3="Л" uri="739-arlyd" id="739">
      <l pos="N">арлыд</l>
        <l_var type="molodtsov-cyr">aрлыԁ</l_var>
@@ -7060,6 +9216,7 @@
        <l_var type="molodtsov-cyr">aрмејеч</l_var>
      <stg>
        <st Contlex="N_">армееч</st>
+       <st Contlex="N_" status="Err/Orth">армеец</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -7068,6 +9225,7 @@
      </tg>
      <xg>
        <x>гӧрд армееч</x>
+       <xt xml:lang="fin">puna-armeijalainen</xt>
        <xt xml:lang="rus">красноармеец</xt>
      </xg>
    </mg>
@@ -7157,6 +9315,89 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">арся вижъюр</l>
+     <stg>
+       <st Contlex="N_">арся вижъюр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">арся</comp>
+       <comp ord="E2" pos="N">вижъюр</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany"> <sg><s s_type="confer">вижъюр</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">autumn dandelion??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">syysmaitiainen</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">арся гут</l>
+     <stg>
+       <st Contlex="N_">арся гут</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">арся</comp>
+       <comp ord="E2" pos="N">гут</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="ENT"/>
+     <tg xml:lang="lat">
+       <t pos="N">Stomoxys calcitrans</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">stable fly</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pistokärpänen</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">арся гӧн усьӧм</l>
+     <stg>
+       <st Contlex="N_">арся гӧн усьӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="A">арся</comp>
+       <comp ord="E2" pos="N">гӧн</comp>
+       <comp ord="E3" pos="N">усьӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">autumn molt</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">syyssulkasato</t>
+       <t pos="N">syksyinen karvanlähtö</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">арся лысӧм</l>
+     <stg>
+       <st Contlex="N_">арся лысӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">арся</comp>
+       <comp ord="E2" pos="N">лысӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">autumn molting (of birds)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">syyssulkasato</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Р" t3="Т" uri="765-art" id="765">
      <l hid="Hom1" pos="N">арт</l>
@@ -7233,6 +9474,25 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N">должность</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">арта</l>
+     <stg>
+       <st Contlex="NounMort">арта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">official</t>
+       <t pos="N">functionary</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">viranomainen</t>
+       <t pos="N">virkailija</t>
      </tg>
    </mg>
 </e>
@@ -7318,6 +9578,23 @@
    </mg>
 </e>
   <e>
+   <lg t1="А" t2="Р" t3="Т" uri="791-artas-ys-" id="791">
+     <l pos="N">артасьысь</l>
+     <l_var type="molodtsov-cyr">aртаԍыԍ</l_var>
+     <stg>
+       <st Contlex="N_END-IN-Ь">артасьыс</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <rg><r range_time="neologism"/></rg>
+     <tg xml:lang="eng">
+       <t pos="N">bookkeeper</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kirjanpitäjä</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="Р" t3="Т" uri="788-artas-m" id="788">
      <l pos="N">артасьӧм</l>
        <l_var type="molodtsov-cyr">aртаԍӧм</l_var>
@@ -7357,6 +9634,40 @@
    <mg relId="2">
      <tg xml:lang="rus">
        <t pos="N">торговля</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">артасян</l>
+     <stg>
+       <st Contlex="N_">артасян</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <rg><r range_time="neologism"/></rg>
+     <tg xml:lang="eng">
+       <t pos="N">calculator</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">laskuri</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">артасянін</l>
+     <stg>
+       <st Contlex="N_">артасянін</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">book-keeping</t>
+       <t pos="N">accounting section</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kirjanpito</t>
      </tg>
    </mg>
 </e>
@@ -7590,6 +9901,40 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">артистань</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">артистан</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <rg><r range_time="neologism"/></rg>
+     <tg xml:lang="eng">
+       <t pos="N">(female) artist</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">(nais)taiteilija</t>
+       <t pos="N">naisartisti</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">артистизм</l>
+     <stg>
+       <st Contlex="N_">артистизм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">artistism??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">taiteellisuus</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="Р" t3="Т" uri="829-artistka" id="829">
      <l pos="N">артистка</l>
        <l_var type="molodtsov-cyr">aрԏістка</l_var>
@@ -7739,6 +10084,21 @@
    <mg relId="1">
      <tg xml:lang="rus">
        <t pos="N">сговор</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">артмӧдысь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">артмӧдыс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">muodostaja</t>
+       <t pos="N">perustaja</t>
      </tg>
    </mg>
 </e>
@@ -7972,10 +10332,18 @@
        <l_var type="molodtsov-cyr">aршын</l_var>
      <stg>
        <st Contlex="N_">аршын</st>
+       <st Contlex="N_" status="Err/Orth">аршин</st>
      </stg>
    </lg>
    <mg relId="0">
      <defNative/>
+           <isa isaType="measure"/>
+     <tg xml:lang="eng">
+       <t re="28 in." pos="N">arshin</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t re="71,12 cm" pos="N">arsina</t>
+     </tg>
      <tg xml:lang="rus">
        <t re="мера длины, равная 0, 71 м." pos="N">аршин</t>
      </tg>
@@ -8037,6 +10405,46 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">аръян турун</l>
+     <stg>
+       <st Contlex="N_">аръян турун</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">аръян</comp>
+       <comp ord="E2" pos="N">турун</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">hay intended for feeding in the fall (close by for easy access)</t>
+     </tg>
+     <tg xml:lang="fin"> <te pos="N">heinä, joka on tarkoitettu käytettäväksi syksyllä, kelirikon aikaan</te>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">арын катан сьӧмга</l>
+     <stg>
+       <st Contlex="N_">арын катан сьӧмга</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ms="Sg.Ine" ord="E1" pos="N">ар</comp>
+       <comp ord="E2" pos="A">катан</comp>
+       <comp ord="E3" pos="N">сьӧмга</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">salmon that goes up the river in autumn</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">syksyllä jokea nouseva lohi</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Р" t3="Ӧ" uri="753-ar-s" id="753">
      <l pos="N">арӧс</l>
@@ -8070,6 +10478,124 @@
    </mg>
 </e>
   <e exclude="fst">
+   <lg>
+     <l pos="N">ас бобӧнянь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ас бобӧнян</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ас</comp>
+       <comp ord="E2" pos="N">бобӧнянь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">clover (self-pollinating)??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t re="itsepölyttävä??" pos="N">apila</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас вылӧ уджалысь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">ас вылӧ уджалыс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Pron">ас</comp>
+       <comp ms="Sg.Ill" ord="E2" pos="Adp">вылӧ</comp>
+       <comp ord="E3" pos="N">уджалысь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">self-employed</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">yksityisyrittäjä</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас вылӧ уджалӧм</l>
+     <stg>
+       <st Contlex="N_">ас вылӧ уджалӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Pron">ас</comp>
+       <comp ms="Sg.Ill" ord="E2" pos="Adp">вылӧ</comp>
+       <comp ord="E3" pos="N">уджалӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">self-employment</t>
+       <t pos="N">working for oneself</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">yksityisyrittäjyys</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас дзоридз кӧйдысӧн гӧрддзысьысь быдмӧг</l>
+     <stg>
+       <st Contlex="N_">ас дзоридз кӧйдысӧн гӧрддзысьысь быдмӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0" domain="botany">
+     <tg xml:lang="eng">
+       <t pos="N">self-pollinating plant</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">itsepölyttävä kasvi??</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас дзоридз пызьӧн гӧрддзысьӧм</l>
+     <stg>
+       <st Contlex="N_">ас дзоридз пызьӧн гӧрддзысьӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Pron">ас</comp>
+       <comp ord="E2" pos="N">дзоридз</comp>
+       <comp ms="Sg.Ins" ord="E3" pos="N">пызьӧн</comp>
+       <comp ord="E4" pos="N">гӧрддзысьӧм</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany">
+     <tg xml:lang="eng">
+       <t pos="N">self-pollination</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">ristipölyttävä kasvi??</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас дор сулалӧм</l>
+     <stg>
+       <st Contlex="N_">ас дор сулалӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Pron">ас</comp>
+       <comp ord="E2" pos="N">дор</comp>
+       <comp ord="E3" pos="N">сулалӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">самозащита</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
    <lg t1="А" t2="С" t3=" " uri="901-as-kerka" id="901">
      <l pos="N">ас керка</l>
        <l_var type="molodtsov-cyr">aс керка</l_var>
@@ -8088,6 +10614,158 @@
      </tg>
      <tg xml:lang="rus">
        <t>свой, собственный дом</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас коддьӧм</l>
+     <stg>
+       <st Contlex="N_">ас коддьӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ас</comp>
+       <comp ord="E2" pos="N">коддьӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">semblance</t>
+       <t pos="N">likeness</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">itsensä kaltaisuus</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас ним</l>
+     <stg>
+       <st Contlex="N_">ас ним</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ас</comp>
+       <comp ord="E2" pos="N">ним</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative>мортлы, пемӧслы сетӧм ним</defNative>
+     <tg>
+       <t pos="N">собственное имя</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас овмӧс</l>
+     <stg>
+       <st Contlex="N_">ас овмӧс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ас</comp>
+       <comp ord="E2" pos="N">овмӧс</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">private economy</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">yksityistalous</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас олӧм гижӧд</l>
+     <stg>
+       <st Contlex="N_">ас олӧм гижӧд</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Pron">ас</comp>
+       <comp ord="E2" pos="N">олӧм</comp>
+       <comp ord="E3" pos="N">гижӧд</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">autobiography</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">omaelämäkerta</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ас шод</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">ас шод</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">ас</comp>
+       <comp ord="E2" pos="N">шод</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">воля</t>
+       <t pos="N">свобода</t>
+     </tg>
+     <xg>
+       <x>ас шод воштыны</x>
+       <xt xml:lang="fin">menettää vapautensa</xt>
+       <xt xml:lang="rus">потерять свободу</xt>
+     </xg>
+     <xg>
+       <x>ас шодйыд быдӧнлы дона</x>
+       <xt xml:lang="fin">Oma vapaus on jokaiselle arvokas.</xt>
+       <xt xml:lang="rus">воля всем дорога</xt>
+     </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">асалан вежлӧг</l>
+     <stg>
+       <st Contlex="N_">асалан вежлӧг</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">асалан</comp>
+       <comp ord="E2" pos="N">вежлӧг</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">genitive</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">genetiivi</t>
+     </tg>
+   </mg>
+   <mg domain="grammar">
+     <tg xml:lang="rus">
+       <t pos="N">родительный падеж</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">асалан нимвежтас</l>
+     <stg>
+       <st Contlex="N_">асалан нимвежтас</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">асалан</comp>
+       <comp ord="E2" pos="N">нимвежтас</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">possessive pronoun</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">possessiivipronomini</t>
      </tg>
    </mg>
 </e>
@@ -8146,6 +10824,26 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">асбеста керамика</l>
+     <stg>
+       <st Contlex="N_">асбеста керамика</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">асбеста</comp>
+       <comp ord="E2" pos="N">керамика</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">asbestos-ceramics</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">asbestikeramiikka</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="С" t3="В" uri="914-asvezh-rt-m" id="914">
      <l pos="N">асвежӧртӧм</l>
@@ -8164,6 +10862,44 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N">самосознание</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">асвеськӧдлӧм</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">асвеськӧдлӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">self-government</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">itsehallinto</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">асвӧляа котыр</l>
+     <stg>
+       <st Contlex="N_">асвӧляа котыр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">асвӧляа</comp>
+       <comp ord="E2" pos="N">котыр</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">volunteer organization</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">vapaaehtoisjoukko</t>
+       <t pos="N">vapaaehtoinen yhdistys</t>
      </tg>
    </mg>
 </e>
@@ -8297,6 +11033,24 @@
        <xt xml:lang="rus">ассимилированный звук</xt>
 <sg><s pos="N" relId="3" s_type="seeAlso">ӧткодялӧм</s></sg>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">аскодясьӧм</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">аскодясьӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">assimilation</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">assimilaatio</t>
+       <t pos="N">assimilointi</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -8470,6 +11224,24 @@
        <xt xml:lang="fin">panna kirja paikoilleen</xt>
        <xt xml:lang="rus">книгу обратно положить на своё место</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">аслыд аралӧм</l>
+     <stg>
+       <st Contlex="N_">аслыд аралӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">аслыд</comp>
+       <comp ord="E2" pos="N">аралӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">рвачество</t>
+       <t pos="N">присвоение</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -8699,6 +11471,23 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">асныралысь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">асныралыс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">obstinate person</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">niskoittelija</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="С" t3="Н" uri="1124-asnyral-m" id="1124">
      <l pos="N">асныралӧм</l>
        <l_var type="molodtsov-cyr">aсныралӧм</l_var>
@@ -8783,6 +11572,26 @@
      <defNative/>
      <tg xml:lang="rus">
        <t pos="N">аспирантура</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">аспом скӧт</l>
+     <stg>
+       <st Contlex="N_">аспом скӧт</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">аспом</comp>
+       <comp ord="E2" pos="N">скӧт</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">privately owned cattle</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">oma karja</t>
      </tg>
    </mg>
 </e>
@@ -8927,9 +11736,10 @@
        <l_var type="molodtsov-cyr">aсваԉт</l_var>
      <stg>
        <st Contlex="N_">асфальт</st>
+       <st Contlex="N_" status="Err/Orth">аспальт</st>
      </stg>
    </lg>
-   <mg relId="0"> <sg><s s_type="synonym">аспальт</s></sg>
+   <mg relId="0">
      <tg xml:lang="eng">
        <t pos="N">asphalt</t>
      </tg>
@@ -8961,6 +11771,24 @@
      <tg xml:lang="rus">
        <t pos="N">свобода</t>
        <t pos="N">воля</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">асшӧр олысь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">асшӧр олыс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">асшӧр</comp>
+       <comp ord="E2" pos="N">олысь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">yksityisyrittäjä</t>
+       <t pos="N">keskivarakas talonpoika</t>
      </tg>
    </mg>
 </e>
@@ -9007,6 +11835,65 @@
    <mg relId="0"> <attestation yyyymmdd="20160101" src="Fu-lab"/>
      <tg xml:lang="rus">
        <t pos="N">автономия</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">асъя</l>
+     <stg>
+       <st Contlex="N_">асъя</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <field fieldType="RELIG"/>
+     <tg xml:lang="eng">
+       <t pos="N">matin</t>
+       <t pos="N">morning prayer</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">aamurukous</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">заутреня</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">асъя койт</l>
+     <stg>
+       <st Contlex="N_">асъя койт</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">асъя</comp>
+       <comp ord="E2" pos="N">койт</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">morning mating (of birds)??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">aamusoidin</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">асъя тӧв</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-V/L">асъя тӧ</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">асъя</comp>
+       <comp ord="E2" pos="N">тӧв</comp> </compg>
+   </lg>
+   <mg relId="0"> <range dialect="SW" rangeSpat="dialect"/>
+     <tg xml:lang="eng">
+       <t pos="N">east wind</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">itätuuli</t>
      </tg>
    </mg>
 </e>
@@ -9357,6 +12244,70 @@
        <xt xml:lang="fin">Idässä on seesteistä.</xt>
        <xt xml:lang="rus">на востоке безоблачно</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="А" t2="С" t3="Ы" uri="1243-asyvlador" id="1243">
+     <l hid="Hom1" pos="N">асывладор</l>
+       <l_var type="molodtsov-cyr">aсывлаԁор</l_var>
+     <stg>
+       <st Contlex="N_">асывладор</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s pos="N" s_type="see">асъявыв</s></sg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="А" t2="С" t3="Ы" uri="1243-asyvlador" id="1243">
+     <l hid="Hom2" pos="N">асывладор</l>
+       <l_var type="molodtsov-cyr">aсывлаԁор</l_var>
+     <stg>
+       <st Contlex="N_">асывладор</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">dawn</t>
+       <t pos="N">eastern side</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">aamunkoitto</t>
+       <t pos="N">itäpuoli</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">восточная сторона</t>
+     </tg>
+     <xg>
+       <x>енэжлӧн асывладорыс муртса кельыдаліс</x>
+       <xt xml:lang="fin">Taivaan itäpuoli tuli juuri ja juuri vaaleaksi.</xt>
+       <xt xml:lang="rus">восточная сторона неба едва бледнела</xt>
+     </xg>
+     <xg>
+       <x>асывладор ӧшиньӧд пырис шонді</x>
+       <xt xml:lang="rus">с восточной стороны в окно заглянуло солнце</xt>
+     </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">асывъя тӧв</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-V/L">асывъя тӧ</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">асывъя</comp>
+       <comp ord="E2" pos="N">тӧв</comp> </compg>
+   </lg>
+   <mg relId="0"> <range dialect="SW" rangeSpat="dialect"/>
+     <tg xml:lang="eng">
+       <t pos="N">east wind</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">itätuuli</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -9753,6 +12704,46 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">атома реактор</l>
+     <stg>
+       <st Contlex="N_">атома реактор</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">атома</comp>
+       <comp ord="E2" pos="N">реактор</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">atomic reactor</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">ydinreaktori</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">атома электростанция</l>
+     <stg>
+       <st Contlex="N_">атома электростанция</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">атома</comp>
+       <comp ord="E2" pos="N">электростанция</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">atomic power plant</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">ydinvoimala</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="А" t2="Т" t3="Т" uri="1321-attestat" id="1321">
      <l pos="N">аттестат</l>
@@ -9858,6 +12849,24 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">аудитор</l>
+     <stg>
+       <st Contlex="N_">аудитор</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t re="tax" pos="N">auditor</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">verotarkastaja</t>
+       <t pos="N">veroviranomainen</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="А" t2="У" t3="Д" uri="1342-auditoriya" id="1342">
      <l pos="N">аудитория</l>
        <l_var type="molodtsov-cyr">aуԃіторіа</l_var>
@@ -9955,6 +12964,28 @@
        <x>медбур ачпас</x>
        <xt xml:lang="rus">лучшее селфи</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">ачыс ветлысь кӧр</l>
+     <stg>
+       <st Contlex="N_">ачыс ветлысь кӧр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="N">ветлысь</comp>
+       <comp ord="E3" pos="N">кӧр</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">reindeer going by itself</t>
+       <t pos="N">renegade reindeer</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">karkaileva poro??</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -10153,6 +13184,179 @@
    </mg>
 </e>
   <e>
+   <lg t1="Б" t2="А" t3="Б" uri="1375-baba" id="1375">
+     <l hid="Hom1" pos="N">баба</l>
+       <l_var type="molodtsov-cyr">баба</l_var>
+     <stg>
+       <st Contlex="N_">баба</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">nainen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">женщина</t>
+       <t pos="A">женский</t>
+       <t pos="A">бабий</t>
+     </tg>
+     <xg>
+       <x>ёсь кывъя баба</x>
+       <xt xml:lang="fin">teräväkielinen nainen</xt>
+       <xt xml:lang="rus">язвительная, острая на язык женщина</xt>
+     </xg>
+     <xg>
+       <x>ӧтка баба</x>
+       <xt xml:lang="fin">yksinäinen nainen</xt>
+       <xt xml:lang="fin">perheetön nainen</xt>
+       <xt xml:lang="rus">одинокая женщина</xt>
+     </xg>
+     <xg>
+       <x>баба гӧлӧс</x>
+       <xt xml:lang="fin">naisääni</xt>
+       <xt xml:lang="rus">женский голос</xt>
+     </xg>
+     <xg>
+       <x>баба чукӧр</x>
+       <xt xml:lang="fin">naisryhmä</xt>
+       <xt xml:lang="rus">группа женщин</xt>
+     </xg>
+     <xg>
+       <x>баба шог</x>
+       <xt xml:lang="fin">naisen suru</xt>
+       <xt xml:lang="rus">женское горе, женская печаль</xt>
+     </xg>
+     <xg>
+       <x>баба вылӧ туйӧ (омӧлик мужик йылысь)</x>
+       <xt re="о слабом, непутёвом мужчине" xml:lang="rus">как баба</xt>
+     </xg>
+     <xg genreType="proverb:пословица">
+       <x>бабалы тош оз пет</x>
+       <xt xml:lang="fin">Naiselle ei parta kasva.</xt>
+       <xt xml:lang="rus">у женщины борода не вырастет</xt>
+     </xg>
+     <xg genreType="proverb:пословица">
+       <x>бабаыд пулятӧ оз аддзыв да войнатӧ тӧдӧ</x>
+       <xt xml:lang="fin">Nainen ei luotia näe, mutta tuntee sodan.</xt>
+       <xt xml:lang="rus">женщина и пули не видает, а войну знает</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">vaimo</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">жена</t>
+     </tg>
+     <xg>
+       <x>нёльӧд ныв бабаыс вайис</x>
+       <xt xml:lang="fin">Naiselle syntyi neljäs tyttö.</xt>
+       <xt xml:lang="rus">четвёртую дочь жена родила</xt>
+     </xg>
+     <xg>
+       <x>первой баба пӧ енсянь, мӧд — дявӧлсянь</x>
+       <xt xml:lang="fin">Ensimmäinen vaimo on Jumalasta, toinen pirusta.</xt>
+       <xt xml:lang="rus">первая жена, говорят, от бога, вторая — от дьявола</xt>
+     </xg>
+     <xg genreType="proverb:пословица">
+       <x>бур баба — овмӧс кутысь, лёк баба — овмӧс воштысь</x>
+       <xt xml:lang="fin">Hyvä vaimo hoitaa taloutta, huono vaimo hävittää talouden.</xt>
+       <xt xml:lang="rus">хорошая жена хозяйство ведёт, плохая жена транжирит его</xt>
+     </xg>
+     <xg>
+       <x>бабасӧ пӧльыштӧм вылӧ нин пуксьӧдӧ</x>
+       <xt xml:lang="rus">жену сажает, сдунув с места пыль</xt>
+     </xg>
+     <xg>
+       <x>бабатӧгыд сёйтӧг и ютӧг лоӧ овны</x>
+       <xt xml:lang="fin">Vaimotta on elettävä ilman ruokaa ja juomaa.</xt>
+       <xt xml:lang="rus">без жены ни поесть, ни попить</xt>
+     </xg>
+     <xg>
+       <x>баба гожӧм</x>
+       <xt xml:lang="fin">intiaanikesä</xt>
+       <xt xml:lang="fin">jälkikesä</xt>
+       <xt xml:lang="rus">бабье лето</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Б" uri="1375-baba" id="1375">
+     <l hid="Hom2" pos="N">баба</l>
+       <l_var type="molodtsov-cyr">баба</l_var>
+     <stg>
+       <st Contlex="N_">баба</st>
+     </stg>
+   </lg>
+   <mg relId="0" domain="technology">
+     <tg xml:lang="rus">
+       <t>баба</t>
+     </tg>
+     <xg>
+       <x>свая виян баба</x>
+       <xt xml:lang="rus">баба для вбивания свай</xt>
+     </xg> <sg><s pos="N" s_type="seeAlso">тувкан</s></sg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">баба сёрни</l>
+     <stg>
+       <st Contlex="N_">баба сёрни</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">баба</comp>
+       <comp ord="E2" pos="N">сёрни</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">old ladies' gab</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">akkain juorut</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">баба турун</l>
+     <stg>
+       <st Contlex="N_">баба турун</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">баба</comp>
+       <comp ord="E2" pos="N">турун</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany">
+     <tg xml:lang="fin">
+       <t>ängelmä</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">баба юр</l>
+     <stg>
+       <st Contlex="N_">баба юр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">баба</comp>
+       <comp ord="E2" pos="N">юр</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">woman's head</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">naisen pää</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Б" t2="А" t3="Б" uri="1376-baba-vnuka" id="1376">
      <l pos="N">баба-внука</l>
        <l_var type="molodtsov-cyr">баба-внука</l_var>
@@ -10192,6 +13396,116 @@
    <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="N">опёнок</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бабапель тшак</l>
+     <stg>
+       <st Contlex="N_">бабапель тшак</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бабапель</comp>
+       <comp ord="E2" pos="N">тшак</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany">
+     <tg xml:lang="fin">
+       <t pos="N">mesisieni</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Б" uri="1382-babayur" id="1382">
+     <l hid="Hom1" pos="N">бабаюр</l>
+       <l_var type="molodtsov-cyr">бабајур</l_var>
+     <stg>
+       <st Contlex="N_">бабаюр</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">(married woman's) hair-do</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">vaimonkampaus</t>
+       <t pos="N">vaimonpäähine</t>
+       <t pos="N">voikukka</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t t_type="te">причёска замужней женщины</t>
+       <t t_type="te">косы, уложенные вокруг головы</t>
+     </tg>
+     <xg>
+       <x>бабаюр новлыны эз кӧсйы</x>
+       <xt xml:lang="fin">Hän ei halunnut pitää vaimonpäähinettä.</xt>
+       <xt xml:lang="rus">не хотела носить причёску замужней женщины</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">бабаюр</t>
+       <t t_type="te" pos="N">головной убор замужней женщины</t>
+     </tg>
+     <xg>
+       <x>кӧзяйкаыс гӧрдов бабаюра</x>
+       <xt xml:lang="fin">emäntä, jolla on punertava vaimonpäähine</xt>
+       <xt xml:lang="rus">хозяйка в бледно-красном головном уборе</xt>
+     </xg>
+     <xg>
+       <x>бабаюра ичмонь — кӧч монь</x>
+       <xt xml:lang="rus">молодуха в старом головном уборе — заячья невестка</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Б" uri="1382-babayur" id="1382">
+     <l hid="Hom2" pos="N">бабаюр</l>
+       <l_var type="molodtsov-cyr">бабајур</l_var>
+     <stg>
+       <st Contlex="N_">бабаюр</st>
+     </stg>
+   </lg>
+   <mg relId="0"><rg><r range_space="dialect"/></rg><field>бот.</field>
+     <tg xml:lang="rus">
+       <t pos="N">одуванчик</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бабаюр турун</l>
+     <stg>
+       <st Contlex="N_">бабаюр турун</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бабаюр</comp>
+       <comp ord="E2" pos="N">турун</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany">
+     <tg xml:lang="fin">
+       <t pos="N">päivänkakkara</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">бабе</l>
+     <stg>
+       <st Contlex="N_">бабе</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="lat">
+       <t pos="N">Phoxinus phoxinus</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">common minnow</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">mutu</t>
      </tg>
    </mg>
 </e>
@@ -10350,6 +13664,23 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">бабук</l>
+     <stg>
+       <st Contlex="N_">бабук</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">grandma</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">mummo</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Б" t2="А" t3="Б" uri="1409-babun-" id="1409">
      <l pos="N">бабунь</l>
        <l_var type="molodtsov-cyr">бабуԋ</l_var>
@@ -10373,6 +13704,25 @@
        <x>ен да бур удж тіянлы, бабӧньяс</x>
        <xt xml:lang="rus">бог вам в помощь, бабоньки</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бабъей сёрни</l>
+     <stg>
+       <st Contlex="N_">бабъей сёрни</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бабъей</comp>
+       <comp ord="E2" pos="N">сёрни</comp> </compg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="pro">баба сёрни</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">old ladies' gab</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">akkain juorut</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -10442,6 +13792,42 @@
        <x>шыасьны бабӧ дорӧ</x>
        <xt xml:lang="fin">kääntyä mummin puoleen</xt>
        <xt xml:lang="rus">обратиться к бабушке</xt>
+     </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бабӧн шуысь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">бабӧн шуыс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бабӧн</comp>
+       <comp ord="E2" pos="N">шуысь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">lapsenlapsi</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">внук</t>
+       <t pos="N">внучка</t>
+     </tg>
+     <xg>
+       <x>вежаньӧн бабӧн шуысь</x>
+       <xt xml:lang="fin">kummilapsi</xt>
+       <xt xml:lang="rus">крестник, крестница</xt>
+     </xg>
+     <xg>
+       <x>дядьӧн бабӧн шуысь</x>
+       <xt xml:lang="fin">sukulaislapsi (sisarenpoika. -tytär; veljenpoika, -tytär)</xt>
+       <xt xml:lang="rus">племянник, племянница</xt>
+     </xg>
+     <xg>
+       <x>пӧльӧн, пӧчӧн бабӧн шуысь</x>
+       <xt xml:lang="fin">lapsenlapsi</xt>
+       <xt xml:lang="rus">внук, внучка</xt>
      </xg>
    </mg>
 </e>
@@ -10710,6 +14096,28 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">багыр пу</l>
+     <stg>
+       <st Contlex="N_">багыр пу</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">багыр</comp>
+       <comp ord="E2" pos="N">пу</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">shaft of a gaff</t>
+       <t pos="N">shaft of a hook</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">puoshaan varsi</t>
+       <t pos="N">keksin varsi</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="Б" t2="А" t3="Д" uri="1453-badd-sin" id="1453">
      <l pos="N">баддьӧсин</l>
@@ -10727,6 +14135,27 @@
        <t t_type="te" pos="N">место, заросшее ивой</t>
        <t pos="N">ивняк</t>
        <t pos="N">тальник</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">баддя места</l>
+     <stg>
+       <st Contlex="N_">баддя места</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">баддя</comp>
+       <comp ord="E2" pos="N">места</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">place overgrown with willows</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pajukko</t>
+       <t pos="N">pajuja kasvava paikka</t>
      </tg>
    </mg>
 </e>
@@ -10845,6 +14274,126 @@
        <xt xml:lang="fin">Lehmät laiduntavat pajukossa.</xt>
        <xt xml:lang="rus">коровы пасутся в ивняке</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бадь баля</l>
+     <stg>
+       <st Contlex="N_">бадь баля</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бадь</comp>
+       <comp ord="E2" pos="N">баля</comp> </compg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="synonym">берба баля</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">willow catkin</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pajunkissa</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бадь кӧрым</l>
+     <stg>
+       <st Contlex="N_">бадь кӧрым</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бадь</comp>
+       <comp ord="E2" pos="N">кӧрым</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">willow forage (feed)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pajurehu</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бадь ньӧр</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">бадь ньӧр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бадь</comp>
+       <comp ord="E2" pos="N">ньӧр</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">willow twig</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pajunvitsa</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бадь потша</l>
+     <stg>
+       <st Contlex="N_">бадь потша</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бадь</comp>
+       <comp ord="E2" pos="N">потша</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">willow pole-fence</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pajuaita</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бадь пу</l>
+     <stg>
+       <st Contlex="N_">бадь пу</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="N">бадь</comp>
+       <comp ord="E2" pos="N">пу</comp> </compg>
+   </lg>
+   <mg relId="0" domain="botany">
+     <tg xml:lang="lat">
+       <t pos="N">Salix</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">willow</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">paju</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бадь пытш</l>
+     <stg>
+       <st Contlex="N_">бадь пытш</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="N">бадь</comp>
+       <comp ord="E2" pos="N">пытш</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="ENT"/>
+     <tg xml:lang="lat">
+       <t pos="N">Chionaspis salicis</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>pajunkilpikirva</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -11461,6 +15010,26 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бакилӧ гӧлень</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">бакилӧ гӧлен</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бакилӧ</comp>
+       <comp ord="E2" pos="N">гӧлень</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">top of these boots??</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kahluusaappaiden varsi</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="Б" t2="А" t3="К" uri="1547-baklashka" id="1547">
      <l pos="N">баклашка</l>
@@ -11555,6 +15124,24 @@
        <x>мӧсъяслӧн баксӧм</x>
        <xt xml:lang="rus">мычание коров</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">бактериолог</l>
+     <stg>
+       <st Contlex="N_">бактериолог</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">bacteriologist</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">bakteriologi</t>
+       <t pos="N">bakteerien tutkija</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -11780,6 +15367,27 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бала вӧчӧм</l>
+     <stg>
+       <st Contlex="N_">бала вӧчӧм</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бала</comp>
+       <comp ord="E2" pos="N">вӧчӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">planning</t>
+       <t pos="N">designing</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">suunnittelu</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="Б" t2="А" t3="Л" uri="1577-balaburda" id="1577">
      <l pos="N">балабурда</l>
@@ -11950,6 +15558,23 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">балбес</l>
+     <stg>
+       <st Contlex="N_">балбес</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <register register="colloquial"/> <sg><s s_type="confer">мӧмӧт</s> <s s_type="confer">гын юр</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">booby</t>
+       <t pos="N">nitwit</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pölkkypää</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Б" t2="А" t3="Л" uri="1591-balda" id="1591">
      <l pos="N">балда</l>
        <l_var type="molodtsov-cyr">балԁа</l_var>
@@ -12025,6 +15650,26 @@
        <xt xml:lang="fin">katsoa uutta balettia</xt>
        <xt xml:lang="rus">посмотреть новый балет</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">балетын йӧктысь</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">балетын йӧктыс</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">балетын</comp>
+       <comp ord="E2" pos="N">йӧктысь</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">ballerina</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">balettitanssija</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -12183,6 +15828,35 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N">баллотировка</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">балок</l>
+     <stg>
+       <st Contlex="N_">балок</st>
+       <st Contlex="N_">балӧк</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">балтъяс</l>
+     <stg>
+       <st Contlex="N_">балтъяс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">(the) Balts</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">balttilaiset</t>
      </tg>
    </mg>
 </e>
@@ -12504,6 +16178,21 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg t1="Б" t2="А" t3="Л" uri="1645-balyapiyan" id="1645">
+     <l pos="N">баляпиян</l>
+     <l_var type="molodtsov-cyr">баԉапіјан</l_var>
+     <stg>
+       <st Contlex="N_">баляпиян</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">ягнята</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="Б" t2="А" t3="М" uri="1648-bambuk" id="1648">
      <l pos="N">бамбук</l>
@@ -12673,6 +16362,66 @@
        <x>синва банӧн</x>
        <xt xml:lang="rus">со слезами на глазах</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бан бок</l>
+     <stg>
+       <st Contlex="N_">бан бок</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бан</comp>
+       <comp ord="E2" pos="N">бок</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="ANAT"/> <sg><s s_type="confer">бандзиб</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">cheek</t>
+       <t pos="N">side of the face</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">poski</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бан бокас гӧп</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-T">бан бокас гӧп</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="N">бан</comp>
+       <comp ms="Sg.Ine.PxSg3" ord="E2" pos="N">бок</comp>
+       <comp ord="E3" pos="N">гӧп</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">dimple in the cheek</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">hymykuoppa</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бан лы</l>
+     <stg>
+       <st Contlex="N_">бан лы</st>
+     </stg>
+     <compg drv="N:N»N" type="comp">
+       <comp ms="Sg_Nom" ord="E1" pos="N">бан</comp>
+       <comp ord="E2" pos="N">лы</comp> </compg>
+   </lg>
+   <mg relId="0"> <field fieldType="ANAT"/>
+     <tg xml:lang="eng">
+       <t pos="N">cheek bone</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">poskiluu</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -12964,6 +16713,28 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N">скула</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бандзиб йыв</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-V/L">бандзиб йы</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бандзиб</comp>
+       <comp ord="E2" pos="N">йыв</comp> </compg>
+   </lg>
+   <mg relId="0" domain="Anatomy">
+     <tg xml:lang="lat">
+       <t pos="N">zygoma</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">cheek bone</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">poskiluu</t>
      </tg>
    </mg>
 </e>
@@ -13423,6 +17194,25 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">бараклӧ</l>
+     <stg>
+       <st Contlex="N_">бараклӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="confer">лёк кӧлуй</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">junk</t>
+       <t pos="N">old things</t>
+       <t pos="N">trash</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">roska</t>
+       <t pos="N">vanha tavara</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Б" t2="А" t3="Р" uri="1713-barzha" id="1713">
      <l pos="N">баржа</l>
        <l_var type="molodtsov-cyr">баржа</l_var>
@@ -13611,6 +17401,24 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">барон</l>
+     <stg>
+       <st Contlex="N_">барон</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="capacity"/>
+     <tg xml:lang="eng">
+       <t pos="N">baron</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">paroni</t>
+       <t pos="N">vapaaherra</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Б" t2="А" t3="Р" uri="1730-barrikada" id="1730">
      <l pos="N">баррикада</l>
        <l_var type="molodtsov-cyr">баррікаԁа</l_var>
@@ -13662,6 +17470,74 @@
      <tg xml:lang="rus">
        <t pos="N">большая деревянная колотушка</t>
        <t pos="N">чекмарь</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">барство</l>
+     <stg>
+       <st Contlex="N_">барство</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">gentry</t>
+       <t pos="N">nobility</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">aatelisto</t>
+       <t pos="N">aateliset</t>
+       <t pos="N">tilanherrat</t>
+     </tg>
+   </mg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">idle luxury</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">joutilas ylellisyys</t>
+       <t pos="N">herraskaisuus</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">барсук</l>
+     <stg>
+       <st Contlex="N_">барсук</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <field fieldType="MAM"/>
+     <tg xml:lang="lat">
+       <t pos="N">Meles meles L.</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">badger</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">mäyrä</t>
+       <t pos="N">metsäsika</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">бартер</l>
+     <stg>
+       <st Contlex="N_">бартер</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">barter</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">luontaiskauppa</t>
+       <t pos="N">vaihtokauppa</t>
      </tg>
    </mg>
 </e>
@@ -13740,6 +17616,27 @@
        <xt xml:lang="fin">musta samettipuku</xt>
        <xt xml:lang="rus">чёрное бархатное платье</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бархат платтьӧ</l>
+     <stg>
+       <st Contlex="N_">бархат платтьӧ</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">бархат</comp>
+       <comp ord="E2" pos="N">платтьӧ</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">velvet dress</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">samettileninki</t>
+       <t>samettimekko</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -13916,6 +17813,75 @@
      <xg>
        <x>барьер сайын</x>
        <xt xml:lang="rus">за барьером</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="С" uri="1774-bas" id="1774">
+     <l hid="Hom1" pos="N">бас</l>
+       <l_var type="molodtsov-cyr">бас</l_var>
+     <stg>
+       <st Contlex="N_">бас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">koristus</t>
+       <t pos="N">koristelu</t>
+       <t pos="N">somistelu</t>
+       <t pos="N">kaunistelu</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">украшение</t>
+     </tg>
+     <xg>
+       <x>новлыны бас пыдди</x>
+       <xt xml:lang="fin">pitää koristeena</xt>
+       <xt xml:lang="rus">носить в качестве украшения</xt>
+     </xg>
+     <xg>
+       <x>гӧтырыс — некутшӧм бас ни мич</x>
+       <xt xml:lang="rus">жена — ни кожи, ни рожи</xt>
+       <xt tType="literal" xml:lang="rus">ни басы, ни красы</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="С" uri="1774-bas" id="1774">
+     <l hid="Hom2" pos="N">бас</l>
+       <l_var type="molodtsov-cyr">бас</l_var>
+     <stg>
+       <st Contlex="N_">бас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">bass</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">basso</t>
+       <t>bassolaulaja</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">бас</t>
+       <t pos="A">басовый</t>
+     </tg>
+     <xg>
+       <x>бас струна</x>
+       <xt xml:lang="fin">bassokieli</xt>
+       <xt xml:lang="rus">басовая струна</xt>
+     </xg>
+     <xg>
+       <x>басӧн сьывны</x>
+       <xt xml:lang="fin">laulaa bassoääntä</xt>
+       <xt xml:lang="rus">петь басом</xt>
+     </xg>
+     <xg>
+       <x>гитараысь ӧти бас орӧма</x>
+       <xt xml:lang="fin">Kitarasta on yksi bassoääni katkennut.</xt>
+       <xt xml:lang="rus">в гитаре один бас оборван</xt>
      </xg>
    </mg>
 </e>
@@ -14540,6 +18506,20 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="N">батя-мама</l>
+     <stg>
+       <st Contlex="N_">батя-мама</st>
+     </stg>
+   </lg>
+   <mg relId="1">
+       <re>собир.</re>
+     <tg xml:lang="rus">
+       <t pos="N">отец и мать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Б" t2="А" t3="Т" uri="1839-batya-nyla" id="1839">
      <l pos="N">батя-ныла</l>
        <l_var type="molodtsov-cyr">баԏа-ныла</l_var>
@@ -14566,6 +18546,52 @@
        <re>собир.</re> <sg><s pos="N" s_type="seeAlso">ая-пиа</s></sg>
      <tg xml:lang="rus">
        <t pos="N">отец с сыном</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Т" uri="1809-bat-g" id="1809">
+     <l hid="Hom1" pos="N">батӧг</l>
+       <l_var type="molodtsov-cyr">батӧг</l_var>
+     <stg>
+       <st Contlex="N_">батӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0"><rg><r range_space="dialect"/></rg>
+     <tg xml:lang="fin">
+       <t pos="N">varsta</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">молотило</t>
+       <t pos="N">било цепа</t>
+     </tg>
+   </mg>
+   <mg relId="1"><rg><r range_time="obsolete"/></rg>
+     <tg xml:lang="rus">
+       <t re="мера длины" pos="N">батог</t>
+     </tg>
+     <xg>
+       <x>морт вылӧ вит батӧгӧн пес вӧчны</x>
+       <xt xml:lang="rus">каждому заготовить пять батогов дров</xt>
+     </xg>
+   </mg>
+   <mg><rg><r range_space="dialect"/></rg><field>бот.</field>
+     <tg xml:lang="rus">
+       <t pos="N">полынь обыкновенная</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Т" uri="1809-bat-g" id="1809">
+     <l hid="Hom2" pos="N">батӧг</l>
+       <l_var type="molodtsov-cyr">батӧг</l_var>
+     <stg>
+       <st Contlex="N_">батӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0"><rg><r range_space="dialect"/></rg><field>бот.</field>
+     <tg xml:lang="rus">
+       <t pos="N">полынь обыкновенная</t>
      </tg>
    </mg>
 </e>
@@ -14709,6 +18735,107 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">башмак кӧв</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">башмак кӧв</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">башмак</comp>
+       <comp ord="E2" pos="N">кӧв</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">shoe lace</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kengännauhat</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">башмак ныр</l>
+     <stg>
+       <st Contlex="N_">башмак ныр</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">башмак</comp>
+       <comp ord="E2" pos="N">ныр</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">toe of a shoe</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kengänkärki</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">башмак пӧв</l>
+     <stg>
+       <st Contlex="N_PARAGOGIC-V/L">башмак пӧ</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">башмак</comp>
+       <comp ord="E2" pos="N">пӧв</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">one shoe (of a pair)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">yksi kenkä (parista)</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">башмак стельки</l>
+     <stg>
+       <st Contlex="N_">башмак стельки</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">башмак</comp>
+       <comp ord="E2" pos="N">стельки</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">inner soles of shoes</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">sisäpohja</t>
+       <t pos="N">irtopohja</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">башмак утйӧд</l>
+     <stg>
+       <st Contlex="N_">башмак утйӧд</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">башмак</comp>
+       <comp ord="E2" pos="N">утйӧд</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t re="of a shoe" pos="N">sole</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kengänpohja</t>
+     </tg>
+   </mg>
+</e>
   <e>
    <lg t1="Б" t2="А" t3="Ш" uri="1862-bashnya" id="1862">
      <l pos="N">башня</l>
@@ -14799,6 +18926,94 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N">баянист</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Я" uri="1868-bayar" id="1868">
+     <l hid="Hom1" pos="N">баяр</l>
+       <l_var type="molodtsov-cyr">бајар</l_var>
+     <stg>
+       <st Contlex="N_">баяр</st>
+     </stg>
+   </lg>
+   <mg relId="0" domain="Ornithology">
+<tg xml:lang="lat">
+       <t pos="N">Gavia arctica</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N">black-throated diver</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">kuikka</t>
+     </tg>
+<rg><r range_space="dialect"/></rg><sg><s pos="N" s_type="seeAlso">гӧгӧра</s></sg>
+     <tg xml:lang="rus">
+       <t pos="N">гагара чернозобая</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="А" t3="Я" uri="1868-bayar" id="1868">
+     <l hid="Hom2" pos="N">баяр</l>
+       <l_var type="molodtsov-cyr">бајар</l_var>
+     <stg>
+       <st Contlex="N_">баяр</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <range rangeTemp="historical"/>
+     <tg xml:lang="eng">
+       <t pos="N">boyar</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">pajari</t>
+     </tg>
+     <rg><r range_time="obsolete:устаревшее"/></rg>
+     <tg xml:lang="rus">
+       <t pos="N">боярин</t>
+       <t pos="N">бояре</t>
+       <t pos="N">вельможа</t>
+     </tg>
+     <xg>
+       <x>баяр пиян</x>
+       <xt xml:lang="rus">дети бояр</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">бдительносьт</l>
+     <stg>
+       <st Contlex="N_">бдительносьт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">vigilance</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">valppaus</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">беглеч</l>
+     <stg>
+       <st Contlex="N_END-IN-Ч/ДЗ">беглеч</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">fugitive</t>
+       <t pos="N">runaway</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">karkuri</t>
+       <t pos="N">karkulainen</t>
+       <t pos="N">pakolainen</t>
      </tg>
    </mg>
 </e>
@@ -14908,6 +19123,40 @@
        <xt xml:lang="fin">Koira muistaa kepityksen.</xt>
        <xt xml:lang="rus">собака палку помнит</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">беднота</l>
+     <stg>
+       <st Contlex="N_">беднота</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">the poor</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">köyhälistö</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">бедняк</l>
+     <stg>
+       <st Contlex="N_">бедняк</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="confer">гӧль</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">poor person</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t re="ihminen" pos="N">köyhä</t>
+       <t pos="N">köyhäläinen</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -15038,6 +19287,23 @@
        <xt xml:lang="fin">pystyttää keppejä rajalle</xt>
        <xt xml:lang="rus">забить колышки на меже</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">бедьторъяс</l>
+     <stg>
+       <st Contlex="NounPL">бедьторъяс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">chopsticks</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">(syömä)puikot</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -16126,6 +20392,112 @@
 </e>
   <e>
    <lg t1="Б" t2="Е" t3="Р" uri="2026-berd" id="2026">
+     <l hid="Hom1" pos="N">берд</l>
+       <l_var type="molodtsov-cyr">берԁ</l_var>
+     <stg>
+       <st Contlex="N_">берд</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+           <isa isaType="measure"/>
+     <tg xml:lang="eng">
+       <t t_type="te" pos="N">8 meters of woven cloth</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t t_type="te" pos="N">8 metriä kudottua kangasta</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">единица длины в домашнем ткачестве, равная окружности сновалки, <acronym title="то есть">т.е.</acronym> 8 метрам</t>
+     </tg>
+     <xg>
+       <x>квайт берда <acronym title="имя прилагательное">прил.</acronym> дӧра пома</x>
+       <xt xml:lang="rus">штука холста длиною в 48 метров</xt>
+     </xg>
+     <xg>
+       <x>кыны дас кыкнан бердсӧ</x>
+       <xt xml:lang="rus">соткать все 96 метров</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Е" t3="Р" uri="2026-berd" id="2026">
+     <l hid="Hom2" pos="N">берд</l>
+       <l_var type="molodtsov-cyr">берԁ</l_var>
+     <stg>
+       <st Contlex="N_">берд</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="N">paikka jnk lähellä</t>
+     </tg>
+       <re>употр. тж. с притяж. суф.</re>
+     <tg xml:lang="rus">
+       <t pos="N">место возле</t>
+       <t pos="N">около</t>
+       <t pos="N">у чего-либо</t>
+     </tg>
+     <xg>
+       <x>вӧр берд</x>
+       <xt xml:lang="fin">metsän reunus</xt>
+       <xt xml:lang="rus">опушка леса</xt>
+     </xg>
+     <xg>
+       <x>кар берд</x>
+       <xt xml:lang="fin">kaupungin ympäristö</xt>
+       <xt xml:lang="rus">окрестности города</xt>
+       <xt xml:lang="rus">пригород</xt>
+     </xg>
+     <xg>
+       <x>граница берд</x>
+       <xt xml:lang="fin">rajavyöhyke</xt>
+       <xt xml:lang="rus">пограничная зона</xt>
+     </xg>
+     <xg>
+       <x>пач берд</x>
+       <xt xml:lang="fin">uunin vierus</xt>
+       <xt xml:lang="rus">место около печи</xt>
+     </xg>
+     <xg>
+       <x>керка бердыс вежӧдӧма нин</x>
+       <xt xml:lang="fin">Talon vierusta on alkanut jo vihertää</xt>
+       <xt xml:lang="rus">место возле дома уже зазеленело</xt>
+     </xg>
+     <xg>
+       <x>ӧзйис му бердыс</x>
+       <xt xml:lang="rus">загорелась земля</xt>
+       <xt tType="literal" xml:lang="rus">поверхность земли</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+       <sg><s pos="Adp" s_type="see">бердлань</s></sg>
+       <sg><s pos="Adp" s_type="see">бердӧ</s></sg>
+       <sg><s pos="Adp" s_type="see">бердӧдз</s></sg>
+       <sg><s pos="Adp" s_type="see">бердсянь</s></sg>
+       <sg><s pos="Adp" s_type="see">бердті</s></sg>
+       <sg><s pos="Adp" s_type="see">бердын</s></sg>
+       <sg><s pos="Adp" s_type="see">бердысь</s></sg>
+     <tg xml:lang="rus">
+       <t pos="N">основа послелогов</t>
+     </tg>
+   </mg>
+   <mg><rg><r range_time="obsolete"/></rg>
+     <tg xml:lang="rus">
+       <t pos="N">стена</t>
+     </tg>
+     <xg>
+       <x>вежӧсас войладор берд пӧлӧн сулаліс лабич</x>
+       <xt xml:lang="fin">Huoneessa oli penkki pitkittäin pohjoisseinän vierellä.</xt>
+       <xt xml:lang="rus">в комнате вдоль северной стены стояла скамейка</xt>
+     </xg>
+     <xg>
+       <x>лэптыны бердсӧ дас сизим кер судта</x>
+       <xt xml:lang="rus">поднять стену на высоту семнадцать брёвен</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Е" t3="Р" uri="2026-berd" id="2026">
      <l hid="Hom3" pos="N">берд</l>
        <l_var type="molodtsov-cyr">берԁ</l_var>
      <stg>
@@ -16378,6 +20750,51 @@
        <xt xml:lang="fin">Kasvot peittyivät kesakoihin.</xt>
        <xt xml:lang="rus">лицо покрылось веснушками</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Е" t3="Р" uri="2137-bertan" id="2137">
+     <l hid="Hom1" pos="N">бертан</l>
+       <l_var type="molodtsov-cyr">бертан</l_var>
+     <stg>
+       <st Contlex="N_">бертан</st>
+     </stg>
+   </lg>
+   <mg relId="0" domain="weaving">
+     <tg xml:lang="fin">
+       <t pos="N">loimitukin kiristäjä (kangaspuissa)</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t t_type="te" pos="N">палка, которой подпирается навой с основой</t>
+       <t pos="N">притужальник</t>
+     </tg>
+     <xg>
+       <x>сера бертан</x>
+       <xt re="на который навивается холст" xml:lang="rus">вороток на переднем навое</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Е" t3="Р" uri="2137-bertan" id="2137">
+     <l hid="Hom2" pos="N">бертан</l>
+       <l_var type="molodtsov-cyr">бертан</l_var>
+     <stg>
+       <st Contlex="N_">бертан</st>
+     </stg>
+   </lg>
+   <mg relId="0"><rg><r range_space="dialect"/></rg>
+     <tg xml:lang="eng">
+       <t pos="N">obstinate person</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">niskoittelija</t>
+       <t pos="N">jukuripää</t>
+       <t pos="N">härkäpää</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">упрямец</t>
+       <t pos="N">упрямица</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -18962,6 +23379,66 @@
    </mg>
 </e>
   <e>
+   <lg t1="Б" t2="О" t3="Л" uri="2497-bolk" id="2497">
+     <l hid="Hom1" pos="N">болк</l>
+       <l_var type="molodtsov-cyr">болк</l_var>
+     <stg>
+       <st Contlex="N_">болк</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">верх крытой повозки</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">крытая повозка</t>
+       <t pos="N">сани</t>
+       <tCtn>
+       <t pos="N">болок</t> <range rangeSpat="regional"/>
+       </tCtn>
+     </tg>
+     <xg>
+       <x>болк пытшкӧ пырны</x>
+       <xt xml:lang="rus">забраться внутрь крытой повозки</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="О" t3="Л" uri="2497-bolk" id="2497">
+     <l hid="Hom2" pos="N">болк</l>
+       <l_var type="molodtsov-cyr">болк</l_var>
+     <stg>
+       <st Contlex="N_PARAGOGIC-J">болк</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t re="of clothes" pos="N">bagginess</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">(vaatteiden) pussimaisuus</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t re="одежды" pos="N">мешковатость</t>
+     </tg>
+   </mg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t re="of a cart, carriage" pos="N">top</t>
+       <t pos="N">kibitka</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">??(ajopelin) kate</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Б" t2="О" t3="Л" uri="2524-bolsk-m" id="2524">
      <l pos="N">болскӧм</l>
        <l_var type="molodtsov-cyr">болскӧм</l_var>
@@ -19039,6 +23516,49 @@
      <defNative/>
      <tg xml:lang="rus">
        <t pos="N">болт</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="О" t3="Л" uri="2538-boltun" id="2538">
+     <l hid="Hom1" pos="N">болтун</l>
+       <l_var type="molodtsov-cyr">болтун</l_var>
+     <stg>
+       <st Contlex="N_">болтун</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t re="насиженное яйцо птицы без зародыша" pos="N">болтун</t>
+     </tg>
+     <xg>
+       <x>ӧти кольк болтун вӧлӧма</x>
+       <xt xml:lang="rus">одно яйцо оказалось болтуном</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="О" t3="Л" uri="2538-boltun" id="2538">
+     <l hid="Hom2" pos="N">болтун</l>
+       <l_var type="molodtsov-cyr">болтун</l_var>
+     <stg>
+       <st Contlex="N_">болтун</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s pos="N" s_type="confer">больгысь</s></sg>
+     <tg xml:lang="eng">
+       <t pos="N">chatterbox</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">lörppö</t>
+       <t pos="N">lörpöttelijä</t>
+       <t pos="N">suupaltti</t>
+     </tg>
+ <sg><s mgid="mgID1" pos="N" s_type="see">больгун</s></sg>
+     <tg xml:lang="rus">
+       <tCtn>
+       <t pos="N">болтун</t> <register register="conversation"/>
+       </tCtn>
      </tg>
    </mg>
 </e>
@@ -32259,6 +36779,29 @@
        <x>чага сора пӧсь ва</x>
        <xt xml:lang="rus">кипяток с чагой</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="N">чунь акань</l>
+     <stg>
+       <st Contlex="N_END-IN-Ь">чунь акан</st>
+     </stg>
+     <compg drv="Q:Q»N" type="comp">
+       <comp ord="E1" pos="Q">чунь</comp>
+       <comp ord="E2" pos="N">акань</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t>суставы пальцев</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t>повязка на пальце</t>
+     </tg>
    </mg>
 </e>
   <e>
