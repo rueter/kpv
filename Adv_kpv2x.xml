@@ -40,6 +40,28 @@
    </mg>
 </e>
   <e>
+   <lg>
+     <l pos="Adv">бӧръявыв</l>
+     <stg>
+       <st Contlex="N-VYV">бӧръявыл</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">lopuksi</t>
+       <t>loppujen lopuksi</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">под конец, напоследок</t>
+     </tg>
+     <xg>
+       <x>бӧръявыв висьтавны</x>
+       <xt xml:lang="rus">сказать напоследок</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="О" t3="Р" uri="14236-dorvyv" id="14236">
      <l pos="Adv">дорвыв</l>
        <l_var type="molodtsov-cyr">ԁорвыв</l_var>

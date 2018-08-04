@@ -291,6 +291,16 @@
          </xg>
       </mg>
    </e>
+  <e exclude="fst">
+   <lg>
+     <l pos="A">весасян</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-AN">весасян</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s relId="1" s_type="see">весалан</s></sg>
+   </mg>
+</e>
   <e>
    <lg t1="В" t2="Е" t3="Ш" uri="6260-veshkyr" id="6260">
      <l pos="A">вешкыр</l>
@@ -314,6 +324,27 @@
        <xt xml:lang="fin">kierosuinen</xt>
        <xt xml:lang="rus">с перекошенным ртом</xt>
      </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="A">вештысьны вермытӧм</l>
+     <stg>
+       <st Contlex="A_">вештысьны вермытӧм</st>
+     </stg>
+     <compg drv="Q:Q»A" type="comp">
+       <comp ord="E1" pos="V">вештысьны</comp>
+       <comp ord="E2" pos="A">вермытӧм</comp> </compg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">bankrupcy</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">konkurssi-</t>
+       <t pos="A">maksukyvytön</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -507,6 +538,24 @@
 </e>
   <e>
    <lg>
+     <l pos="A">ӧтувтчан</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-AN">ӧтувтчан</st>
+     </stg> <drv drvType="Der/ан" lemmaID="ӧтувтчыны_V"/>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">объединительный</t>
+     </tg>
+     <xg>
+       <x>ӧтувтчан съезд</x>
+       <xt xml:lang="rus">объединительный съезд</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
      <l pos="A">ӧтувъя</l>
      <stg>
        <st Contlex="A_">ӧтувъя</st>
@@ -595,6 +644,49 @@
        <x>ӧшалан томан</x>
        <xt xml:lang="fin">riippulukko</xt>
        <xt xml:lang="rus">висячий замок</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="A">ӧшӧдчӧм</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">ӧшӧдчӧм</st>
+     </stg> <drv drvType="Der/ӧм"/>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">повесившийся</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">свесившийся</t>
+     </tg>
+   </mg>
+   <mg relId="2">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">повисший</t>
+     </tg>
+   </mg>
+   <mg relId="3">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">обвисший</t>
+       <t pos="A">обвислый</t>
+     </tg>
+     <xg>
+       <x>ӧшӧдчӧм бан бокъяса</x>
+       <xt xml:lang="fin">roikkuvat posket</xt>
+       <xt xml:lang="rus">с обвислыми щеками</xt>
+     </xg>
+     <xg>
+       <x>ӧшӧдчӧм ус</x>
+       <xt xml:lang="fin">lerpattavat viikset</xt>
+       <xt xml:lang="rus">обвисшие усы</xt>
      </xg>
    </mg>
 </e>
