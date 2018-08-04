@@ -292,6 +292,43 @@
       </mg>
    </e>
   <e exclude="fst">
+   <lg t1="В" t2="А" t3="Р" uri="4862-vartan" id="4862">
+     <l pos="A">вартан</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-AN">вартан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">молотильный</t>
+     </tg>
+     <xg>
+       <x>вартан гумла</x>
+       <xt xml:lang="fin">puimatanner</xt>
+       <xt xml:lang="rus">молотильный ток</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="Е" t3="Р" uri="5926-verstaijt-m" id="5926">
+     <l pos="A">верстайтӧм</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">верстайтӧм</st>
+     </stg> <drv drvType="Der/ӧм"/>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">навёрстанный</t>
+     </tg>
+     <xg>
+       <x>верстайтӧм кад</x>
+       <xt xml:lang="rus">навёрстанное время</xt>
+     </xg>
+   </mg>
+</e>
+  <e exclude="fst">
    <lg>
      <l pos="A">весасян</l>
      <stg>
@@ -299,6 +336,21 @@
      </stg>
    </lg>
    <mg relId="0"> <sg><s relId="1" s_type="see">весалан</s></sg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="Е" t3="С" uri="6047-ves-kal-m" id="6047">
+     <l pos="A">веськалӧм</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">веськалӧм</st>
+     </stg> <drv drvType="Der/ӧм"/>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">разогнувшийся</t>
+       <t pos="A">распрямившийся</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -345,6 +397,25 @@
        <t pos="A">konkurssi-</t>
        <t pos="A">maksukyvytön</t>
      </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg t1="В" t2="И" t3="Т" uri="6973-vit-m" id="6973">
+     <l pos="A">витӧм</l>
+     <stg>
+       <st Contlex="Noun1-IS_PTC-OM">витӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">неубитый</t>
+     </tg>
+     <xg>
+       <x>витӧм ошлысь кусӧ оз кульлыны</x>
+       <xt xml:lang="fin">Tappamattomalta karhulta ei nahkaa nyljetä.</xt>
+       <xt re="о чём-то невозможном" xml:lang="rus">у неубитого медведя шкуру не снимают</xt>
+     </xg>
    </mg>
 </e>
   <e>
@@ -412,6 +483,74 @@
    </mg>
 </e>
   <e>
+   <lg t1="К" t2="И" t3="П" uri="21353-kipom" id="21353">
+     <l pos="A">кипом</l>
+       <l_var type="molodtsov-cyr">кіпом</l_var>
+     <stg>
+       <st Contlex="A_">кипом</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">hand</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">käsi-</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="A">ручной</t>
+     </tg>
+     <xg>
+       <x>кипом изки</x>
+       <xt xml:lang="fin">käsikivet</xt>
+       <xt xml:lang="rus">ручные жернова, ручная мельница</xt>
+     </xg>
+     <xg>
+       <x>кипом ош</x>
+       <xt xml:lang="fin">kesy karhu</xt>
+       <xt xml:lang="rus">ручной медведь</xt>
+     </xg>
+     <xg>
+       <x>кипом удж</x>
+       <xt xml:lang="fin">käsityö</xt>
+       <xt xml:lang="rus">рукоделие</xt>
+     </xg>
+     <xg>
+       <x>кипом удж вӧчны</x>
+       <xt xml:lang="fin">tehdä käsitöitä</xt>
+       <xt xml:lang="rus">рукодельничать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="У" t3="С" uri="25870-kusynya" id="25870">
+     <l pos="A">кусыня</l>
+       <l_var type="molodtsov-cyr">кусыԋа</l_var>
+     <stg>
+       <st Contlex="A_">кусыня</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">with a bend</t>
+       <t pos="N">with a fold</t>
+     </tg>
+   </mg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">согнутый, изогнутый</t>
+       <t pos="N">со сгибом, с перегибом</t>
+     </tg>
+     <xg>
+       <x>кусыня йыла ӧтка кыдз пу</x>
+       <xt xml:lang="rus">одинокая берёза с изогнутой верхушкой</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Л" t2="Е" t3="Г" uri="27831-legz-ys-" id="27831">
      <l pos="A">легзьысь</l>
        <l_var type="molodtsov-cyr">ԉегԅыԍ</l_var>
@@ -426,6 +565,38 @@
      <xg>
        <x>легзьысь пӧль</x>
        <xt xml:lang="rus">дряхлый старик</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Л" t2="Ь" t3="Ӧ" uri="29704-l-g-serd" id="29704">
+     <l pos="A">льӧгӧсерд</l>
+       <l_var type="molodtsov-cyr">ԉӧгӧԍерԁ</l_var>
+     <stg>
+       <st Contlex="A_">льӧгӧсерд</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">снисходительный</t>
+       <t pos="A">отходчивый</t>
+       <t pos="A">незлопамятный</t>
+     </tg>
+     <xg>
+       <x>льӧгӧсерд веськӧдлысь</x>
+       <xt xml:lang="fin">suopea johtaja</xt>
+       <xt xml:lang="rus">снисходительный руководитель</xt>
+     </xg>
+     <xg>
+       <x>сійӧ ӧдйӧ скӧрмысь, но льӧгӧсерд</x>
+       <xt xml:lang="fin">Hän vihastuu nopeasti, mutta heltyy.</xt>
+       <xt xml:lang="rus">он крут, но отходчив</xt>
+     </xg>
+     <xg>
+       <x>льӧгӧсерд мортыд лёктӧ оз кут</x>
+       <xt xml:lang="fin">Suopea ihminen ei vihottele.</xt>
+       <xt xml:lang="rus">отходчивый человек зла не держит</xt>
      </xg>
    </mg>
 </e>
