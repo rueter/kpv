@@ -1183,4 +1183,56 @@
      </tg>
    </mg>
 </e>
+  <e>
+   <lg>
+     <l pos="A">биавиж</l>
+     <stg>
+       <st Contlex="A_">биавиж</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="A">оранжевый</t>
+       <t pos="A">огненно-жёлтый</t>
+     </tg>
+     <xg>
+       <x>асыввылын енэжыс лои биавиж рӧма</x>
+       <xt xml:lang="fin">Idässä taivas tuli oranssinväriseksi.</xt>
+       <xt xml:lang="rus">небо на востоке стало оранжевым</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="О" t3="Н" uri="14094-don" id="14094">
+     <l hid="Hom3" pos="A">дон</l>
+       <l_var type="molodtsov-cyr">ԁон</l_var>
+     <stg>
+       <st Contlex="A_">дон</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="A">чистый</t>
+       <t pos="A">прозрачный; безоблачный; совершенно чистый</t>
+       <t pos="Adv">совершенно чисто</t>
+     </tg>
+     <xg>
+       <x>енэжыс дон</x>
+       <xt xml:lang="rus">небо безоблачно, чисто</xt>
+     </xg>
+     <xg>
+       <x>гӧгӧр дон ва</x>
+       <xt xml:lang="rus">кругом чистая вода</xt>
+     </xg>
+     <xg>
+       <x>дон югыд</x>
+       <xt xml:lang="rus">как стёклышко (светлое, чистое)</xt>
+     </xg>
+     <xg>
+       <x>дон да вольк</x>
+       <xt xml:lang="rus">чисто и гладко</xt>
+     </xg>
+   </mg>
+</e>
 </r>

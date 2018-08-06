@@ -139,4 +139,81 @@
      </tg>
    </mg>
 </e>
+  <e>
+   <lg t1="В" t2="Е" t3="К" uri="5472-vek" id="5472">
+     <l hid="Hom1" pos="Adv">век</l>
+       <l_var type="molodtsov-cyr">век</l_var>
+     <stg>
+       <st Contlex="ADV_">век</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">всегда, постоянно</t>
+     </tg>
+     <xg>
+       <x>век кежлӧ</x>
+       <xt xml:lang="rus">насовсем, навечно</xt>
+     </xg>
+     <xg>
+       <x>кыдз век</x>
+       <xt xml:lang="rus">как всегда</xt>
+     </xg>
+     <xg>
+       <x>векджык гортас</x>
+       <xt xml:lang="rus">он чаще, больше бывает дома</xt>
+     </xg>
+     <xg>
+       <x>◊ век вомад, а он ньылышт</x>
+       <xt xml:lang="rus">загадка всегда во рту, а не проглотишь (отгадка <stress>кыв</stress> язык)</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="N">всё</t>
+     </tg>
+     <xg>
+       <x>век на важ моз олӧ</x>
+       <xt xml:lang="rus">он всё ещё живёт по-старому</xt>
+     </xg>
+     <xg>
+       <x>сійӧ век омӧльтчӧ</x>
+       <xt xml:lang="rus">он всё слабеет</xt>
+     </xg>
+     <xg>
+       <x>◊ век жӧ</x>
+       <xt xml:lang="rus">всё-таки, всё же</xt>
+     </xg>
+     <xg>
+       <x>◊ век жӧ нин</x>
+       <xt xml:lang="rus">в конечном счёте</xt>
+     </xg>
+     <xg>
+       <x>◊ век на</x>
+       <xt xml:lang="rus">всё ещё</xt>
+     </xg>
+     <xg>
+       <x>◊ век ӧтарӧ</x>
+       <xt xml:lang="rus">беспрестанно, непрестанно</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Г" t2="О" t3="З" uri="10256-goz-m-dys-" id="10256">
+     <l pos="Adv">гоз-мӧдысь</l>
+       <l_var type="molodtsov-cyr">гоз-мӧԁыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">гоз-мӧдысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>раза-два, раз-другой, несколько раз</t>
+     </tg>
+     <xg>
+       <x>гоз-мӧдысь колӧ на ветлыны</x>
+       <xt xml:lang="rus">раза два надо ещё сходить</xt>
+     </xg>
+   </mg>
+</e>
 </r>

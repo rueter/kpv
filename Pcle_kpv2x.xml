@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4122-bydtor" id="4122">
+     <l hid="Hom2" pos="Pcle">быдтор</l>
+       <l_var type="molodtsov-cyr">быттор</l_var>
+     <stg>
+       <st Contlex="PCLE_">быдтор</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">и</t>
+       <t pos="N">даже</t>
+     </tg>
+     <xg>
+       <x>ветлісны вичкоӧ и юрбитісны и быдтор</x>
+       <xt xml:lang="fin">He menivät kirkkoon ja tekivät kumarruksia ja kaikkea (sellaista).</xt>
+       <xt xml:lang="rus">сходили в церковь и даже помолились</xt>
+     </xg>
+     <xg>
+       <x>волігас пес поткӧдлас вежон кежлӧ, вала котӧртлас и быдтор</x>
+       <xt xml:lang="rus">во время пребывания дрова расколет на неделю, даже за водой сбегает</xt>
+     </xg>
+     <xg>
+       <x>дозмӧрсӧ сёйны налы эз нин вӧв окота, кӧть шӧрипӧв и быдтор дозмӧр тушасӧ вундісны</x>
+       <xt xml:lang="rus">глухаря есть им уже не хотелось, хотя и глухаря разрезали на две части</xt>
+     </xg>
+   </mg>
+</e>
+</r>
