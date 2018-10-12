@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+<e>
+   <lg t1="А" t2="" t3="" uri="2-a" id="2">
+     <l pos="CC">а</l>
+       <l_var type="molodtsov-cyr">a</l_var>
+     <stg>
+       <st Contlex="CC_">а</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="CC" type="противит.">а, но; же</t>
+     </tg>
+     <xg>
+       <x>ме муна, а ёрт кольччӧ</x>
+       <xt xml:lang="rus">я уезжаю, товарищ же остаётся</xt>
+     </xg>
+     <xg>
+       <x>зэрис, а муыс кос</x>
+       <xt xml:lang="rus">прошёл дождь, а земля сухая</xt>
+     </xg>
+     <xg>
+       <x>пӧрысь нин, а ён на</x>
+       <xt xml:lang="rus">он уже стар, но ещё крепок</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="CC" type="присоед.">а</t>
+     </tg>
+     <xg>
+       <x>нӧрыс йылын керка, а горулас шор</x>
+       <xt xml:lang="rus">на горе дом, а под горою ручей</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t pos="CC" type="сопост.">а</t>
+     </tg>
+     <xg>
+       <x>миян кӧдзӧны нин, а сэні гӧрӧны на</x>
+       <xt xml:lang="rus">у нас уже сеют, а там ещё пашут</xt>
+     </xg>
+   </mg>
+   <mg relId="3">
+     <tg xml:lang="rus">
+       <t t_type="f" pos="CC">употр. для усиления выразительности, убедительности</t>
+     </tg>
+     <xg>
+       <x>а друг кӧ сійӧ оз лок</x>
+       <xt xml:lang="rus">а вдруг он не придёт</xt>
+     </xg>
+     <xg>
+       <x>тэрмась, а то сёрман</x>
+       <xt xml:lang="fin">Pidä kiirettä muuten jäät hiljaksi.</xt>
+       <xt xml:lang="rus">спеши, а то опоздаешь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="Л" t3="И" uri="450-ali" id="450">
+     <l hid="Hom2" pos="CC">али</l>
+       <l_var type="molodtsov-cyr">aԉі</l_var>
+     <stg>
+       <st Contlex="CC_">али</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="CC" type="раздел.">или</t>
+     </tg>
+     <xg>
+       <x>ме али тэ</x>
+       <xt xml:lang="rus">я или ты</xt>
+     </xg>
+     <xg>
+       <x>кор мунам, талун али аски?</x>
+       <xt xml:lang="fin">Milloin menemme tänään vai huomenna?</xt>
+       <xt xml:lang="rus">когда уедем, сегодня или завтра?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="И" t3="Б" uri="28281-lib-n-s-" id="28281">
+     <l pos="CC">либӧнӧсь</l>
+       <l_var type="molodtsov-cyr">ԉібӧнӧԍ</l_var>
+     <stg>
+       <st Contlex="CC_">либӧнӧсь</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s pos="CC" s_type="see">либӧ</s></sg>
+     <tg xml:lang="rus">
+       <t pos="CC"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
+     <l pos="CC">но</l>
+       <l_var type="molodtsov-cyr">но</l_var>
+     <stg>
+       <st Contlex="CC_">но</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="CC" type="противительный">но, а</t>
+     </tg>
+     <xg>
+       <x>ичӧт, но ён</x>
+       <xt xml:lang="rus">мал, но силён</xt>
+     </xg>
+     <xg>
+       <x>книга бур, но абу ставнас</x>
+       <xt xml:lang="rus">книга хорошая, но не вся</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="Э" t3="С" uri="50431-sessya" id="50431">
+     <l pos="CC" hid="Hom2">сэсся</l>
+       <l_var type="molodtsov-cyr">сеԍԍа</l_var>
+     <stg>
+       <st Contlex="CC_">сэсся</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="CC">да и</t>
+     </tg>
+     <xg>
+       <x>сэсся и черинас пӧ юыс озыр</x>
+       <xt xml:lang="rus">да и рыбой, говорят, река богата</xt>
+     </xg>
+   </mg>
+</e>
+</r> 

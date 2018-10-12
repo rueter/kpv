@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+<e>
+   <lg t1="К" t2="Р" t3="И" uri="24840-kristallya" id="24840">
+     <l pos="Interj">кристалля</l>
+       <l_var type="molodtsov-cyr">крістаԉԉа</l_var>
+     <stg>
+       <st Contlex="INTERJ_">кристалля</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="Interj">for God's sake</t>
+       <t pos="Interj">for Christ's sake</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Interj">herran tähden</t>
+       <t pos="Interj">taivaanvallat</t>
+     </tg>
+<rg><r range_space="dialect"/></rg>
+     <tg xml:lang="rus">
+       <t pos="Interj">ради христа, ради бога</t>
+     </tg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg>
+     <l pos="Interj">аддзӧдчывтӧдз</l>
+     <stg>
+       <st Contlex="ADV-IS_GER-TODZ">аддзӧдчывтӧдз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Interj">до свидания</t>
+       <t pos="Interj">до встречи</t>
+     </tg>
+   </mg>
+</e>
+</r>

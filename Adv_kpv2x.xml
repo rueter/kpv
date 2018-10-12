@@ -216,4 +216,44 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="К" t2="А" t3="М" uri="19718-kam" id="19718">
+     <l hid="Hom1" pos="Adv">кам</l>
+       <l_var type="molodtsov-cyr">кам</l_var>
+     <stg>
+       <st Contlex="N_">кам</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">крепко, сильно</t>
+     </tg>
+     <xg>
+       <x>кам кынмыны</x>
+       <xt xml:lang="rus">крепко замёрзнуть, промёрзнуть</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>мгновенно</t>
+     </tg>
+     <xg>
+       <x>кам сувтны</x>
+       <xt xml:lang="rus">мгновенно остановиться</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>со стуком, грохотом</t>
+     </tg>
+     <xg>
+       <x>пырис кам да йирк</x>
+       <xt xml:lang="rus">вошёл со стуком и грохотом</xt>
+     </xg>
+     <xg>
+       <x>кам усьны</x>
+       <xt xml:lang="rus">грохнуться</xt>
+     </xg>
+   </mg>
+</e>
 </r>
