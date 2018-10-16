@@ -256,4 +256,145 @@
      </xg>
    </mg>
 </e>
+  <e>
+   <lg>
+     <l pos="Adv">мӧлынь</l>
+     <stg>
+       <st Contlex="ADV_">мӧлын</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="N">совсем, совершенно, насквозь</t>
+     </tg>
+     <xg>
+       <x>мӧлынь ва</x>
+       <xt xml:lang="rus">насквозь мокрый</xt>
+     </xg>
+     <xg>
+       <x>мӧлынь ва кӧтаси</x>
+       <xt xml:lang="rus">насквозь промок</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="Е" t3="Л" uri="12359-del-" id="12359">
+     <l pos="Adv">делӧ</l>
+       <l_var type="molodtsov-cyr">ԃелӧ</l_var>
+     <stg>
+       <st Contlex="ADV_">делӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">uncomfortable</t>
+       <t pos="N">difficult</t>
+       <t pos="N">sickly</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">epämukava</t>
+       <t pos="N">hankala</t>
+       <t pos="N">huonovointinen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="A-PRED">трудно, затруднительно</t>
+       <t pos="Adv">неловко</t>
+       <t pos="Adv">непривычно</t>
+       <t pos="Adv">неудобно</t>
+     </tg>
+     <xg>
+       <x>пуксӧн узьны делӧ</x>
+       <xt xml:lang="fin">On hankala nukkua istuallaan.</xt>
+       <xt xml:lang="rus">сидя спать неловко</xt>
+     </xg>
+     <xg>
+       <x>седлӧтӧг мунны делӧ</x>
+       <xt xml:lang="fin">Ilman satulaa on hankala kulkea.</xt>
+       <xt xml:lang="rus">без седла ехать неудобно</xt>
+     </xg>
+     <xg>
+       <x>сувтсӧн гижны делӧ</x>
+       <xt xml:lang="fin">On hankalaa kirjoittaa seisten.</xt>
+       <xt xml:lang="rus">писать стоя непривычно</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">тяжело, неспокойно</t>
+       <t pos="N">муторно</t>
+     </tg>
+     <xg>
+       <x>меным талун вывті делӧ</x>
+       <xt xml:lang="fin">Minulla on tänään hyvin vaikeaa.</xt>
+       <xt xml:lang="rus">мне сегодня очень тяжело</xt>
+     </xg>
+     <xg>
+       <x>сьӧлӧмлы вӧлі делӧ</x>
+       <xt xml:lang="rus">на душе было неспокойно</xt>
+     </xg>
+   </mg>
+</e>
+  <e exclude="fst">
+   <lg t1="З" t2="О" t3="Н" uri="17415-zon" id="17415">
+     <l pos="Adv" type="вводн. сл.">зон</l>
+       <l_var type="molodtsov-cyr">зон</l_var>
+     <stg>
+       <st Contlex="ADV_">зон</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+       <re>вводн. сл.</re>
+     <tg xml:lang="rus">
+       <t pos="Adv">вишь, давай</t>
+       <t pos="Adv">смотри-ка</t>
+     </tg>
+     <xg>
+       <x>олӧмыд, зон, сьӧкыд изки кодь, ставсӧ изас</x>
+       <xt xml:lang="rus">жизнь, смотри-ка, как тяжёлый жёрнов, всё перемелет</xt>
+     </xg>
+     <xg>
+       <x>сюсьмӧма, зон, бокиад ветлігад</x>
+       <xt xml:lang="rus">он, вишь, поумнел, живя на чужой стороне</xt>
+     </xg>
+     <xg>
+       <x>тэ, зон, дугды тадзитӧ овны</x>
+       <xt xml:lang="rus">ты, давай, прекрати так жить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ч" t2="Ӧ" t3="Л" uri="58625-ch-la" id="58625">
+     <l pos="Adv">чӧла</l>
+       <l_var type="molodtsov-cyr">чӧла</l_var>
+     <stg>
+       <st Contlex="ADV_">чӧла</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+         <tg xml:lang="eng">
+            <t pos="Adv">quietly</t>
+         </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">hiljaa</t>
+            <t pos="Adv">vaiti</t>
+       <t pos="Adv">ääneti</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">тихо, бесшумно, спокойно</t>
+     </tg>
+     <xg>
+       <x>чӧла куйлыны</x>
+       <xt xml:lang="fin">maata ääneti</xt>
+       <xt xml:lang="rus">спокойно лежать</xt>
+     </xg>
+     <xg>
+       <x>чӧла мунны</x>
+       <xt xml:lang="fin">kulkea hiljaa</xt>
+       <xt xml:lang="rus">тихо идти</xt>
+     </xg>
+   </mg>
+</e>
 </r>

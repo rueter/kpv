@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e exclude="fst">
+   <lg>
+     <l pos="A">ен</l>
+     <stg>
+       <st Contlex="A_">ен</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <rg><r range_space="dialect"/></rg>
+     <tg xml:lang="rus">
+       <t pos="Det">каждый</t>
+     </tg>
+     <xg>
+       <x>ен петӧм лун</x>
+       <xt xml:lang="fin">joka jumalan päivä</xt>
+       <xt xml:lang="rus">каждый божий день</xt>
+     </xg>
+     <xg>
+       <x>ен рыт</x>
+       <xt xml:lang="fin">joka ilta</xt>
+       <xt xml:lang="rus">каждый вечер</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Det">весь</t>
+       <t pos="Det">целый</t>
+     </tg>
+     <xg>
+       <x>ен арбыд</x>
+       <xt xml:lang="fin">koko syksyn</xt>
+       <xt xml:lang="rus">всю осень</xt>
+     </xg>
+     <xg>
+       <x>ен кузь лун</x>
+       <xt xml:lang="fin">koko pitkän päivän</xt>
+       <xt xml:lang="rus">целый день, весь долгий день</xt>
+     </xg>
+   </mg>
+</e>
+</r> 
