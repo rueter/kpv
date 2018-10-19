@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+<e>
+   <lg t1="М" t2="О" t3="З" uri="31882-moz" id="31882">
+     <l hid="Hom1" pos="Adp">моз</l>
+       <l_var type="molodtsov-cyr">моз</l_var>
+     <stg>
+       <st Contlex="ADP_">моз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adp">как</t>
+       <t pos="Adp">подобно</t>
+     </tg>
+     <xg>
+       <x>батьыс моз</x>
+       <xt xml:lang="rus">подобно отцу</xt>
+     </xg>
+     <xg>
+       <x>важ моз, важ мозыс</x>
+       <xt xml:lang="rus">по-прежнему</xt>
+     </xg>
+     <xg>
+       <x>кагакӧд сёрнитны ыджыдкӧд моз</x>
+       <xt xml:lang="rus">разговаривать с ребёнком, как со взрослым</xt>
+     </xg>
+     <xg>
+       <x>мач моз чеччавны</x>
+       <xt xml:lang="rus">подпрыгивать, как мяч</xt>
+     </xg>
+     <xg>
+       <x>ведраысь моз кутіс киссьыны зэр</x>
+       <xt xml:lang="rus">как из ведра полил дождь</xt>
+     </xg>
+     <xg>
+       <x>сьылӧ колипкай моз</x>
+       <xt xml:lang="rus">поёт, словно соловей</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="N">почти</t>
+     </tg>
+     <xg>
+       <x>воча моз пукавны</x>
+       <xt xml:lang="rus">сидеть почти напротив</xt>
+     </xg>
+     <xg>
+       <x>орччӧн моз</x>
+       <xt xml:lang="rus">почти рядом</xt>
+     </xg>
+     <xg>
+       <x>тшӧктыны мырдысьӧн моз</x>
+       <xt xml:lang="rus">заставить почти насильно</xt>
+     </xg>
+     <xg>
+       <x>самолёт лэбзис му бердтіыс моз</x>
+       <xt xml:lang="rus">самолёт пролетел почти над самой землёй</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Ь" t3="Ы" uri="35519-n-ylyd" id="35519">
+     <l pos="Adp">ньылыд</l>
+       <l_var type="molodtsov-cyr">ԋылыԁ</l_var>
+     <stg>
+       <st Contlex="ADP_">ньылыд</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adp">по чему-либо (в каком-либо направлении)</t>
+     </tg>
+     <xg>
+       <x>ва ньылыд</x>
+       <xt xml:lang="rus">по течению</xt>
+     </xg>
+     <xg>
+       <x>гӧн ньылыд</x>
+       <xt xml:lang="rus">по шерсти</xt>
+     </xg>
+     <xg>
+       <x>тӧв ньылыд</x>
+       <xt xml:lang="rus">по ветру</xt>
+     </xg>
+     <xg>
+       <x>юрси ньылыд шыльӧдны</x>
+       <xt xml:lang="rus"><sense sense="literal:прям."/>и <sense sense="figurative:перен."/>гладить по голове</xt>
+     </xg>
+   </mg>
+</e>
+</r> 

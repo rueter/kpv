@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
-  <e exclude="fst">
+ <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+<e exclude="fst">
    <lg>
      <l pos="Adv">асінын</l>
      <stg>
@@ -21,7 +21,7 @@
      </xg>
    </mg>
 </e>
-  <e exclude="fst">
+<e exclude="fst">
    <lg>
      <l pos="Adv">асінӧ</l>
      <stg>
@@ -39,7 +39,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Adv">бӧръявыв</l>
      <stg>
@@ -61,7 +61,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg t1="Д" t2="О" t3="Р" uri="14236-dorvyv" id="14236">
      <l pos="Adv">дорвыв</l>
        <l_var type="molodtsov-cyr">ԁорвыв</l_var>
@@ -139,7 +139,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg t1="В" t2="Е" t3="К" uri="5472-vek" id="5472">
      <l hid="Hom1" pos="Adv">век</l>
        <l_var type="molodtsov-cyr">век</l_var>
@@ -198,7 +198,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg t1="Г" t2="О" t3="З" uri="10256-goz-m-dys-" id="10256">
      <l pos="Adv">гоз-мӧдысь</l>
        <l_var type="molodtsov-cyr">гоз-мӧԁыԍ</l_var>
@@ -256,7 +256,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Adv">мӧлынь</l>
      <stg>
@@ -277,7 +277,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg t1="Д" t2="Е" t3="Л" uri="12359-del-" id="12359">
      <l pos="Adv">делӧ</l>
        <l_var type="molodtsov-cyr">ԃелӧ</l_var>
@@ -336,7 +336,7 @@
      </xg>
    </mg>
 </e>
-  <e exclude="fst">
+<e exclude="fst">
    <lg t1="З" t2="О" t3="Н" uri="17415-zon" id="17415">
      <l pos="Adv" type="вводн. сл.">зон</l>
        <l_var type="molodtsov-cyr">зон</l_var>
@@ -364,7 +364,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg t1="Ч" t2="Ӧ" t3="Л" uri="58625-ch-la" id="58625">
      <l pos="Adv">чӧла</l>
        <l_var type="molodtsov-cyr">чӧла</l_var>
@@ -374,12 +374,12 @@
    </lg>
    <mg relId="0">
      <defNative/>
-         <tg xml:lang="eng">
-            <t pos="Adv">quietly</t>
-         </tg>
+     <tg xml:lang="eng">
+       <t pos="Adv">quietly</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Adv">hiljaa</t>
-            <t pos="Adv">vaiti</t>
+       <t pos="Adv">vaiti</t>
        <t pos="Adv">ääneti</t>
      </tg>
      <tg xml:lang="rus">
@@ -397,4 +397,141 @@
      </xg>
    </mg>
 </e>
-</r>
+<e exclude="fst">
+   <lg t1="Н" t2="И" t3="Т" uri="34707-nitsh" id="34707">
+     <l hid="Hom2" pos="Adv">нитш</l>
+       <l_var type="molodtsov-cyr">ԋіщ</l_var>
+     <stg>
+       <st Contlex="ADV_">нитш</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <rg><r range_space="dialect"/></rg>
+     <tg xml:lang="rus">
+       <t pos="N">неподвижно</t>
+     </tg>
+     <xg>
+       <x>нитш куйлыны</x>
+       <xt xml:lang="rus">лежать неподвижно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Ь" t3="Ы" uri="35457-n-yv" id="35457">
+     <l hid="Hom2" pos="Adv">ньыв</l>
+       <l_var type="molodtsov-cyr">ԋыв</l_var>
+     <stg>
+       <st Contlex="ADV_">ньыв</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ньылыд</s></sg>
+     <tg xml:lang="rus">
+       <t re="терпить возражений" pos="N">возражений</t>
+     </tg>
+     <xg>
+       <x>век мед тэд ньыв</x>
+       <xt xml:lang="rus">ты не терпишь возражений</xt>
+       <xt src_type="literally:буквально" xml:lang="rus">чтобы всегда по-твоему</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Ь" t3="Ы" uri="35519-n-ylyd" id="35519">
+     <l pos="Adv">ньылыд</l>
+       <l_var type="molodtsov-cyr">ԋылыԁ</l_var>
+     <stg>
+       <st Contlex="ADV_">ньылыд</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv"></t>
+     </tg>
+     <xg>
+       <x>ньылыд мунны</x>
+       <xt xml:lang="rus">соглашаться, не возражать</xt>
+     </xg>
+     <xg>
+       <x>ньылыд сёрнитны</x>
+       <xt xml:lang="eng">speak in agreement with</xt>
+       <xt xml:lang="fin">myötäillä</xt>
+       <xt xml:lang="rus">соглашаться (на словах); не противоречить; не возражать</xt>
+     </xg>
+     <xg>
+       <x>ньылыд сетчыны</x>
+       <xt xml:lang="rus">уступать, уступить</xt>
+     </xg>
+     <xg>
+       <x>найӧ кытшлалісны венсьыс, ньылыд сетчылісны ӧта-мӧдыслы</x>
+       <xt xml:lang="rus">они избегали споров, уступали друг другу</xt>
+     </xg>
+     <xg>
+       <x>ньылыд шуӧм кывъясыс сьӧлӧм вылас воисны сылы</x>
+       <xt xml:lang="rus">слова поддержки пришлись ему по сердцу</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="У" t3="Т" uri="43565-putkyl-" id="43565">
+     <l hid="Hom2" pos="Adv">путкыль</l>
+       <l_var type="molodtsov-cyr">путкыԉ</l_var>
+     <stg>
+       <st Contlex="ADV_">путкыль</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">ylösalaisin</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">вверх дном</t>
+     </tg>
+     <xg>
+       <x>мӧдар путкыль</x>
+       <xt register="conversation" xml:lang="rus">кавардак</xt>
+       <xt xml:lang="rus">вверх дном</xt>
+     </xg>
+     <xg>
+       <x>ставыс лои мӧдар путкыль</x>
+       <xt register="conversation" xml:lang="rus">всё пошло шиворот-навыворот</xt>
+     </xg>
+     <xg>
+       <x>мӧдар путкыль путкыльтны</x>
+       <xt xml:lang="rus">всё перевернуть вверх дном (в доме)</xt>
+       <xt sense="figurative:переносном" xml:lang="rus">обернуть, перевернуть, повернуть совсем наоборот</xt>
+       <xt xml:lang="rus">придать делу неожиданный оборот</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Ы" t3="Д" uri="43729-pydi" id="43729">
+     <l hid="Hom1" pos="Adv">пыді</l>
+       <l_var type="molodtsov-cyr">пыԁі</l_var>
+     <stg>
+       <st Contlex="ADV_">пыді</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">глубоко</t>
+     </tg>
+     <xg>
+       <x>пыді гӧрӧм</x>
+       <xt xml:lang="rus">глубокая вспашка</xt>
+     </xg>
+     <xg>
+       <x>пыді гӧрны</x>
+       <xt xml:lang="rus">глубоко пахать</xt>
+     </xg>
+     <xg>
+       <x>пыжыс пыді пукалӧ</x>
+       <xt xml:lang="rus">лодка сидит глубоко</xt>
+     </xg>
+     <xg src_type="saying:поговорка">
+       <x>увттӧм понйыд пыдіджык пурӧ</x>
+       <xt xml:lang="rus">в тихом омуте черти водятся</xt>
+       <xt t_type="literally:буквально" xml:lang="rus">собака, которая не лает, больше кусается</xt>
+     </xg>
+   </mg>
+</e>
+</r> 

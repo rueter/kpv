@@ -11,7 +11,8 @@
      <tg xml:lang="fin">
        <t descr_trans="yöllä syntyneen lehmän nimi" pos="N">Vojan</t>
      </tg>
-     <tg xml:lang="rus"> <t pos="N">кличка коровы, родившейся ночью</t>
+     <tg xml:lang="rus">
+       <t pos="N">кличка коровы, родившейся ночью</t>
      </tg>
    </mg>
 </e>
@@ -75,4 +76,4 @@
      </tg>
    </mg>
 </e>
-</r>
+</r> 
