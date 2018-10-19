@@ -50737,8 +50737,7 @@
      <xg>
        <x>бӧбӧ кольны</x>
        <xt xml:lang="fin">jäädä puille paljaille</xt>
-       <xtCtn>
-       <xt xml:lang="rus">остаться на бобах</xt> <rg><r range_space="colloquial:просторечное"/></rg> </xtCtn>
+       <xt xml:lang="rus">остаться на бобах</xt> <rg><r range_space="colloquial:просторечное"/></rg>
      </xg>
      <xg src_type="saying:поговорка">
        <x>бӧб морт и кык керка костӧ ылалӧ</x>
@@ -55094,13 +55093,6 @@
      </xg>
    </mg>
    <mg relId="1">
-       <re>от</re>
-     <xg>
-       <x>видзны</x>
-       <xtCtn>
-       <xt xml:lang="rus"/>
-       <re>в 6 знач.</re> </xtCtn>
-     </xg>
      <xg>
        <x>ас видзан скӧт</x>
        <xt xml:lang="fin">yksityiskarja</xt>
@@ -58690,9 +58682,7 @@
      </tg>
      <xg>
        <x>гар бӧжӧн мунны, люнь бӧжӧн локны</x>
-       <xtCtn>
-       <xt xml:lang="rus">с поднятым хвостом уйти, а со спущенным вернуться</xt>
-       <re>о неисполнении желания</re> </xtCtn>
+       <xt xml:lang="rus">с поднятым хвостом уйти, а со спущенным вернуться (о неисполнении желания)</xt>
      </xg>
    </mg>
 </e>
@@ -64401,8 +64391,8 @@
      </tg>
      <xg>
        <x>кальӧг вома вомӧн видзӧдлыны</x>
-       <xtCtn> <sense sense="figurative:переносная"/>
-       <xt xml:lang="rus">посмотреть с удивлением</xt> </xtCtn>
+       <sense sense="figurative:переносная"/>
+       <xt xml:lang="rus">посмотреть с удивлением</xt>
      </xg>
    </mg>
 </e>
@@ -69291,15 +69281,13 @@
      </xg>
      <xg>
        <x>кыз путкыль</x>
-       <xtCtn>
-       <xt xml:lang="rus">толстуха, толстушка</xt> <rg><r range_space="colloquial:просторечное"/></rg> </xtCtn>
+       <xt xml:lang="rus">толстуха, толстушка</xt> <rg><r range_space="colloquial:просторечное"/></rg>
        <xt xml:lang="rus">толстяк</xt>
      </xg>
      <xg>
        <x>кыз рушкуа</x>
-       <xt xml:lang="fin">lpaksumahainen</xt>
-       <xtCtn>
-       <xt xml:lang="rus">толстобрюхый</xt> <rg><r range_space="colloquial:просторечное"/></rg> </xtCtn>
+       <xt xml:lang="fin">paksumahainen</xt>
+       <xt xml:lang="rus">толстобрюхый</xt> <rg><r range_space="colloquial:просторечное"/></rg>
      </xg>
      <xg>
        <x>лёк кыз</x>
@@ -84795,8 +84783,7 @@
      <xg>
        <x>сьӧд книга</x>
        <xt xml:lang="fin">mustakirja</xt>
-       <xtCtn>
-       <xt xml:lang="rus">чёрная книга</xt> <rg><r range_time="obsolete:устаревшее"/></rg> </xtCtn>
+       <xt xml:lang="rus">чёрная книга</xt> <rg><r range_time="obsolete:устаревшее"/></rg>
      </xg>
      <xg>
        <x>сьӧд кутысь</x>
