@@ -534,4 +534,194 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="К" t2="Ы" t3="З" uri="26463-kyz-ys-" id="26463">
+     <l pos="Adv">кызьысь</l>
+       <l_var type="molodtsov-cyr">кыԅыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">кызьысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">двадцать раз</t>
+     </tg>
+     <xg>
+       <x>кызьысь ветлыны вӧрӧ</x>
+       <xt xml:lang="rus">двадцать раз сходить в лес</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="З" uri="26462-kyz-dys-" id="26462">
+     <l pos="Adv">кызьӧдысь</l>
+       <l_var type="molodtsov-cyr">кыԅӧԁыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">кызьӧдысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">двадцатый раз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="М" uri="26712-kymyn-dys-" id="26712">
+     <l pos="Adv">кымынӧдысь</l>
+       <l_var type="molodtsov-cyr">кымынӧԁыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">кымынӧдысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">который раз</t>
+     </tg>
+     <xg>
+       <x>кымынӧдысь кӧсйысян?</x>
+       <xt xml:lang="rus">который раз обещаешь?</xt>
+     </xg>
+     <xg>
+       <x>кымынӧдысь нин шыӧдчис</x>
+       <xt xml:lang="rus">который раз уже обратился</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32224-m-dys-" id="32224">
+     <l pos="Adv">мӧдысь</l>
+       <l_var type="molodtsov-cyr">мӧԁыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">мӧдысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">вторично, второй раз, повторно</t>
+       <t pos="A">повторный</t>
+     </tg>
+     <xg>
+       <x>мӧдысь ранитчӧм</x>
+       <xt xml:lang="rus">повторное ранение</xt>
+     </xg>
+     <xg>
+       <x>мӧдысь юавны</x>
+       <xt xml:lang="rus">спросить повторно</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="Adv">в следующий раз</t>
+       <t pos="Adv">в другой раз</t>
+     </tg>
+     <xg>
+       <x>мӧдысь кӧть оз ёрны</x>
+       <xt xml:lang="rus">в другой раз хоть не проклянут</xt>
+     </xg>
+     <xg>
+       <x>мӧдысьӧдз кольлыны</x>
+       <xt xml:lang="rus">оставить до другого раза</xt>
+     </xg>
+     <xg>
+       <x>мӧдысьӧдзыс на колӧ овны</x>
+       <xt xml:lang="rus">до другого раза ещё нужно дожить</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t pos="Adv">когда-нибудь</t>
+     </tg>
+     <xg>
+       <x>мӧдысь вола, прӧст кадӧ</x>
+       <xt xml:lang="rus">приду когда-нибудь, в свободное время</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Ӧ" t3="В" uri="41536-p-v-m-dys-" id="41536">
+     <l pos="Adv">пӧв-мӧдысь</l>
+       <l_var type="molodtsov-cyr">пӧв-мӧԁыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">пӧв-мӧдысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">пару раз, несколько раз</t>
+     </tg>
+     <xg>
+       <x>ме сэн пӧв-мӧдысь нин вӧлі</x>
+       <xt xml:lang="rus">я бывал там уже несколько раз</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Ӧ" t3="Л" uri="41894-p-lys-m-dys-" id="41894">
+     <l pos="Adv">пӧлысь-мӧдысь</l>
+       <l_var type="molodtsov-cyr">пӧлыԍ-мӧԁыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">пӧлысь-мӧдысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">раз-другой, несколько раз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="В" t3="А" uri="20468-kvaijt-dys-" id="20468">
+     <l pos="Adv">квайтӧдысь</l>
+       <l_var type="molodtsov-cyr">квајтӧԁыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">квайтӧдысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">(в) шестой раз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="В" t3="А" uri="20482-kvaijtys-" id="20482">
+     <l pos="Adv">квайтысь</l>
+       <l_var type="molodtsov-cyr">квајтыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">квайтысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">шесть раз</t>
+     </tg>
+     <xg>
+       <x>квайтысь шуны</x>
+       <xt xml:lang="rus">сказать шесть раз</xt>
+     </xg>
+     <xg>
+       <x>квайтысь квайт – комын квайт</x>
+       <xt xml:lang="rus">шестью шесть – тридцать шесть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Й" uri="22136-koijm-dys-" id="22136">
+     <l pos="Adv">коймӧдысь</l>
+       <l_var type="molodtsov-cyr">којмӧԁыԍ</l_var>
+     <stg>
+       <st Contlex="ADV_">коймӧдысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">(в) третий раз</t>
+     </tg>
+     <xg>
+       <x>коймӧдысь копыртчыны</x>
+       <xt xml:lang="rus">в третий раз наклониться</xt>
+     </xg>
+   </mg>
+</e>
 </r> 

@@ -1188,6 +1188,54 @@
 </e>
 <e>
    <lg t1="Д" t2="О" t3="Н" uri="14094-don" id="14094">
+     <l hid="Hom2" pos="A">дон</l>
+       <l_var type="molodtsov-cyr">ԁон</l_var>
+     <stg>
+       <st Contlex="A_">дон</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="A">калёный</t>
+       <t pos="A">раскалённый</t>
+     </tg>
+     <xg>
+       <x>чужӧмыс дон</x>
+       <sense sense="figurative:перен."/>
+       <xt xml:lang="rus">лицо (у него) красное (чаще о пьяном человеке)</xt>
+     </xg>
+     <xg>
+       <x>дон еджыдӧдз</x>
+       <xt xml:lang="rus">добела</xt>
+     </xg>
+     <xg>
+       <x>дон кӧрт</x>
+       <xt xml:lang="rus">калёное железо</xt>
+     </xg>
+     <xg>
+       <x>дон ӧгыр</x>
+       <xt xml:lang="rus">раскалённые угли</xt>
+     </xg>
+     <xg>
+       <x>дон шонді</x>
+       <xt xml:lang="rus">яркое солнце</xt>
+     </xg>
+     <xg>
+       <x>дон дӧлалӧ кумач дӧра</x>
+       <sense sense="figurative:перен."/><xt xml:lang="rus">ярким пламенем развевается кумач</xt>
+     </xg>
+     <xg>
+       <x>ӧгыр вылын кӧ верман сулавны, и сэн верман овны</x>
+       <xt xml:lang="rus">если сможешь стоять на горящих углях, то и там сможешь жить</xt>
+     </xg>
+     <xg>
+       <x>дон кӧртӧн моз дзижавны</x>
+       <xt xml:lang="rus">как калёным железом обжигать (ругать)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Н" uri="14094-don" id="14094">
      <l hid="Hom3" pos="A">дон</l>
        <l_var type="molodtsov-cyr">ԁон</l_var>
      <stg>
@@ -7997,7 +8045,7 @@
      </tg><br/>
      <xg>
        <x>джаджъя морӧса</x>
-       <xt xml:lang="rus"><sense sense="figurative:перен."/>грудь колесом</xt>
+       <sense sense="figurative:перен."/><xt xml:lang="rus">грудь колесом</xt>
      </xg><br/>
      <xg>
        <x>джаджъя рушку</x>
@@ -11633,7 +11681,7 @@
      </xg><br/>      а) с открытым ртом<br/>      б) <sense sense="figurative:перен."/>болтливый, невоздержанный на язык<br/>
      <xg>
        <x>   кальӧг вомӧн видзӧдлыны</x>
-       <xt xml:lang="rus"><sense sense="figurative:перен."/>посмотреть с удивлением</xt>
+       <sense sense="figurative:перен."/><xt xml:lang="rus">посмотреть с удивлением</xt>
      </xg>
    </mg>
 </e>
@@ -37113,7 +37161,7 @@
      </tg><br/>
      <xg>
        <x>чукъя олӧм</x>
-       <xt xml:lang="rus"><sense sense="figurative:перен."/>полноценная жизнь</xt>
+       <sense sense="figurative:перен."/><xt xml:lang="rus">полноценная жизнь</xt>
      </xg><br/>
      <xg>
        <x>дозйын чӧдйыс чукъя</x>

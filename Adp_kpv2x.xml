@@ -89,4 +89,30 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="Д" t2="О" t3="Н" uri="14094-don" id="14094">
+     <l hid="Hom4" pos="Adp">дон</l>
+       <l_var type="molodtsov-cyr">ԁон</l_var>
+     <stg>
+       <st Contlex="ADP_">дон</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t t_type="f" pos="Pr">редко в роли послелога вместо, за</t>
+       <t pos="Pr">вместо</t>
+       <t pos="Pr">за</t>
+     </tg>
+     <xg>
+       <x>сы дон</x>
+       <xt xml:lang="rus">за него</xt>
+       <xt xml:lang="rus">вместо него</xt>
+     </xg>
+     <xg>
+       <x>пӧльыс абуджык сёрниа, и пӧчӧыс сы дон тшӧтш сёрнитіс</x>
+       <xt xml:lang="fin">Ukko ei ole kovin puhelias, ja mummo puhui hänenkin puolestaan.</xt>
+       <xt xml:lang="rus">дед не очень разговорчив, и старуха за него тоже говорила</xt>
+     </xg>
+   </mg>
+</e>
 </r> 
