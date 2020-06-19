@@ -94068,4 +94068,92 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="В" uri="23727-k-vt-m" id="23727">
+     <l pos="A">кӧвтӧм</l>
+       <l_var type="molodtsov-cyr">кӧвтӧм</l_var>
+     <stg>
+       <st Contlex="Adj">кӧвтӧм</st>
+     </stg>
+   </lg> <pos>CAR_A</pos>
+   <mg>
+     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="N">без шнурка</t>
+     </tg>
+     <xg>
+       <x>ботинкиыс кӧвтӧм</x>
+       <xt xml:lang="fin">nauhattomat kengät</xt>
+       <xt xml:lang="rus">ботинки без шнурка</xt>
+     </xg>
+     <xg>
+       <x>кӧвтӧм кузов моз кӧласьны</x>
+       <xt xml:lang="rus">навязаться подобно кузову без лямок</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="Т" uri="24481-k-ta" id="24481">
+     <l pos="A">кӧта</l>
+       <l_var type="molodtsov-cyr">кӧта</l_var>
+     <stg>
+       <st Contlex="A_">кӧта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="A">damp</t>
+     </tg>
+<rg><r range_space="dialect"/></rg>
+     <tg xml:lang="rus">
+       <t pos="A">сырой</t>
+       <t pos="A">мокрый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="А" t3="П" uri="27695-lapk-s" id="27695">
+     <l pos="A">лапкӧс</l>
+       <l_var type="molodtsov-cyr">лапкӧс</l_var>
+     <stg>
+       <st Contlex="A_">лапкӧс</st>
+     </stg>
+   </lg>
+   <mg relId="0"><rg><r range_space="dialect"/></rg><sg><s pos="N" s_type="seeAlso">плавкӧс</s></sg>
+     <tg xml:lang="rus">
+       <t pos="N">плоский, сплюснутый, приплюснутый</t>
+     </tg>
+   </mg>
+   <mg relId="1"> <sg><s mgid="mgID2" pos="N" s_type="see">лажмыд</s></sg>
+     <xg>
+       <x>лапкӧс пу</x>
+       <xt xml:lang="rus">невысокое дерево</xt>
+     </xg>
+   </mg>
+   <mg relId="2"> <sg><s mgid="mgID1" pos="N" s_type="seeAlso">увтас</s></sg>
+     <tg xml:lang="rus">
+       <t pos="N">низкий, низменный</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="Ы" t3="Н" uri="33134-mynt-m" id="33134">
+     <l pos="A">мынтӧм</l>
+       <l_var type="molodtsov-cyr">мынтӧм</l_var>
+     <stg>
+       <st Contlex="Adj">мынтӧм</st>
+     </stg>
+   </lg> <pos>CAR_A</pos>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">не сходящий, не стирающийся</t>
+       <t pos="A">стойкий</t>
+     </tg>
+     <xg>
+       <x>мынтӧм краска</x>
+       <xt xml:lang="rus">стойкая краска</xt>
+     </xg>
+   </mg>
+</e>
 </r> 

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e>
+   <lg t1="Н" t2="И" t3="Н" uri="34643-nin-m" id="34643">
+     <l pos="Pron">нинӧм</l>
+       <l_var type="molodtsov-cyr">ԋінӧм</l_var>
+     <stg>
+       <st Contlex="PRON-NEG">нинӧм</st>
+     </stg>
+   </lg>
+      <mg relId="0">
+         <defNative/>
+         <tg xml:lang="eng">
+            <t pos="Pron">nothing</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Pron">ei mitään</t>
+         </tg>
+     <tg xml:lang="rus">
+       <t pos="Pron">отрицательное (частица, предложение)</t>
+            <t pos="Pron">ничто</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="Pron">ничего</t>
+         </tg>
+         <xg>
+            <x>ме нинӧм эг вӧч</x>
+            <xt xml:lang="rus">я ничего не сделал</xt>
+         </xg>
+         <xg>
+            <x>нинӧм менӧ оз гажӧд</x>
+            <xt xml:lang="rus">ничто меня не веселит</xt>
+         </xg>
+         <xg>
+            <x>нинӧм менӧ оз кут</x>
+            <xt xml:lang="rus">ничто меня не удерживает</xt>
+         </xg>
+         <xg>
+            <x>нинӧм он вӧч</x>
+            <xt xml:lang="rus">ничего не поделаешь</xt>
+         </xg>
+         <xg>
+            <x>нинӧм он шу</x>
+            <xt xml:lang="rus">ничего не скажешь</xt>
+         </xg>
+     <xg>
+       <x>нинӧм вылӧ</x>
+       <xt xml:lang="rus">ни за что (отказ)</xt>
+     </xg>
+         <xg>
+            <x>нинӧм вылӧ ог висьтав</x>
+            <xt xml:lang="rus">ни за что не скажу</xt>
+         </xg>
+         <xg>
+            <x>нинӧм вылӧ видзӧдтӧг</x>
+            <xt xml:lang="rus">несмотря ни на что</xt>
+         </xg>
+         <xg>
+            <x>нинӧм йылысь оз думайт</x>
+            <xt xml:lang="rus">он ни о чём не думает</xt>
+         </xg>
+         <xg>
+            <x>нинӧм кежысь кольны</x>
+            <xt xml:lang="rus">остаться ни при чём</xt>
+         </xg>
+     <xg>
+       <x msd="достигательный падеж">нинӧмла</x>
+       <xt xml:lang="rus">ни для чего; ни за чем</xt>
+     </xg>
+         <xg>
+            <x>тайӧ тэныд нинӧмла</x>
+            <xt xml:lang="rus">это тебе ни к чему</xt>
+         </xg>
+     <xg>
+       <x msd="дательный падеж">нинӧмлы</x>
+       <xt xml:lang="rus">ничему</xt>
+     </xg>
+         <xg>
+            <x>найӧ нинӧмлы нин оз эскыны</x>
+            <xt xml:lang="rus">они уже ничему не верят</xt>
+         </xg>
+     <xg>
+       <x msd="творительный падеж">нинӧмӧн</x>
+       <xt xml:lang="rus">ничем, ни с чем</xt>
+     </xg>
+         <xg>
+            <x>нинӧмӧн оз торъяв</x>
+            <xt xml:lang="rus">ничем не отличается</xt>
+         </xg>
+         <xg>
+            <x>нинӧмӧн торъявтӧм морт</x>
+            <xt xml:lang="rus">ничем не выделяющийся человек</xt>
+         </xg>
+         <xg>
+            <x>сійӧс нинӧмӧн он повзьӧд</x>
+            <xt xml:lang="rus">его ничем не испугаешь</xt>
+         </xg>
+         <xg>
+            <x>сійӧ нинӧмӧн оз артась</x>
+            <xt xml:lang="rus">он ни с чем не считается</xt>
+         </xg>
+         <xg>
+            <x>нинӧмӧн судзтӧм</x>
+            <xt xml:lang="rus">неуязвимый</xt>
+         </xg>
+     <xg>
+       <x><wf msd="Car">нинӧмтӧг</wf> кольны</x>
+       <xt xml:lang="rus">остаться без ничего, остаться ни при чём</xt>
+     </xg>
+     <xg>
+       <x><wf msd="Ela">нинӧмысь</wf> оз кӧсйы</x>
+       <xt xml:lang="rus">ни за что не хочет</xt>
+     </xg>
+     <xg>
+       <x>нинӧмысь оз ошкы</x>
+       <xt xml:lang="rus">ни за что не похвалит (за всё ругает)</xt>
+     </xg>
+         <xg>
+            <x>нинӧмысь эськӧ эг мун сы сайӧ</x>
+            <xt xml:lang="rus">я бы ни за что не пошла за него</xt>
+         </xg>
+         <xg genreType="saying:поговорка">
+            <x>нинӧмсьыд нинкӧм он кы</x>
+            <xt xml:lang="rus">из ничего лапти не сплетёшь</xt>
+         </xg>
+      </mg>
+      <mg No="2">
+         <defNative/>
+         <tg xml:lang="rus">
+            <t pos="Pron">нечего</t>
+         </tg>
+         <xg>
+            <x>вӧчны нинӧм</x>
+            <xt xml:lang="rus">делать нечего</xt>
+         </xg>
+         <xg>
+            <x>нинӧм шогсьыны</x>
+            <xt xml:lang="rus">нечего горевать</xt>
+         </xg>
+         <xg>
+            <x>нинӧм шуны</x>
+            <xt xml:lang="rus">нечего сказать</xt>
+         </xg>
+     <xg>
+       <x>нинӧм вылӧ</x>
+       <xt xml:lang="rus">не за что (ответ на благодарность)</xt>
+     </xg>
+         <xg>
+            <x>нинӧм йылысь</x>
+            <xt xml:lang="rus">не о чём</xt>
+         </xg>
+         <xg>
+            <x>нинӧм йылысь тӧждысьны</x>
+            <xt xml:lang="eng">There is nothing to worry about.</xt>
+            <xt xml:lang="rus">не о чём беспокоиться</xt>
+         </xg>
+         <xg>
+            <x>нинӧмла</x>
+            <xt xml:lang="rus">не за чем</xt>
+            <xt xml:lang="rus">не для чего</xt>
+            <xt pos="ADV" xml:lang="rus">незачем</xt>
+         </xg>
+         <xg>
+            <x>нинӧмла тэныд сэтчӧ мунны</x>
+            <xt xml:lang="rus">незачем (не для чего) тебе туда идти</xt>
+         </xg>
+         <xg>
+            <x>нинӧмла юасьны</x>
+            <xt xml:lang="rus">незачем спрашивать</xt>
+         </xg>
+         <xg>
+            <x>нинӧмӧн</x>
+            <xt xml:lang="rus">нечем</xt>
+            <xt xml:lang="rus">не с чем</xt>
+         </xg>
+         <xg>
+            <x>нинӧмӧн нимкодясьны</x>
+            <xt xml:lang="rus">нечему радоваться</xt>
+         </xg>
+         <xg>
+            <x>нинӧмысь</x>
+            <xt xml:lang="fin">ei kestä (vastaus kiitokseen)</xt>
+            <xt xml:lang="rus">не за что</xt>
+         </xg>
+         <xg>
+            <x>нинӧмысь видны</x>
+            <xt xml:lang="fin">olla moittimatta mistään</xt>
+            <xt xml:lang="fin">olla riitelemättä mistään</xt>
+            <xt xml:lang="rus">не за что ругать</xt>
+         </xg>
+         <xg>
+            <x>нинӧмысь мыждыны</x>
+            <xt xml:lang="fin">olla syyttämättä mistään</xt>
+            <xt xml:lang="rus">не за что обвинять</xt>
+         </xg>
+         <xg>
+            <x>татчӧ нинӧм содтыны</x>
+            <xt xml:lang="fin">Tähän ei ole mitään lisäämistä.</xt>
+            <xt xml:lang="rus">к этому нечего прибавить</xt>
+         </xg>
+      </mg>
+      <mg relId="1">
+         <tg xml:lang="rus">
+            <t pos="Pron">(в роли нареч.) ничего</t>
+         </tg>
+         <xg>
+           <x>вердӧнысӧ нинӧм</x>
+	   <xt xml:lang="rus">кормят там ничего (сносно, прилично)</xt>
+         </xg>
+         <xg>
+            <x>нинӧм , прӧйдитас</x>
+            <xt xml:lang="rus">ничего, пройдёт</xt>
+         </xg>
+         <xg>
+            <x>тайӧ нинӧм на</x>
+            <xt xml:lang="rus">это ещё ничего</xt>
+         </xg>
+      </mg>
+      <mg relId="2">
+     <tg xml:lang="eng">
+       <t pos="N">jibberish</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">(ei) mikään</t>
+       <t pos="N">(ei) mitään</t>
+       <t pos="N">hölynpöly</t>
+     </tg>
+         <tg xml:lang="rus">
+	   <t>(в роли существительного)</t>
+            <t pos="N">пустое, вздор</t>
+         </tg>
+         <xg>
+            <x>нинӧмсӧ эн сӧр</x>
+            <xt xml:lang="rus">не мели вздор</xt>
+         </xg>
+         <xg>
+            <x>нинӧм абу</x>
+            <xt xml:lang="fin">ei ole mitään</xt>
+            <xt xml:lang="rus">ничего нет</xt>
+            <xt xml:lang="rus">пустяки, пустое</xt>
+            <xt xml:lang="rus">вздор, чушь, чепуха</xt>
+            <xt xml:lang="rus">глупости</xt>
+         </xg>
+         <xg>
+            <x>нинӧм абусӧ висьтавны</x>
+            <xt xml:lang="fin">puhua joutavia</xt>
+            <xt>puhuä pötyä</xt>
+            <xt xml:lang="rus">говорить глупости, говорить чепуху</xt>
+         </xg>
+         <xg>
+            <x>нинӧм абу сӧрны</x>
+            <xt xml:lang="rus">молоть ерунду, молоть вздор</xt>
+            <xt xml:lang="rus">нести чушь</xt>
+         </xg>
+         <xg>
+            <x>нинӧм изны</x>
+            <xt xml:lang="rus">молоть ерунду, молоть вздор</xt>
+            <xt xml:lang="rus">нести чушь</xt>
+         </xg>
+         <xg>
+            <x>нинӧм абуысь</x>
+            <xt xml:lang="rus">за пустяки, по пустякам, беспричинно, из-за пустяков</xt>
+         </xg>
+         <xg>
+            <x>нинӧм абусьыс оз сулав лёксьыны</x>
+            <xt xml:lang="rus">из-за пустяков не стоит ссориться</xt>
+         </xg>
+         <xg>
+            <x>нинӧм абуысь гез гартны</x>
+            <xt xml:lang="rus">делать из мухи слона</xt>
+            <xt t_type="literally:буквально" xml:lang="rus">из ничего вить верёвку</xt>
+         </xg>
+         <xg>
+            <x>нинӧм абу туйын овны</x>
+       <xt xml:lang="rus">держать себя, вести себя скромно, держаться в тени (не выказывая своих знаний, уменья)</xt>
+         </xg>
+         <xg>
+            <x>нинӧм дон оз сулав</x>
+            <xt xml:lang="fin">ei ole minkään arvoinen</xt>
+            <xt>olla arvoton</xt>
+            <xt xml:lang="rus">ничего не стоит</xt>
+         </xg>
+         <xg>
+            <x>меным тайӧ нинӧм дон оз сулав</x>
+            <xt xml:lang="fin">Tämä ei ole minulle minkään arvoinen.</xt>
+            <xt>Tämä on minulle arvoton.</xt>
+            <xt xml:lang="rus">мне это ничего не стоит</xt>
+            <xt xml:lang="rus">мне это нипочём</xt>
+         </xg>
+         <xg>
+            <x>пӧръявны сылы нинӧм (дон) оз сулав</x>
+            <xt xml:lang="rus">ему ничего не стоит соврать</xt>
+         </xg>
+         <xg>
+            <x>сійӧ ачыс нинӧм дон оз сулав</x>
+            <xt xml:lang="fin">Hän itse on vähäpätöinen.</xt>
+            <xt>Hän itse on merkityksetön.</xt>
+            <xt>Hän itse on mitätön.</xt>
+            <xt xml:lang="rus">сам он ничего не стоит, сам он никчёмный</xt>
+            <xt xml:lang="rus">сам он никудышный</xt>
+         </xg>
+     <xg>
+       <x><wf msd="Ill">нинӧмӧ</wf> воны</x>
+       <xt t_type="word-for-word:буквально" xml:lang="rus">превратиться в ничто, стать ничем; потерять здоровье, превратиться в калеку</xt>
+     </xg>
+     <xg>
+       <x><wf msd="Ill">нинӧмӧ</wf> пӧрны</x>
+       <xt t_type="word-for-word:буквально" xml:lang="rus">превратиться в ничто, стать ничем; потерять здоровье, превратиться в калеку</xt>
+     </xg>
+         <xg>
+            <x>нинӧмӧ воштыны</x>
+       <xt t_type="word-for-word:буквально" xml:lang="rus">превратить в ничто, извести; искалечить; изувечить (побоями, непосильной работой и т.п.)</xt>
+         </xg>
+         <xg>
+            <x>нинӧм туйӧ пуктыны</x>
+            <xt xml:lang="rus">ни во что не ставить</xt>
+         </xg>
+         <xg>
+            <x>нинӧм нинӧмӧ пуктыны</x>
+            <xt xml:lang="rus">ни во что не ставить</xt>
+         </xg>
+         <xg>
+            <x>нинӧм оз пузьы тіян</x>
+            <xt xml:lang="rus">у вас ничего не получается</xt>
+            <xt t_type="literally:буквально" xml:lang="rus">ничего не закипит у вас</xt>
+         </xg>
+         <xg>
+            <x>нинӧмӧн ог сукмы</x>
+            <xt xml:lang="rus">ничего не хватает</xt>
+            <xt t_type="literally:буквально" xml:lang="rus">ничем не могу загустить</xt>
+         </xg>
+      </mg>
+   </e>
+</r> 
