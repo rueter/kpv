@@ -94156,4 +94156,23 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="О" t2="В" t3="Т" uri="??-ovtasa" id="??">
+     <l pos="A">овтаса</l>
+       <l_var type="molodtsov-cyr">овтаса</l_var>
+     <stg>
+       <st Contlex="A_">овтаса</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="A"/>
+     </tg>
+     <xg>
+       <x>чӧліник <wf msd="">овтаса</wf> ныв</x>
+       <xt xml:lang="rus">тихоня</xt>
+       <xt xml:lang="rus">девушка с тихим нравом</xt>
+     </xg>
+   </mg>
+</e>
 </r> 
