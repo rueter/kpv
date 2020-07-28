@@ -44326,7 +44326,7 @@
        <t pos="A">ahmatti</t>
        <t pos="A">ahmiva</t>
        <t pos="A">ahnehtiva</t>
-       <t pos="A">syöppö</t> <t/>
+       <t pos="A">syöppö</t>
      </tg>
    </mg>
 </e>
@@ -56007,7 +56007,7 @@
    </lg>
    <mg relId="0">
      <defNative/>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
        <t pos="A">jäntevä</t>
        <t pos="A">jänteikäs</t>
        <t pos="A">sitkeä</t>
@@ -63188,7 +63188,7 @@
        <t pos="A">ahkera</t>
        <t pos="A">uuttera</t>
        <t pos="A">työteliäs</t>
-       <t pos="A">nopea??</t> <t/>
+       <t pos="A">nopea??</t>
      </tg>
    </mg>
    <mg>
@@ -70201,7 +70201,7 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">pyöräinen</t>
-       <t pos="A">pyörillä varustettu</t> <t/>
+       <t pos="A">pyörillä varustettu</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">колесо</t>
@@ -70290,7 +70290,7 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">kenkäinen</t>
-       <t pos="A">kengin varustettu</t> <t/>
+       <t pos="A">kengin varustettu</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">обутый</t>
@@ -70320,7 +70320,7 @@
      <tg xml:lang="fin">
        <t pos="A">kengätön</t>
        <t pos="A">paljasjalkainen</t>
-       <t pos="A">avojalkainen</t> <t/>
+       <t pos="A">avojalkainen</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">без обуви</t>
@@ -70352,7 +70352,7 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">kokkareinen</t>
-       <t pos="A">muhkurainen</t> <t/>
+       <t pos="A">muhkurainen</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">комковатый</t>
@@ -70375,7 +70375,7 @@
    <mg relId="0">
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="A">kopeekan hintainen</t> <t/>
+       <t pos="A">kopeekan hintainen</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">копеечный</t>
@@ -75742,7 +75742,7 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">mäkinen</t>
-       <t pos="A">epätasainen</t> <t/>
+       <t pos="A">epätasainen</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">холмистый</t>
@@ -75897,7 +75897,7 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">tummanpunainen</t>
-       <t pos="A">ruskeanpunainen</t> <t/>
+       <t pos="A">ruskeanpunainen</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">тёмно-красный</t>
@@ -89427,7 +89427,7 @@
      </tg>
    </mg>
    <mg relId="3">
-     <tg xml:lang="rus"> <t/>
+     <tg xml:lang="rus">
      </tg> <sg><s pos="N" s_type="seeAlso">писка</s></sg>
    </mg>
 </e>
@@ -89972,7 +89972,7 @@
        <t pos="A">linen</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="A">pellava-</t> <t/>
+       <t pos="A">pellava-</t>
      </tg>
    </mg>
 </e>
@@ -93273,7 +93273,7 @@
        <t pos="A">one-man</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="A">yksinelävä</t> <t/>
+       <t pos="A">yksinelävä</t>
      </tg>
    </mg>
 </e>
