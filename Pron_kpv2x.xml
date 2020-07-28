@@ -243,7 +243,7 @@
          <xg>
             <x>нинӧм абусӧ висьтавны</x>
             <xt xml:lang="fin">puhua joutavia</xt>
-            <xt>puhuä pötyä</xt>
+            <xt xml:lang="fin">puhuä pötyä</xt>
             <xt xml:lang="rus">говорить глупости, говорить чепуху</xt>
          </xg>
          <xg>
@@ -276,13 +276,13 @@
          <xg>
             <x>нинӧм дон оз сулав</x>
             <xt xml:lang="fin">ei ole minkään arvoinen</xt>
-            <xt>olla arvoton</xt>
+            <xt xml:lang="fin">olla arvoton</xt>
             <xt xml:lang="rus">ничего не стоит</xt>
          </xg>
          <xg>
             <x>меным тайӧ нинӧм дон оз сулав</x>
             <xt xml:lang="fin">Tämä ei ole minulle minkään arvoinen.</xt>
-            <xt>Tämä on minulle arvoton.</xt>
+            <xt xml:lang="fin">Tämä on minulle arvoton.</xt>
             <xt xml:lang="rus">мне это ничего не стоит</xt>
             <xt xml:lang="rus">мне это нипочём</xt>
          </xg>
@@ -293,8 +293,8 @@
          <xg>
             <x>сійӧ ачыс нинӧм дон оз сулав</x>
             <xt xml:lang="fin">Hän itse on vähäpätöinen.</xt>
-            <xt>Hän itse on merkityksetön.</xt>
-            <xt>Hän itse on mitätön.</xt>
+            <xt xml:lang="fin">Hän itse on merkityksetön.</xt>
+            <xt xml:lang="fin">Hän itse on mitätön.</xt>
             <xt xml:lang="rus">сам он ничего не стоит, сам он никчёмный</xt>
             <xt xml:lang="rus">сам он никудышный</xt>
          </xg>

@@ -3336,21 +3336,6 @@
      </xg> <sg><s s_type="seeAlso">ӧдйӧ</s></sg>
    </mg>
 </e>
-  <e order="2">
-      <lg>
-         <l pos="Adv">быдла</l>
-         <stg>
-            <st Contlex="ADV-SPAT-LA">быдла</st>
-         </stg>
-      </lg>
-      <pos>ADV-SPAT</pos>
-      <mg>
-         <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
-      </mg>
-   </e>
   <e>
    <lg t1="Б" t2="Ы" t3="Д" uri="4049-bydlador" id="4049">
      <l pos="Adv">быдладор</l>
@@ -10621,20 +10606,6 @@
      </xg>
    </mg>
 </e>
-  <e order="2">
-      <lg>
-         <l pos="Adv">вӧлись</l>
-         <stg>
-            <st Contlex="ADV_">вӧлись</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
-      </mg>
-   </e>
   <e>
    <lg t1="В" t2="Ӧ" t3="Л" uri="8201-v-l-n-ya" id="8201">
      <l pos="Adv">вӧльнӧя</l>
