@@ -11538,16 +11538,25 @@
      <xg>
        <x>пуксӧн узьны делӧ</x>
        <xt xml:lang="fin">On hankala nukkua istuallaan.</xt>
+     </xg>
+     <xg>
+       <x>пуксӧн узьны делӧ</x>
        <xt xml:lang="rus">сидя спать неловко</xt>
      </xg>
      <xg>
        <x>седлӧтӧг мунны делӧ</x>
        <xt xml:lang="fin">Ilman satulaa on hankala kulkea.</xt>
+     </xg>
+     <xg>
+       <x>седлӧтӧг мунны делӧ</x>
        <xt xml:lang="rus">без седла ехать неудобно</xt>
      </xg>
      <xg>
        <x>сувтсӧн гижны делӧ</x>
        <xt xml:lang="fin">On hankalaa kirjoittaa seisten.</xt>
+     </xg>
+     <xg>
+       <x>сувтсӧн гижны делӧ</x>
        <xt xml:lang="rus">писать стоя непривычно</xt>
      </xg>
    </mg>
@@ -11560,6 +11569,9 @@
      <xg>
        <x>меным талун вывті делӧ</x>
        <xt xml:lang="fin">Minulla on tänään hyvin vaikeaa.</xt>
+     </xg>
+     <xg>
+       <x>меным талун вывті делӧ</x>
        <xt xml:lang="rus">мне сегодня очень тяжело</xt>
      </xg>
      <xg>
@@ -11620,11 +11632,17 @@
      <xg>
        <x>чӧла куйлыны</x>
        <xt xml:lang="fin">maata ääneti</xt>
+     </xg>
+     <xg>
+       <x>чӧла куйлыны</x>
        <xt xml:lang="rus">спокойно лежать</xt>
      </xg>
      <xg>
        <x>чӧла мунны</x>
        <xt xml:lang="fin">kulkea hiljaa</xt>
+     </xg>
+     <xg>
+       <x>чӧла мунны</x>
        <xt xml:lang="rus">тихо идти</xt>
      </xg>
    </mg>

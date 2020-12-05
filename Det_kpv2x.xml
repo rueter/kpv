@@ -13,11 +13,17 @@
      <xg>
        <x>ен петӧм лун</x>
        <xt xml:lang="fin">joka jumalan päivä</xt>
+     </xg>
+     <xg>
+       <x>ен петӧм лун</x>
        <xt xml:lang="rus">каждый божий день</xt>
      </xg>
      <xg>
        <x>ен рыт</x>
        <xt xml:lang="fin">joka ilta</xt>
+     </xg>
+     <xg>
+       <x>ен рыт</x>
        <xt xml:lang="rus">каждый вечер</xt>
      </xg>
    </mg>
@@ -30,11 +36,17 @@
      <xg>
        <x>ен арбыд</x>
        <xt xml:lang="fin">koko syksyn</xt>
+     </xg>
+     <xg>
+       <x>ен арбыд</x>
        <xt xml:lang="rus">всю осень</xt>
      </xg>
      <xg>
        <x>ен кузь лун</x>
        <xt xml:lang="fin">koko pitkän päivän</xt>
+     </xg>
+     <xg>
+       <x>ен кузь лун</x>
        <xt xml:lang="rus">целый день, весь долгий день</xt>
      </xg>
    </mg>

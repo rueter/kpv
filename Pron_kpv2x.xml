@@ -179,22 +179,34 @@
          <xg>
             <x>нинӧмысь</x>
             <xt xml:lang="fin">ei kestä (vastaus kiitokseen)</xt>
+         </xg>
+         <xg>
+            <x>нинӧмысь</x>
             <xt xml:lang="rus">не за что</xt>
          </xg>
          <xg>
             <x>нинӧмысь видны</x>
             <xt xml:lang="fin">olla moittimatta mistään</xt>
             <xt xml:lang="fin">olla riitelemättä mistään</xt>
+         </xg>
+         <xg>
+            <x>нинӧмысь видны</x>
             <xt xml:lang="rus">не за что ругать</xt>
          </xg>
          <xg>
             <x>нинӧмысь мыждыны</x>
             <xt xml:lang="fin">olla syyttämättä mistään</xt>
+         </xg>
+         <xg>
+            <x>нинӧмысь мыждыны</x>
             <xt xml:lang="rus">не за что обвинять</xt>
          </xg>
          <xg>
             <x>татчӧ нинӧм содтыны</x>
             <xt xml:lang="fin">Tähän ei ole mitään lisäämistä.</xt>
+         </xg>
+         <xg>
+            <x>татчӧ нинӧм содтыны</x>
             <xt xml:lang="rus">к этому нечего прибавить</xt>
          </xg>
       </mg>
@@ -244,6 +256,9 @@
             <x>нинӧм абусӧ висьтавны</x>
             <xt xml:lang="fin">puhua joutavia</xt>
             <xt xml:lang="fin">puhuä pötyä</xt>
+         </xg>
+         <xg>
+            <x>нинӧм абусӧ висьтавны</x>
             <xt xml:lang="rus">говорить глупости, говорить чепуху</xt>
          </xg>
          <xg>
@@ -277,6 +292,9 @@
             <x>нинӧм дон оз сулав</x>
             <xt xml:lang="fin">ei ole minkään arvoinen</xt>
             <xt xml:lang="fin">olla arvoton</xt>
+         </xg>
+         <xg>
+            <x>нинӧм дон оз сулав</x>
             <xt xml:lang="rus">ничего не стоит</xt>
          </xg>
          <xg>

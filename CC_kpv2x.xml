@@ -54,6 +54,9 @@
      <xg>
        <x>тэрмась, а то сёрман</x>
        <xt xml:lang="fin">Pidä kiirettä muuten jäät hiljaksi.</xt>
+     </xg>
+     <xg>
+       <x>тэрмась, а то сёрман</x>
        <xt xml:lang="rus">спеши, а то опоздаешь</xt>
      </xg>
    </mg>
@@ -77,6 +80,9 @@
      <xg>
        <x>кор мунам, талун али аски?</x>
        <xt xml:lang="fin">Milloin menemme tänään vai huomenna?</xt>
+     </xg>
+     <xg>
+       <x>кор мунам, талун али аски?</x>
        <xt xml:lang="rus">когда уедем, сегодня или завтра?</xt>
      </xg>
    </mg>
