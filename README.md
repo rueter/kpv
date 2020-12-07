@@ -17,3 +17,16 @@ Special thanks are extended to Komi language specialist and facilitators Evgeni 
 
 The Giellatekno infrastructure has begun implementing work with Komi-Zyrian in 2004, and work with this lexicon is shared directly in development on that infrastructure. Thanks to Trond Trosterud, Sjur Moshagen, Ciprian Gerstenberger et al.
 
+Work with the Komi-Zyrian lexicon, native evaluation and mobility, has been further funded by a Kordelin Foundation in 1996.
+
+The Kone Foundation in Helsinki (Language Programme 2013-2017) provided funding for Paula Kokkonen to translate Komi-Russian dictionary work (2012-2016) for a total of 2 years and 8 months -- 2012/1-8, 2014/5-8, 2015/5-12 and 2016/1-12.
+
+
+
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
+Data available since: 2018
+License: CC BY-SA 4.0
+Includes text: yes
+Contributors: Rueter, Jack; Kokkonen, Paula; Fedina, Marina
+Contact: rueter.jack@gmail.com
+===============================================================================
