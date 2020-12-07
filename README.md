@@ -4,7 +4,7 @@
 The Komi-Zyrian to x dictionary is a open-source dictionary, providing source for on-line dictionaries [https://akusanat.com/](https://akusanat.com/) and [https://kyv.oahpa.no/](https://kyv.oahpa.no/) , finite-state-transducer analyzers [https://github.com/giellaLT/lang-kpv](https://github.com/giellaLT/lang-kpv).
 
 # Introduction
-The Komi-Zyrian to x dictionary has its origins in Komi language studies at the University of Helsinki 1994, in the form of the **𐍩̈𐍥𐍚𐍐𐍜𐍩̈𐍥𐍚𐍐, 𐍙𐍤𐍩̈𐍢 𐍚𐍔𐍮𐍮𐍩𐍠 𐍚𐍩𐍜𐍙𐍐-𐍐𐍝𐍒𐍛𐍙𐍡𐍚𐍩̈𐍐-𐍟𐍙𐍝𐍡𐍚𐍩𐍐̈ ** [ӧшка-мӧшка ичӧт кыввор комиа-англискӧя-финскӧя] 'Rainbow vocabulary Komi-English-Finnish'.
+The Komi-Zyrian to x dictionary has its origins in Komi language studies at the University of Helsinki 1994, in the form of the **𐍩̈𐍥𐍚𐍐𐍜𐍩̈𐍥𐍚𐍐, 𐍙𐍤𐍩̈𐍢 𐍚𐍔𐍮𐍮𐍩𐍠 𐍚𐍩𐍜𐍙𐍐-𐍐𐍝𐍒𐍛𐍙𐍡𐍚𐍩̈𐍐-𐍟𐍙𐍝𐍡𐍚𐍩̈𐍐 ** [ӧшка-мӧшка ичӧт кыввор комиа-англискӧя-финскӧя] 'Rainbow vocabulary Komi-English-Finnish'.
 
 As an increment part of finite-state description of the Komi-Zyrian language, the dictionary of over 29,700 entries with Russian as well as partial Finnish and English translation has been used in corpus analyses at both the Norwegian Arctic University, Giellatekno (Tromsø, Norway) http://gtweb.uit.no/u_korp/ and FU-lab (Syktyvkar, Komi Republic, Russian Federation) [http://komicorpora.ru/](http://komicorpora.ru/), [https://dict.fu-lab.ru/dict?id=5109](https://dict.fu-lab.ru/dict?id=5109).
 
