@@ -6,9 +6,16 @@ The Komi-Zyrian to x dictionary is a open-source dictionary, providing source fo
 # Introduction
 The Komi-Zyrian to x dictionary has its origins in Komi language studies at the University of Helsinki 1994, in the form of the **𐍩̈𐍥𐍚𐍐𐍜𐍩̈𐍥𐍚𐍐, 𐍙𐍤𐍩̈𐍢 𐍚𐍔𐍮𐍮𐍩𐍠 𐍚𐍩𐍜𐍙𐍐-𐍐𐍝𐍒𐍛𐍙𐍡𐍚𐍩̈𐍐-𐍟𐍙𐍝𐍡𐍚𐍩𐍐̈ ** [ӧшка-мӧшка ичӧт кыввор комиа-англискӧя-финскӧя] 'Rainbow vocabulary Komi-English-Finnish'.
 
-As an increment part of finite-state description of the Komi-Zyrian language, the dictionary of over 29,700 entries with Russian as well as partial Finnish and English translation has been used in corpus analyses at both the Norwegian Arctic University, Giellatekno (Tromsø, Norway) http://gtweb.uit.no/u_korp/ and FU-lab (Syktyvkar, Komi Republic, Russian Federation) [http://komicorpora.ru/](http://komicorpora.ru/).
+As an increment part of finite-state description of the Komi-Zyrian language, the dictionary of over 29,700 entries with Russian as well as partial Finnish and English translation has been used in corpus analyses at both the Norwegian Arctic University, Giellatekno (Tromsø, Norway) http://gtweb.uit.no/u_korp/ and FU-lab (Syktyvkar, Komi Republic, Russian Federation) [http://komicorpora.ru/](http://komicorpora.ru/), [https://dict.fu-lab.ru/dict?id=5109](https://dict.fu-lab.ru/dict?id=5109).
 
 Nightly builds for python libraries are available at: https://uralicnlp.com/models/
+
+# Cite
+
+If you use this data set in an academic publication, we would be ever so grateful if you cited it as follows:
+Jack Rueter, Paula Kokkonen, Marina Fedina. (2020, December 7). Komi-Zyrian to X lexica.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4309762.svg)](https://doi.org/10.5281/zenodo.4309762)
 
 
 # Acknowledgments
